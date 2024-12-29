@@ -1,0 +1,2247 @@
+pollster,numeric_grade,state,start_date,end_date,sample_size,candidate_name,pct,is_harris
+MassINC Polling Group,2.8,Massachusetts,2024-10-29,2024-11-01,582,Kamala Harris,61,1
+MassINC Polling Group,2.8,Massachusetts,2024-10-29,2024-11-01,582,Donald Trump,31,0
+AtlasIntel,2.7,North Carolina,2024-10-30,2024-10-31,1373,Kamala Harris,46.7,1
+AtlasIntel,2.7,North Carolina,2024-10-30,2024-10-31,1373,Donald Trump,50.7,0
+AtlasIntel,2.7,North Carolina,2024-10-30,2024-10-31,1373,Kamala Harris,47,1
+AtlasIntel,2.7,Arizona,2024-10-30,2024-10-31,1005,Kamala Harris,45.9,1
+AtlasIntel,2.7,Arizona,2024-10-30,2024-10-31,1005,Donald Trump,50.8,0
+AtlasIntel,2.7,Arizona,2024-10-30,2024-10-31,1005,Kamala Harris,46.8,1
+AtlasIntel,2.7,Arizona,2024-10-30,2024-10-31,1005,Donald Trump,51,0
+AtlasIntel,2.7,Georgia,2024-10-30,2024-10-31,1212,Kamala Harris,47.2,1
+AtlasIntel,2.7,Georgia,2024-10-30,2024-10-31,1212,Donald Trump,48.8,0
+AtlasIntel,2.7,Georgia,2024-10-30,2024-10-31,1212,Kamala Harris,47.8,1
+AtlasIntel,2.7,Georgia,2024-10-30,2024-10-31,1212,Donald Trump,50.1,0
+AtlasIntel,2.7,Michigan,2024-10-30,2024-10-31,1136,Kamala Harris,48.3,1
+AtlasIntel,2.7,Michigan,2024-10-30,2024-10-31,1136,Donald Trump,49.2,0
+AtlasIntel,2.7,Michigan,2024-10-30,2024-10-31,1136,Kamala Harris,48.7,1
+AtlasIntel,2.7,Michigan,2024-10-30,2024-10-31,1136,Donald Trump,49.3,0
+AtlasIntel,2.7,Nevada,2024-10-30,2024-10-31,845,Kamala Harris,46.9,1
+AtlasIntel,2.7,Nevada,2024-10-30,2024-10-31,845,Donald Trump,50.5,0
+AtlasIntel,2.7,Nevada,2024-10-30,2024-10-31,845,Kamala Harris,47,1
+AtlasIntel,2.7,Nevada,2024-10-30,2024-10-31,845,Donald Trump,50.6,0
+AtlasIntel,2.7,Pennsylvania,2024-10-30,2024-10-31,1738,Kamala Harris,47.4,1
+AtlasIntel,2.7,Pennsylvania,2024-10-30,2024-10-31,1738,Donald Trump,48.5,0
+AtlasIntel,2.7,Pennsylvania,2024-10-30,2024-10-31,1738,Kamala Harris,47.9,1
+AtlasIntel,2.7,Pennsylvania,2024-10-30,2024-10-31,1738,Donald Trump,49.4,0
+AtlasIntel,2.7,Wisconsin,2024-10-30,2024-10-31,673,Kamala Harris,48.2,1
+AtlasIntel,2.7,Wisconsin,2024-10-30,2024-10-31,673,Donald Trump,48.5,0
+AtlasIntel,2.7,Wisconsin,2024-10-30,2024-10-31,673,Kamala Harris,49,1
+AtlasIntel,2.7,Wisconsin,2024-10-30,2024-10-31,673,Donald Trump,48.8,0
+Change Research,1.4,Nebraska,2024-10-30,2024-10-31,600,Kamala Harris,39,1
+Change Research,1.4,Nebraska,2024-10-30,2024-10-31,600,Donald Trump,57,0
+Emerson,2.9,Nevada,2024-10-29,2024-10-31,700,Kamala Harris,48.6,1
+Emerson,2.9,Nevada,2024-10-29,2024-10-31,700,Donald Trump,48.3,0
+OnMessage Inc.,1.1,Pennsylvania,2024-10-29,2024-10-31,800,Kamala Harris,47,1
+OnMessage Inc.,1.1,Pennsylvania,2024-10-29,2024-10-31,800,Donald Trump,49,0
+OnMessage Inc.,1.1,Michigan,2024-10-29,2024-10-31,800,Kamala Harris,48,1
+OnMessage Inc.,1.1,Michigan,2024-10-29,2024-10-31,800,Donald Trump,48,0
+OnMessage Inc.,1.1,Wisconsin,2024-10-29,2024-10-31,800,Kamala Harris,47,1
+OnMessage Inc.,1.1,Wisconsin,2024-10-29,2024-10-31,800,Donald Trump,48,0
+OnMessage Inc.,1.1,Arizona,2024-10-29,2024-10-31,800,Kamala Harris,47,1
+OnMessage Inc.,1.1,Arizona,2024-10-29,2024-10-31,800,Donald Trump,50,0
+SurveyUSA,2.8,New Mexico,2024-10-28,2024-10-31,632,Kamala Harris,50,1
+SurveyUSA,2.8,New Mexico,2024-10-28,2024-10-31,632,Donald Trump,44,0
+Susquehanna,2.3,Nevada,2024-10-28,2024-10-31,400,Kamala Harris,44.2,1
+Susquehanna,2.3,Nevada,2024-10-28,2024-10-31,400,Donald Trump,50.2,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-28,2024-10-31,652,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-28,2024-10-31,652,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-28,2024-10-31,1779,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-28,2024-10-31,1779,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-28,2024-10-31,1731,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-28,2024-10-31,1731,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-28,2024-10-31,690,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-28,2024-10-31,690,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-28,2024-10-31,1123,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-28,2024-10-31,1123,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-28,2024-10-31,1596,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-28,2024-10-31,1596,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-28,2024-10-31,932,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-28,2024-10-31,932,Donald Trump,47,0
+Noble Predictive Insights,2.4,Nevada,2024-10-28,2024-10-31,593,Kamala Harris,49,1
+Noble Predictive Insights,2.4,Nevada,2024-10-28,2024-10-31,593,Donald Trump,48,0
+YouGov,3,Arizona,2024-10-25,2024-10-31,880,Kamala Harris,47,1
+YouGov,3,Arizona,2024-10-25,2024-10-31,880,Donald Trump,48,0
+YouGov,3,Arizona,2024-10-25,2024-10-31,856,Kamala Harris,48,1
+YouGov,3,Arizona,2024-10-25,2024-10-31,856,Donald Trump,48,0
+YouGov,3,Arizona,2024-10-25,2024-10-31,880,Kamala Harris,49,1
+YouGov,3,Arizona,2024-10-25,2024-10-31,880,Donald Trump,50,0
+YouGov,3,Arizona,2024-10-25,2024-10-31,856,Kamala Harris,49,1
+YouGov,3,Arizona,2024-10-25,2024-10-31,856,Donald Trump,50,0
+YouGov,3,Georgia,2024-10-25,2024-10-31,984,Kamala Harris,46,1
+YouGov,3,Georgia,2024-10-25,2024-10-31,984,Donald Trump,48,0
+YouGov,3,Georgia,2024-10-25,2024-10-31,939,Kamala Harris,47,1
+YouGov,3,Georgia,2024-10-25,2024-10-31,939,Donald Trump,48,0
+YouGov,3,Georgia,2024-10-25,2024-10-31,984,Kamala Harris,48,1
+YouGov,3,Georgia,2024-10-25,2024-10-31,984,Donald Trump,50,0
+YouGov,3,Georgia,2024-10-25,2024-10-31,939,Kamala Harris,48,1
+YouGov,3,Georgia,2024-10-25,2024-10-31,939,Donald Trump,50,0
+YouGov,3,Michigan,2024-10-25,2024-10-31,985,Kamala Harris,47,1
+YouGov,3,Michigan,2024-10-25,2024-10-31,985,Donald Trump,45,0
+YouGov,3,Michigan,2024-10-25,2024-10-31,942,Kamala Harris,48,1
+YouGov,3,Michigan,2024-10-25,2024-10-31,942,Donald Trump,45,0
+YouGov,3,Michigan,2024-10-25,2024-10-31,985,Kamala Harris,50,1
+YouGov,3,Michigan,2024-10-25,2024-10-31,985,Donald Trump,46,0
+YouGov,3,Michigan,2024-10-25,2024-10-31,942,Kamala Harris,50,1
+YouGov,3,Michigan,2024-10-25,2024-10-31,942,Donald Trump,47,0
+YouGov,3,Nevada,2024-10-25,2024-10-31,790,Kamala Harris,48,1
+YouGov,3,Nevada,2024-10-25,2024-10-31,790,Donald Trump,47,0
+YouGov,3,Nevada,2024-10-25,2024-10-31,773,Kamala Harris,48,1
+YouGov,3,Nevada,2024-10-25,2024-10-31,773,Donald Trump,47,0
+YouGov,3,Nevada,2024-10-25,2024-10-31,790,Kamala Harris,50,1
+YouGov,3,Nevada,2024-10-25,2024-10-31,790,Donald Trump,49,0
+YouGov,3,Nevada,2024-10-25,2024-10-31,773,Kamala Harris,50,1
+YouGov,3,Nevada,2024-10-25,2024-10-31,773,Donald Trump,49,0
+YouGov,3,North Carolina,2024-10-25,2024-10-31,987,Kamala Harris,47,1
+YouGov,3,North Carolina,2024-10-25,2024-10-31,987,Donald Trump,48,0
+YouGov,3,North Carolina,2024-10-25,2024-10-31,949,Kamala Harris,48,1
+YouGov,3,North Carolina,2024-10-25,2024-10-31,949,Donald Trump,49,0
+YouGov,3,North Carolina,2024-10-25,2024-10-31,987,Kamala Harris,49,1
+YouGov,3,North Carolina,2024-10-25,2024-10-31,987,Donald Trump,49,0
+YouGov,3,North Carolina,2024-10-25,2024-10-31,949,Kamala Harris,49,1
+YouGov,3,North Carolina,2024-10-25,2024-10-31,949,Donald Trump,50,0
+YouGov,3,Pennsylvania,2024-10-25,2024-10-31,982,Kamala Harris,48,1
+YouGov,3,Pennsylvania,2024-10-25,2024-10-31,982,Donald Trump,46,0
+YouGov,3,Pennsylvania,2024-10-25,2024-10-31,956,Kamala Harris,49,1
+YouGov,3,Pennsylvania,2024-10-25,2024-10-31,956,Donald Trump,46,0
+YouGov,3,Pennsylvania,2024-10-25,2024-10-31,982,Kamala Harris,50,1
+YouGov,3,Pennsylvania,2024-10-25,2024-10-31,982,Donald Trump,48,0
+YouGov,3,Pennsylvania,2024-10-25,2024-10-31,956,Kamala Harris,51,1
+YouGov,3,Pennsylvania,2024-10-25,2024-10-31,956,Donald Trump,48,0
+YouGov,3,Wisconsin,2024-10-25,2024-10-31,889,Kamala Harris,48,1
+YouGov,3,Wisconsin,2024-10-25,2024-10-31,889,Donald Trump,45,0
+YouGov,3,Wisconsin,2024-10-25,2024-10-31,867,Kamala Harris,49,1
+YouGov,3,Wisconsin,2024-10-25,2024-10-31,867,Donald Trump,45,0
+YouGov,3,Wisconsin,2024-10-25,2024-10-31,889,Kamala Harris,51,1
+YouGov,3,Wisconsin,2024-10-25,2024-10-31,889,Donald Trump,47,0
+YouGov,3,Wisconsin,2024-10-25,2024-10-31,867,Kamala Harris,51,1
+YouGov,3,Wisconsin,2024-10-25,2024-10-31,867,Donald Trump,47,0
+Data for Progress,2.6,Pennsylvania,2024-10-25,2024-10-31,908,Kamala Harris,50,1
+Data for Progress,2.6,Pennsylvania,2024-10-25,2024-10-31,908,Donald Trump,48,0
+Data for Progress,2.6,Georgia,2024-10-25,2024-10-31,972,Kamala Harris,49,1
+Data for Progress,2.6,Georgia,2024-10-25,2024-10-31,972,Donald Trump,48,0
+Keating Research,1.5,Colorado,2024-10-28,2024-10-30,600,Kamala Harris,53,1
+Keating Research,1.5,Colorado,2024-10-28,2024-10-30,600,Donald Trump,41,0
+TIPP,1.8,Wisconsin,2024-10-28,2024-10-30,1038,Kamala Harris,48,1
+TIPP,1.8,Wisconsin,2024-10-28,2024-10-30,1038,Donald Trump,46,0
+TIPP,1.8,Wisconsin,2024-10-28,2024-10-30,831,Kamala Harris,48,1
+TIPP,1.8,Wisconsin,2024-10-28,2024-10-30,831,Donald Trump,48,0
+TIPP,1.8,Wisconsin,2024-10-28,2024-10-30,1038,Kamala Harris,46,1
+TIPP,1.8,Wisconsin,2024-10-28,2024-10-30,1038,Donald Trump,44,0
+TIPP,1.8,Wisconsin,2024-10-28,2024-10-30,831,Donald Trump,47,0
+Noble Predictive Insights,2.4,Arizona,2024-10-28,2024-10-30,775,Kamala Harris,47,1
+Noble Predictive Insights,2.4,Arizona,2024-10-28,2024-10-30,775,Donald Trump,48,0
+Echelon Insights,2.7,Wisconsin,2024-10-27,2024-10-30,600,Kamala Harris,48,1
+Echelon Insights,2.7,Wisconsin,2024-10-27,2024-10-30,600,Donald Trump,48,0
+Echelon Insights,2.7,Wisconsin,2024-10-27,2024-10-30,600,Kamala Harris,49,1
+Echelon Insights,2.7,Wisconsin,2024-10-27,2024-10-30,600,Donald Trump,49,0
+Echelon Insights,2.7,Michigan,2024-10-27,2024-10-30,600,Kamala Harris,47,1
+Echelon Insights,2.7,Michigan,2024-10-27,2024-10-30,600,Donald Trump,47,0
+Echelon Insights,2.7,Michigan,2024-10-27,2024-10-30,600,Kamala Harris,48,1
+Echelon Insights,2.7,Michigan,2024-10-27,2024-10-30,600,Donald Trump,48,0
+Echelon Insights,2.7,Pennsylvania,2024-10-27,2024-10-30,600,Kamala Harris,46,1
+Echelon Insights,2.7,Pennsylvania,2024-10-27,2024-10-30,600,Donald Trump,51,0
+Echelon Insights,2.7,Pennsylvania,2024-10-27,2024-10-30,600,Donald Trump,52,0
+Suffolk,2.9,Pennsylvania,2024-10-27,2024-10-30,500,Kamala Harris,48.6,1
+Suffolk,2.9,Pennsylvania,2024-10-27,2024-10-30,500,Donald Trump,48.6,0
+Marist,2.9,Wisconsin,2024-10-27,2024-10-30,1444,Kamala Harris,50,1
+Marist,2.9,Wisconsin,2024-10-27,2024-10-30,1444,Donald Trump,48,0
+Marist,2.9,Wisconsin,2024-10-27,2024-10-30,1330,Kamala Harris,50,1
+Marist,2.9,Wisconsin,2024-10-27,2024-10-30,1330,Donald Trump,48,0
+Marist,2.9,Pennsylvania,2024-10-27,2024-10-30,1558,Kamala Harris,51,1
+Marist,2.9,Pennsylvania,2024-10-27,2024-10-30,1558,Donald Trump,47,0
+Marist,2.9,Pennsylvania,2024-10-27,2024-10-30,1400,Kamala Harris,50,1
+Marist,2.9,Pennsylvania,2024-10-27,2024-10-30,1400,Donald Trump,48,0
+Marist,2.9,Michigan,2024-10-27,2024-10-30,1356,Kamala Harris,51,1
+Marist,2.9,Michigan,2024-10-27,2024-10-30,1356,Donald Trump,48,0
+Marist,2.9,Michigan,2024-10-27,2024-10-30,1214,Kamala Harris,51,1
+Marist,2.9,Michigan,2024-10-27,2024-10-30,1214,Donald Trump,48,0
+Cygnal,2.1,California,2024-10-27,2024-10-30,611,Kamala Harris,55.4,1
+Cygnal,2.1,California,2024-10-27,2024-10-30,611,Donald Trump,30.9,0
+The Washington Post,3,Pennsylvania,2024-10-26,2024-10-30,1204,Kamala Harris,48,1
+The Washington Post,3,Pennsylvania,2024-10-26,2024-10-30,1204,Donald Trump,47,0
+Data for Progress,2.6,Arizona,2024-10-25,2024-10-30,1079,Kamala Harris,47,1
+Data for Progress,2.6,Arizona,2024-10-25,2024-10-30,1079,Donald Trump,48,0
+Data for Progress,2.6,Nevada,2024-10-25,2024-10-30,721,Kamala Harris,49,1
+Data for Progress,2.6,Nevada,2024-10-25,2024-10-30,721,Donald Trump,47,0
+St. Anselm,2.4,New Hampshire,2024-10-28,2024-10-29,2791,Kamala Harris,51,1
+St. Anselm,2.4,New Hampshire,2024-10-28,2024-10-29,2791,Donald Trump,46,0
+Cygnal,2.1,Virginia,2024-10-27,2024-10-29,600,Kamala Harris,50.3,1
+Cygnal,2.1,Virginia,2024-10-27,2024-10-29,600,Donald Trump,42.7,0
+AtlasIntel,2.7,Arizona,2024-10-25,2024-10-29,1458,Kamala Harris,46.4,1
+AtlasIntel,2.7,Arizona,2024-10-25,2024-10-29,1458,Donald Trump,50.6,0
+AtlasIntel,2.7,Arizona,2024-10-25,2024-10-29,1458,Kamala Harris,47.3,1
+AtlasIntel,2.7,Arizona,2024-10-25,2024-10-29,1458,Donald Trump,50.8,0
+AtlasIntel,2.7,Georgia,2024-10-25,2024-10-29,1429,Kamala Harris,47.1,1
+AtlasIntel,2.7,Georgia,2024-10-25,2024-10-29,1429,Donald Trump,50.2,0
+AtlasIntel,2.7,Georgia,2024-10-25,2024-10-29,1429,Kamala Harris,47.5,1
+AtlasIntel,2.7,Georgia,2024-10-25,2024-10-29,1429,Donald Trump,50.9,0
+AtlasIntel,2.7,Michigan,2024-10-25,2024-10-29,983,Kamala Harris,47.9,1
+AtlasIntel,2.7,Michigan,2024-10-25,2024-10-29,983,Donald Trump,49.2,0
+AtlasIntel,2.7,Michigan,2024-10-25,2024-10-29,983,Kamala Harris,48.1,1
+AtlasIntel,2.7,Michigan,2024-10-25,2024-10-29,983,Donald Trump,49.3,0
+AtlasIntel,2.7,Nevada,2024-10-25,2024-10-29,1083,Kamala Harris,47.5,1
+AtlasIntel,2.7,Nevada,2024-10-25,2024-10-29,1083,Donald Trump,48.4,0
+AtlasIntel,2.7,Nevada,2024-10-25,2024-10-29,1083,Kamala Harris,47.6,1
+AtlasIntel,2.7,Nevada,2024-10-25,2024-10-29,1083,Donald Trump,48.5,0
+AtlasIntel,2.7,North Carolina,2024-10-25,2024-10-29,1665,Kamala Harris,48.5,1
+AtlasIntel,2.7,North Carolina,2024-10-25,2024-10-29,1665,Donald Trump,48.4,0
+AtlasIntel,2.7,North Carolina,2024-10-25,2024-10-29,1665,Kamala Harris,48.9,1
+AtlasIntel,2.7,Pennsylvania,2024-10-25,2024-10-29,1299,Kamala Harris,46.6,1
+AtlasIntel,2.7,Pennsylvania,2024-10-25,2024-10-29,1299,Donald Trump,48.7,0
+AtlasIntel,2.7,Pennsylvania,2024-10-25,2024-10-29,1299,Kamala Harris,46.9,1
+AtlasIntel,2.7,Pennsylvania,2024-10-25,2024-10-29,1299,Donald Trump,49.6,0
+AtlasIntel,2.7,Wisconsin,2024-10-25,2024-10-29,1470,Kamala Harris,48.1,1
+AtlasIntel,2.7,Wisconsin,2024-10-25,2024-10-29,1470,Donald Trump,48.7,0
+AtlasIntel,2.7,Wisconsin,2024-10-25,2024-10-29,1470,Kamala Harris,48.5,1
+AtlasIntel,2.7,Wisconsin,2024-10-25,2024-10-29,1470,Donald Trump,49,0
+Roanoke College,2.6,Virginia,2024-10-25,2024-10-29,851,Kamala Harris,51,1
+Roanoke College,2.6,Virginia,2024-10-25,2024-10-29,851,Donald Trump,41,0
+SurveyUSA,2.8,Maine,2024-10-24,2024-10-29,1079,Kamala Harris,51,1
+SurveyUSA,2.8,Maine,2024-10-24,2024-10-29,1079,Donald Trump,43,0
+SurveyUSA,2.8,Maine,2024-10-24,2024-10-29,482,Kamala Harris,58,1
+SurveyUSA,2.8,Maine,2024-10-24,2024-10-29,482,Donald Trump,37,0
+SurveyUSA,2.8,Maine,2024-10-24,2024-10-29,484,Kamala Harris,44,1
+SurveyUSA,2.8,Maine,2024-10-24,2024-10-29,484,Donald Trump,49,0
+UC Berkeley,2.5,California,2024-10-22,2024-10-29,4341,Kamala Harris,57,1
+UC Berkeley,2.5,California,2024-10-22,2024-10-29,4341,Donald Trump,35,0
+Data Orbital,2.9,Arizona,2024-10-26,2024-10-28,550,Kamala Harris,41.9,1
+Data Orbital,2.9,Arizona,2024-10-26,2024-10-28,550,Donald Trump,49.7,0
+Cygnal,2.1,Texas,2024-10-26,2024-10-28,600,Kamala Harris,43,1
+Cygnal,2.1,Texas,2024-10-26,2024-10-28,600,Donald Trump,51,0
+Cygnal,2.1,Florida,2024-10-26,2024-10-28,600,Kamala Harris,43.1,1
+Cygnal,2.1,Florida,2024-10-26,2024-10-28,600,Donald Trump,48.2,0
+Trafalgar Group,0.7,North Carolina,2024-10-25,2024-10-28,1091,Kamala Harris,46.2,1
+Trafalgar Group,0.7,North Carolina,2024-10-25,2024-10-28,1091,Donald Trump,49.4,0
+Trafalgar Group,0.7,Nevada,2024-10-25,2024-10-28,1082,Kamala Harris,47.8,1
+Trafalgar Group,0.7,Nevada,2024-10-25,2024-10-28,1082,Donald Trump,47.6,0
+Trafalgar Group,0.7,Ohio,2024-10-25,2024-10-28,1127,Kamala Harris,45.6,1
+Trafalgar Group,0.7,Ohio,2024-10-25,2024-10-28,1127,Donald Trump,51.7,0
+Noble Predictive Insights,2.4,Utah,2024-10-25,2024-10-28,695,Kamala Harris,34,1
+Noble Predictive Insights,2.4,Utah,2024-10-25,2024-10-28,695,Donald Trump,54,0
+SurveyUSA,2.8,Minnesota,2024-10-24,2024-10-28,728,Kamala Harris,51,1
+SurveyUSA,2.8,Minnesota,2024-10-24,2024-10-28,728,Donald Trump,43,0
+Monmouth,2.9,Pennsylvania,2024-10-24,2024-10-28,824,Kamala Harris,46,1
+Monmouth,2.9,Pennsylvania,2024-10-24,2024-10-28,824,Donald Trump,47,0
+Quinnipiac,2.8,Pennsylvania,2024-10-24,2024-10-28,2186,Kamala Harris,46,1
+Quinnipiac,2.8,Pennsylvania,2024-10-24,2024-10-28,2186,Donald Trump,47,0
+Quinnipiac,2.8,Pennsylvania,2024-10-24,2024-10-28,2186,Kamala Harris,47,1
+Quinnipiac,2.8,Pennsylvania,2024-10-24,2024-10-28,2186,Donald Trump,49,0
+Beacon/Shaw,2.8,Pennsylvania,2024-10-24,2024-10-28,1310,Kamala Harris,48,1
+Beacon/Shaw,2.8,Pennsylvania,2024-10-24,2024-10-28,1310,Donald Trump,46,0
+Beacon/Shaw,2.8,Pennsylvania,2024-10-24,2024-10-28,1057,Kamala Harris,48,1
+Beacon/Shaw,2.8,Pennsylvania,2024-10-24,2024-10-28,1057,Donald Trump,48,0
+Beacon/Shaw,2.8,Pennsylvania,2024-10-24,2024-10-28,1310,Kamala Harris,50,1
+Beacon/Shaw,2.8,Pennsylvania,2024-10-24,2024-10-28,1310,Donald Trump,48,0
+Beacon/Shaw,2.8,Pennsylvania,2024-10-24,2024-10-28,1057,Kamala Harris,49,1
+Beacon/Shaw,2.8,Pennsylvania,2024-10-24,2024-10-28,1057,Donald Trump,50,0
+Beacon/Shaw,2.8,Michigan,2024-10-24,2024-10-28,988,Kamala Harris,48,1
+Beacon/Shaw,2.8,Michigan,2024-10-24,2024-10-28,988,Donald Trump,46,0
+Beacon/Shaw,2.8,Michigan,2024-10-24,2024-10-28,1275,Kamala Harris,49,1
+Beacon/Shaw,2.8,Michigan,2024-10-24,2024-10-28,1275,Donald Trump,45,0
+Beacon/Shaw,2.8,Michigan,2024-10-24,2024-10-28,988,Kamala Harris,49,1
+Beacon/Shaw,2.8,Michigan,2024-10-24,2024-10-28,988,Donald Trump,49,0
+Beacon/Shaw,2.8,Michigan,2024-10-24,2024-10-28,1275,Kamala Harris,50,1
+Beacon/Shaw,2.8,Michigan,2024-10-24,2024-10-28,1275,Donald Trump,48,0
+Beacon/Shaw,2.8,North Carolina,2024-10-24,2024-10-28,872,Kamala Harris,47,1
+Beacon/Shaw,2.8,North Carolina,2024-10-24,2024-10-28,872,Donald Trump,49,0
+Beacon/Shaw,2.8,North Carolina,2024-10-24,2024-10-28,1113,Kamala Harris,48,1
+Beacon/Shaw,2.8,North Carolina,2024-10-24,2024-10-28,1113,Donald Trump,47,0
+Beacon/Shaw,2.8,North Carolina,2024-10-24,2024-10-28,872,Kamala Harris,49,1
+Beacon/Shaw,2.8,North Carolina,2024-10-24,2024-10-28,872,Donald Trump,50,0
+Beacon/Shaw,2.8,North Carolina,2024-10-24,2024-10-28,1113,Kamala Harris,50,1
+Beacon/Shaw,2.8,North Carolina,2024-10-24,2024-10-28,1113,Donald Trump,49,0
+The Washington Post,3,Michigan,2024-10-24,2024-10-28,1003,Kamala Harris,47,1
+The Washington Post,3,Michigan,2024-10-24,2024-10-28,1003,Donald Trump,46,0
+The Washington Post,3,Michigan,2024-10-24,2024-10-28,1003,Kamala Harris,45,1
+The Washington Post,3,Michigan,2024-10-24,2024-10-28,1003,Donald Trump,47,0
+EPIC/MRA,1.9,Michigan,2024-10-24,2024-10-28,600,Kamala Harris,48,1
+EPIC/MRA,1.9,Michigan,2024-10-24,2024-10-28,600,Donald Trump,45,0
+CNN/SSRS,2.8,Michigan,2024-10-23,2024-10-28,726,Kamala Harris,48,1
+CNN/SSRS,2.8,Michigan,2024-10-23,2024-10-28,726,Donald Trump,43,0
+CNN/SSRS,2.8,Pennsylvania,2024-10-23,2024-10-28,819,Kamala Harris,48,1
+CNN/SSRS,2.8,Pennsylvania,2024-10-23,2024-10-28,819,Donald Trump,48,0
+CNN/SSRS,2.8,Wisconsin,2024-10-23,2024-10-28,736,Kamala Harris,51,1
+CNN/SSRS,2.8,Wisconsin,2024-10-23,2024-10-28,736,Donald Trump,45,0
+CNN/SSRS,2.8,Georgia,2024-10-23,2024-10-28,732,Kamala Harris,47,1
+CNN/SSRS,2.8,Georgia,2024-10-23,2024-10-28,732,Donald Trump,48,0
+CNN/SSRS,2.8,North Carolina,2024-10-23,2024-10-28,750,Kamala Harris,48,1
+CNN/SSRS,2.8,North Carolina,2024-10-23,2024-10-28,750,Donald Trump,47,0
+YouGov,3,Pennsylvania,2024-10-22,2024-10-28,1273,Kamala Harris,49,1
+YouGov,3,Pennsylvania,2024-10-22,2024-10-28,1273,Donald Trump,49,0
+YouGov,3,Nebraska,2024-10-21,2024-10-28,1206,Kamala Harris,40,1
+YouGov,3,Nebraska,2024-10-21,2024-10-28,1206,Donald Trump,55,0
+YouGov,3,Nebraska,2024-10-21,2024-10-28,408,Kamala Harris,43,1
+YouGov,3,Nebraska,2024-10-21,2024-10-28,408,Donald Trump,51,0
+YouGov,3,Nebraska,2024-10-21,2024-10-28,393,Kamala Harris,52,1
+YouGov,3,Nebraska,2024-10-21,2024-10-28,393,Donald Trump,44,0
+YouGov,3,Nebraska,2024-10-21,2024-10-28,404,Kamala Harris,25,1
+YouGov,3,Nebraska,2024-10-21,2024-10-28,404,Donald Trump,70,0
+InsiderAdvantage,2,Pennsylvania,2024-10-26,2024-10-27,800,Kamala Harris,47.4,1
+InsiderAdvantage,2,Pennsylvania,2024-10-26,2024-10-27,800,Donald Trump,48.4,0
+InsiderAdvantage,2,Michigan,2024-10-26,2024-10-27,800,Kamala Harris,47.9,1
+InsiderAdvantage,2,Michigan,2024-10-26,2024-10-27,800,Donald Trump,48.5,0
+Cygnal,2.1,New York,2024-10-26,2024-10-27,600,Kamala Harris,56.8,1
+Cygnal,2.1,New York,2024-10-26,2024-10-27,600,Donald Trump,39,0
+InsiderAdvantage,2,Wisconsin,2024-10-26,2024-10-27,800,Kamala Harris,48,1
+InsiderAdvantage,2,Wisconsin,2024-10-26,2024-10-27,800,Donald Trump,49,0
+Emerson,2.9,Michigan,2024-10-25,2024-10-27,1000,Kamala Harris,49.3,1
+Emerson,2.9,Michigan,2024-10-25,2024-10-27,1000,Donald Trump,49.8,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-25,2024-10-27,901,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-25,2024-10-27,901,Donald Trump,49,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-25,2024-10-27,1112,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-25,2024-10-27,1112,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-25,2024-10-27,728,Kamala Harris,49,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-25,2024-10-27,728,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-25,2024-10-27,531,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-25,2024-10-27,531,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-25,2024-10-27,770,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-25,2024-10-27,770,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-25,2024-10-27,1116,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-25,2024-10-27,1116,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-25,2024-10-27,746,Kamala Harris,49,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-25,2024-10-27,746,Donald Trump,47,0
+RABA Research,1.3,Arizona,2024-10-25,2024-10-27,589,Kamala Harris,45,1
+RABA Research,1.3,Arizona,2024-10-25,2024-10-27,589,Donald Trump,43,0
+Suffolk,2.9,Michigan,2024-10-24,2024-10-27,500,Kamala Harris,47,1
+Suffolk,2.9,Michigan,2024-10-24,2024-10-27,500,Donald Trump,47.4,0
+Susquehanna,2.3,Michigan,2024-10-23,2024-10-27,400,Kamala Harris,51.7,1
+Susquehanna,2.3,Michigan,2024-10-23,2024-10-27,400,Donald Trump,46.6,0
+University of Wyoming,0.6,Wyoming,2024-09-24,2024-10-27,662,Kamala Harris,28.4,1
+University of Wyoming,0.6,Wyoming,2024-09-24,2024-10-27,662,Donald Trump,63.4,0
+Trafalgar Group,0.7,Georgia,2024-10-24,2024-10-26,1087,Kamala Harris,45.9,1
+Trafalgar Group,0.7,Georgia,2024-10-24,2024-10-26,1087,Donald Trump,48.3,0
+Trafalgar Group,0.7,Arizona,2024-10-24,2024-10-26,1094,Kamala Harris,46,1
+Trafalgar Group,0.7,Arizona,2024-10-24,2024-10-26,1094,Donald Trump,48.1,0
+Patriot Polling,1.1,Michigan,2024-10-24,2024-10-26,796,Kamala Harris,49,1
+Patriot Polling,1.1,Michigan,2024-10-24,2024-10-26,796,Donald Trump,50,0
+Praecones Analytica,2,New Hampshire,2024-10-24,2024-10-26,622,Kamala Harris,49.8,1
+Praecones Analytica,2,New Hampshire,2024-10-24,2024-10-26,622,Donald Trump,50.2,0
+Emerson,2.9,Massachusetts,2024-10-24,2024-10-26,1000,Kamala Harris,60.2,1
+Emerson,2.9,Massachusetts,2024-10-24,2024-10-26,1000,Donald Trump,37.2,0
+Siena/NYT,3,Texas,2024-10-23,2024-10-26,1180,Kamala Harris,41,1
+Siena/NYT,3,Texas,2024-10-23,2024-10-26,1180,Donald Trump,52,0
+Siena/NYT,3,Texas,2024-10-23,2024-10-26,1180,Kamala Harris,40,1
+Siena/NYT,3,Texas,2024-10-23,2024-10-26,1180,Donald Trump,50,0
+Siena/NYT,3,Texas,2024-10-23,2024-10-26,1180,Kamala Harris,42,1
+Siena/NYT,3,Texas,2024-10-23,2024-10-26,1180,Donald Trump,51,0
+Siena/NYT,3,Nebraska,2024-10-23,2024-10-26,1194,Kamala Harris,40,1
+Siena/NYT,3,Nebraska,2024-10-23,2024-10-26,1194,Donald Trump,55,0
+Siena/NYT,3,Nebraska,2024-10-23,2024-10-26,1194,Kamala Harris,38,1
+Siena/NYT,3,Nebraska,2024-10-23,2024-10-26,1194,Donald Trump,53,0
+Siena/NYT,3,Nebraska,2024-10-23,2024-10-26,1194,Kamala Harris,39,1
+Siena/NYT,3,Nebraska,2024-10-23,2024-10-26,500,Kamala Harris,54,1
+Siena/NYT,3,Nebraska,2024-10-23,2024-10-26,500,Donald Trump,42,0
+Siena/NYT,3,Nebraska,2024-10-23,2024-10-26,500,Kamala Harris,53,1
+Siena/NYT,3,Nebraska,2024-10-23,2024-10-26,500,Donald Trump,41,0
+SurveyUSA,2.8,North Carolina,2024-10-23,2024-10-26,853,Kamala Harris,47,1
+SurveyUSA,2.8,North Carolina,2024-10-23,2024-10-26,853,Donald Trump,47,0
+North Star Opinion Research,1.1,Pennsylvania,2024-10-22,2024-10-26,600,Kamala Harris,47,1
+North Star Opinion Research,1.1,Pennsylvania,2024-10-22,2024-10-26,600,Donald Trump,47,0
+CNN/SSRS,2.8,Arizona,2024-10-21,2024-10-26,781,Kamala Harris,48,1
+CNN/SSRS,2.8,Arizona,2024-10-21,2024-10-26,781,Donald Trump,47,0
+CNN/SSRS,2.8,Nevada,2024-10-21,2024-10-26,683,Kamala Harris,47,1
+CNN/SSRS,2.8,Nevada,2024-10-21,2024-10-26,683,Donald Trump,48,0
+Emerson,2.9,Montana,2024-10-23,2024-10-25,1000,Kamala Harris,39.6,1
+Emerson,2.9,Montana,2024-10-23,2024-10-25,1000,Donald Trump,58.6,0
+St. Pete Polls,2.4,Florida,2024-10-23,2024-10-25,1227,Kamala Harris,44.6,1
+St. Pete Polls,2.4,Florida,2024-10-23,2024-10-25,1227,Donald Trump,50.3,0
+CES / YouGov,3,Arizona,2024-10-01,2024-10-25,2077,Kamala Harris,49,1
+CES / YouGov,3,Arizona,2024-10-01,2024-10-25,2077,Donald Trump,49,0
+CES / YouGov,3,Arizona,2024-10-01,2024-10-25,2066,Kamala Harris,47,1
+CES / YouGov,3,Arizona,2024-10-01,2024-10-25,2066,Donald Trump,51,0
+CES / YouGov,3,Florida,2024-10-01,2024-10-25,5952,Kamala Harris,47,1
+CES / YouGov,3,Florida,2024-10-01,2024-10-25,5952,Donald Trump,51,0
+CES / YouGov,3,Florida,2024-10-01,2024-10-25,5916,Kamala Harris,46,1
+CES / YouGov,3,Florida,2024-10-01,2024-10-25,5916,Donald Trump,52,0
+CES / YouGov,3,Georgia,2024-10-01,2024-10-25,2682,Kamala Harris,48,1
+CES / YouGov,3,Georgia,2024-10-01,2024-10-25,2682,Donald Trump,49,0
+CES / YouGov,3,Georgia,2024-10-01,2024-10-25,2663,Kamala Harris,46,1
+CES / YouGov,3,Georgia,2024-10-01,2024-10-25,2663,Donald Trump,51,0
+CES / YouGov,3,Michigan,2024-10-01,2024-10-25,2347,Kamala Harris,52,1
+CES / YouGov,3,Michigan,2024-10-01,2024-10-25,2347,Donald Trump,45,0
+CES / YouGov,3,Michigan,2024-10-01,2024-10-25,2336,Kamala Harris,51,1
+CES / YouGov,3,Michigan,2024-10-01,2024-10-25,2336,Donald Trump,46,0
+CES / YouGov,3,Minnesota,2024-10-01,2024-10-25,1278,Kamala Harris,52,1
+CES / YouGov,3,Minnesota,2024-10-01,2024-10-25,1278,Donald Trump,44,0
+CES / YouGov,3,Minnesota,2024-10-01,2024-10-25,1275,Kamala Harris,53,1
+CES / YouGov,3,Minnesota,2024-10-01,2024-10-25,1275,Donald Trump,43,0
+CES / YouGov,3,Nevada,2024-10-01,2024-10-25,940,Kamala Harris,53,1
+CES / YouGov,3,Nevada,2024-10-01,2024-10-25,940,Donald Trump,44,0
+CES / YouGov,3,Nevada,2024-10-01,2024-10-25,933,Kamala Harris,51,1
+CES / YouGov,3,Nevada,2024-10-01,2024-10-25,933,Donald Trump,47,0
+CES / YouGov,3,New Hampshire,2024-10-01,2024-10-25,380,Kamala Harris,52,1
+CES / YouGov,3,New Hampshire,2024-10-01,2024-10-25,380,Donald Trump,45,0
+CES / YouGov,3,New Hampshire,2024-10-01,2024-10-25,375,Kamala Harris,52,1
+CES / YouGov,3,New Hampshire,2024-10-01,2024-10-25,375,Donald Trump,45,0
+CES / YouGov,3,North Carolina,2024-10-01,2024-10-25,2330,Kamala Harris,49,1
+CES / YouGov,3,North Carolina,2024-10-01,2024-10-25,2330,Donald Trump,48,0
+CES / YouGov,3,North Carolina,2024-10-01,2024-10-25,2308,Kamala Harris,48,1
+CES / YouGov,3,North Carolina,2024-10-01,2024-10-25,2308,Donald Trump,50,0
+CES / YouGov,3,Ohio,2024-10-01,2024-10-25,3120,Kamala Harris,45,1
+CES / YouGov,3,Ohio,2024-10-01,2024-10-25,3120,Donald Trump,52,0
+CES / YouGov,3,Ohio,2024-10-01,2024-10-25,3091,Kamala Harris,45,1
+CES / YouGov,3,Ohio,2024-10-01,2024-10-25,3091,Donald Trump,52,0
+CES / YouGov,3,Pennsylvania,2024-10-01,2024-10-25,3708,Kamala Harris,50,1
+CES / YouGov,3,Pennsylvania,2024-10-01,2024-10-25,3708,Donald Trump,47,0
+CES / YouGov,3,Pennsylvania,2024-10-01,2024-10-25,3685,Kamala Harris,49,1
+CES / YouGov,3,Pennsylvania,2024-10-01,2024-10-25,3685,Donald Trump,48,0
+CES / YouGov,3,Texas,2024-10-01,2024-10-25,6526,Kamala Harris,47,1
+CES / YouGov,3,Texas,2024-10-01,2024-10-25,6526,Donald Trump,51,0
+CES / YouGov,3,Texas,2024-10-01,2024-10-25,6473,Kamala Harris,47,1
+CES / YouGov,3,Texas,2024-10-01,2024-10-25,6473,Donald Trump,51,0
+CES / YouGov,3,Virginia,2024-10-01,2024-10-25,2027,Kamala Harris,53,1
+CES / YouGov,3,Virginia,2024-10-01,2024-10-25,2027,Donald Trump,44,0
+CES / YouGov,3,Virginia,2024-10-01,2024-10-25,2015,Kamala Harris,52,1
+CES / YouGov,3,Virginia,2024-10-01,2024-10-25,2015,Donald Trump,44,0
+CES / YouGov,3,Wisconsin,2024-10-01,2024-10-25,1552,Kamala Harris,51,1
+CES / YouGov,3,Wisconsin,2024-10-01,2024-10-25,1552,Donald Trump,46,0
+CES / YouGov,3,Wisconsin,2024-10-01,2024-10-25,1542,Kamala Harris,50,1
+CES / YouGov,3,Wisconsin,2024-10-01,2024-10-25,1542,Donald Trump,47,0
+Cygnal,2.1,New Jersey,2024-10-23,2024-10-24,600,Kamala Harris,51.8,1
+Cygnal,2.1,New Jersey,2024-10-23,2024-10-24,600,Donald Trump,40.3,0
+Glengariff Group Inc.,1.5,Michigan,2024-10-22,2024-10-24,600,Kamala Harris,46.7,1
+Glengariff Group Inc.,1.5,Michigan,2024-10-22,2024-10-24,600,Donald Trump,43.7,0
+Marquette Law School,3,Wisconsin,2024-10-16,2024-10-24,753,Kamala Harris,50,1
+Marquette Law School,3,Wisconsin,2024-10-16,2024-10-24,753,Donald Trump,49,0
+Marquette Law School,3,Wisconsin,2024-10-16,2024-10-24,753,Kamala Harris,46,1
+Marquette Law School,3,Wisconsin,2024-10-16,2024-10-24,753,Donald Trump,44,0
+Marquette Law School,3,Wisconsin,2024-10-16,2024-10-24,834,Kamala Harris,51,1
+Marquette Law School,3,Wisconsin,2024-10-16,2024-10-24,834,Donald Trump,49,0
+Marquette Law School,3,Wisconsin,2024-10-16,2024-10-24,834,Kamala Harris,46,1
+Marquette Law School,3,Wisconsin,2024-10-16,2024-10-24,834,Donald Trump,43,0
+University of Massachusetts Lowell/YouGov,2.9,Michigan,2024-10-16,2024-10-24,600,Kamala Harris,49,1
+University of Massachusetts Lowell/YouGov,2.9,Michigan,2024-10-16,2024-10-24,600,Donald Trump,45,0
+Emerson,2.9,New Hampshire,2024-10-21,2024-10-23,915,Kamala Harris,50.9,1
+Emerson,2.9,New Hampshire,2024-10-21,2024-10-23,915,Donald Trump,47.2,0
+Suffolk,2.9,Wisconsin,2024-10-20,2024-10-23,500,Kamala Harris,46.6,1
+Suffolk,2.9,Wisconsin,2024-10-20,2024-10-23,500,Donald Trump,48,0
+Washington Post/George Mason University,2.7,Virginia,2024-10-19,2024-10-23,1004,Kamala Harris,49,1
+Washington Post/George Mason University,2.7,Virginia,2024-10-19,2024-10-23,1004,Donald Trump,43,0
+Washington Post/George Mason University,2.7,Virginia,2024-10-19,2024-10-23,1004,Kamala Harris,48,1
+Washington Post/George Mason University,2.7,Virginia,2024-10-19,2024-10-23,1004,Donald Trump,42,0
+University of Massachusetts Lowell/YouGov,2.9,North Carolina,2024-10-16,2024-10-23,650,Kamala Harris,45,1
+University of Massachusetts Lowell/YouGov,2.9,North Carolina,2024-10-16,2024-10-23,650,Donald Trump,47,0
+University of Massachusetts Lowell/YouGov,2.9,Pennsylvania,2024-10-16,2024-10-23,800,Kamala Harris,48,1
+University of Massachusetts Lowell/YouGov,2.9,Pennsylvania,2024-10-16,2024-10-23,800,Donald Trump,47,0
+University of Massachusetts Lowell/YouGov,2.9,New Hampshire,2024-10-10,2024-10-23,600,Kamala Harris,50,1
+University of Massachusetts Lowell/YouGov,2.9,New Hampshire,2024-10-10,2024-10-23,600,Donald Trump,43,0
+Emerson,2.9,Pennsylvania,2024-10-21,2024-10-22,860,Kamala Harris,49,1
+Emerson,2.9,Pennsylvania,2024-10-21,2024-10-22,860,Donald Trump,50.7,0
+Emerson,2.9,North Carolina,2024-10-21,2024-10-22,950,Kamala Harris,48.2,1
+Emerson,2.9,North Carolina,2024-10-21,2024-10-22,950,Donald Trump,50.2,0
+Emerson,2.9,Wisconsin,2024-10-21,2024-10-22,800,Kamala Harris,49.2,1
+Emerson,2.9,Wisconsin,2024-10-21,2024-10-22,800,Donald Trump,49.9,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-20,2024-10-22,710,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-20,2024-10-22,710,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-20,2024-10-22,1168,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-20,2024-10-22,1168,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-20,2024-10-22,1115,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-20,2024-10-22,1115,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-20,2024-10-22,540,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-20,2024-10-22,540,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-20,2024-10-22,679,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-20,2024-10-22,679,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-20,2024-10-22,1586,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-20,2024-10-22,1586,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-20,2024-10-22,557,Kamala Harris,49,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-20,2024-10-22,557,Donald Trump,47,0
+Alaska Survey Research,1.9,Alaska,2024-10-20,2024-10-22,1703,Kamala Harris,43,1
+Alaska Survey Research,1.9,Alaska,2024-10-20,2024-10-22,1703,Donald Trump,51,0
+Alaska Survey Research,1.9,Alaska,2024-10-20,2024-10-22,1703,Kamala Harris,45,1
+Alaska Survey Research,1.9,Alaska,2024-10-20,2024-10-22,1703,Donald Trump,55,0
+Emerson,2.9,South Dakota,2024-10-19,2024-10-22,825,Kamala Harris,36.5,1
+Emerson,2.9,South Dakota,2024-10-19,2024-10-22,825,Donald Trump,62,0
+OnMessage Inc.,1.1,Nevada,2024-10-19,2024-10-22,600,Kamala Harris,47,1
+OnMessage Inc.,1.1,Nevada,2024-10-19,2024-10-22,600,Donald Trump,50,0
+OnMessage Inc.,1.1,Ohio,2024-10-19,2024-10-22,600,Kamala Harris,44,1
+OnMessage Inc.,1.1,Ohio,2024-10-19,2024-10-22,600,Donald Trump,52,0
+OnMessage Inc.,1.1,Wisconsin,2024-10-19,2024-10-22,600,Kamala Harris,47,1
+OnMessage Inc.,1.1,Wisconsin,2024-10-19,2024-10-22,600,Donald Trump,48,0
+East Carolina University,2.6,South Carolina,2024-10-18,2024-10-22,950,Kamala Harris,42,1
+East Carolina University,2.6,South Carolina,2024-10-18,2024-10-22,950,Donald Trump,55.1,0
+Susquehanna,2.3,Pennsylvania,2024-10-18,2024-10-22,500,Kamala Harris,46,1
+Susquehanna,2.3,Pennsylvania,2024-10-18,2024-10-22,500,Donald Trump,45.8,0
+Marist,2.9,Georgia,2024-10-17,2024-10-22,1356,Kamala Harris,49,1
+Marist,2.9,Georgia,2024-10-17,2024-10-22,1356,Donald Trump,48,0
+Marist,2.9,Georgia,2024-10-17,2024-10-22,1193,Kamala Harris,49,1
+Marist,2.9,Georgia,2024-10-17,2024-10-22,1193,Donald Trump,49,0
+Marist,2.9,North Carolina,2024-10-17,2024-10-22,1410,Kamala Harris,48,1
+Marist,2.9,North Carolina,2024-10-17,2024-10-22,1410,Donald Trump,49,0
+Marist,2.9,North Carolina,2024-10-17,2024-10-22,1226,Kamala Harris,48,1
+Marist,2.9,North Carolina,2024-10-17,2024-10-22,1226,Donald Trump,50,0
+Marist,2.9,Arizona,2024-10-17,2024-10-22,1329,Kamala Harris,49,1
+Marist,2.9,Arizona,2024-10-17,2024-10-22,1329,Donald Trump,49,0
+Marist,2.9,Arizona,2024-10-17,2024-10-22,1193,Kamala Harris,49,1
+Marist,2.9,Arizona,2024-10-17,2024-10-22,1193,Donald Trump,50,0
+University of Maryland/Washington Post,2.5,Maryland,2024-10-17,2024-10-22,1000,Kamala Harris,61,1
+University of Maryland/Washington Post,2.5,Maryland,2024-10-17,2024-10-22,1000,Donald Trump,33,0
+Embold Research,1.4,Minnesota,2024-10-16,2024-10-22,1734,Kamala Harris,47.7,1
+Embold Research,1.4,Minnesota,2024-10-16,2024-10-22,1734,Donald Trump,45.1,0
+Rutgers-Eagleton,2.3,New Jersey,2024-10-15,2024-10-22,451,Kamala Harris,55,1
+Rutgers-Eagleton,2.3,New Jersey,2024-10-15,2024-10-22,451,Donald Trump,35,0
+Rutgers-Eagleton,2.3,New Jersey,2024-10-15,2024-10-22,478,Kamala Harris,51,1
+Rutgers-Eagleton,2.3,New Jersey,2024-10-15,2024-10-22,478,Donald Trump,37,0
+Emerson,2.9,Maryland,2024-10-19,2024-10-21,865,Kamala Harris,64,1
+Emerson,2.9,Maryland,2024-10-19,2024-10-21,865,Donald Trump,34.4,0
+Emerson,2.9,Texas,2024-10-18,2024-10-21,815,Kamala Harris,45.9,1
+Emerson,2.9,Texas,2024-10-18,2024-10-21,815,Donald Trump,53.1,0
+Change Research,1.4,Nebraska,2024-10-18,2024-10-21,815,Kamala Harris,41,1
+Change Research,1.4,Nebraska,2024-10-18,2024-10-21,815,Donald Trump,55,0
+Quinnipiac,2.8,Michigan,2024-10-17,2024-10-21,1136,Kamala Harris,49,1
+Quinnipiac,2.8,Michigan,2024-10-17,2024-10-21,1136,Donald Trump,46,0
+Quinnipiac,2.8,Michigan,2024-10-17,2024-10-21,1136,Kamala Harris,50,1
+Quinnipiac,2.8,Wisconsin,2024-10-17,2024-10-21,1108,Kamala Harris,48,1
+Quinnipiac,2.8,Wisconsin,2024-10-17,2024-10-21,1108,Donald Trump,48,0
+University of Texas at Tyler,1.8,Texas,2024-10-14,2024-10-21,956,Kamala Harris,46,1
+University of Texas at Tyler,1.8,Texas,2024-10-14,2024-10-21,956,Donald Trump,51,0
+InsiderAdvantage,2,Nevada,2024-10-19,2024-10-20,800,Kamala Harris,47.7,1
+InsiderAdvantage,2,Nevada,2024-10-19,2024-10-20,800,Donald Trump,47.9,0
+InsiderAdvantage,2,Arizona,2024-10-19,2024-10-20,800,Kamala Harris,47,1
+InsiderAdvantage,2,Arizona,2024-10-19,2024-10-20,800,Donald Trump,49.5,0
+InsiderAdvantage,2,North Carolina,2024-10-19,2024-10-20,800,Kamala Harris,46.8,1
+InsiderAdvantage,2,North Carolina,2024-10-19,2024-10-20,800,Donald Trump,48.7,0
+HighGround,1.8,Arizona,2024-10-19,2024-10-20,400,Kamala Harris,46.2,1
+HighGround,1.8,Arizona,2024-10-19,2024-10-20,400,Donald Trump,46.8,0
+Trafalgar Group,0.7,Wisconsin,2024-10-18,2024-10-20,1083,Kamala Harris,46.6,1
+Trafalgar Group,0.7,Wisconsin,2024-10-18,2024-10-20,1083,Donald Trump,46.8,0
+Trafalgar Group,0.7,Michigan,2024-10-18,2024-10-20,1090,Kamala Harris,44.2,1
+Trafalgar Group,0.7,Michigan,2024-10-18,2024-10-20,1090,Donald Trump,46,0
+Emerson,2.9,Florida,2024-10-18,2024-10-20,860,Kamala Harris,45.9,1
+Emerson,2.9,Florida,2024-10-18,2024-10-20,860,Donald Trump,53.6,0
+SurveyUSA/High Point University,2.8,North Carolina,2024-10-17,2024-10-20,1164,Kamala Harris,47,1
+SurveyUSA/High Point University,2.8,North Carolina,2024-10-17,2024-10-20,1164,Donald Trump,46,0
+Morning Consult,1.9,Arizona,2024-10-16,2024-10-20,915,Kamala Harris,48,1
+Morning Consult,1.9,Arizona,2024-10-16,2024-10-20,915,Donald Trump,48,0
+Morning Consult,1.9,Arizona,2024-10-16,2024-10-20,915,Kamala Harris,49,1
+Morning Consult,1.9,Arizona,2024-10-16,2024-10-20,915,Donald Trump,49,0
+Morning Consult,1.9,Arizona,2024-10-16,2024-10-20,861,Kamala Harris,48,1
+Morning Consult,1.9,Arizona,2024-10-16,2024-10-20,861,Donald Trump,48,0
+Morning Consult,1.9,Arizona,2024-10-16,2024-10-20,861,Kamala Harris,49,1
+Morning Consult,1.9,Arizona,2024-10-16,2024-10-20,861,Donald Trump,49,0
+Morning Consult,1.9,Georgia,2024-10-16,2024-10-20,914,Kamala Harris,48,1
+Morning Consult,1.9,Georgia,2024-10-16,2024-10-20,914,Donald Trump,47,0
+Morning Consult,1.9,Georgia,2024-10-16,2024-10-20,914,Donald Trump,49,0
+Morning Consult,1.9,Georgia,2024-10-16,2024-10-20,855,Kamala Harris,48,1
+Morning Consult,1.9,Georgia,2024-10-16,2024-10-20,855,Donald Trump,49,0
+Morning Consult,1.9,Georgia,2024-10-16,2024-10-20,855,Donald Trump,50,0
+Morning Consult,1.9,Michigan,2024-10-16,2024-10-20,756,Kamala Harris,47,1
+Morning Consult,1.9,Michigan,2024-10-16,2024-10-20,756,Donald Trump,45,0
+Morning Consult,1.9,Michigan,2024-10-16,2024-10-20,756,Kamala Harris,48,1
+Morning Consult,1.9,Michigan,2024-10-16,2024-10-20,756,Donald Trump,46,0
+Morning Consult,1.9,Michigan,2024-10-16,2024-10-20,705,Kamala Harris,49,1
+Morning Consult,1.9,Michigan,2024-10-16,2024-10-20,705,Donald Trump,46,0
+Morning Consult,1.9,Michigan,2024-10-16,2024-10-20,705,Kamala Harris,50,1
+Morning Consult,1.9,Nevada,2024-10-16,2024-10-20,449,Kamala Harris,48,1
+Morning Consult,1.9,Nevada,2024-10-16,2024-10-20,449,Donald Trump,47,0
+Morning Consult,1.9,Nevada,2024-10-16,2024-10-20,449,Kamala Harris,49,1
+Morning Consult,1.9,Nevada,2024-10-16,2024-10-20,449,Donald Trump,48,0
+Morning Consult,1.9,Nevada,2024-10-16,2024-10-20,420,Kamala Harris,48,1
+Morning Consult,1.9,Nevada,2024-10-16,2024-10-20,420,Donald Trump,48,0
+Morning Consult,1.9,Nevada,2024-10-16,2024-10-20,420,Kamala Harris,49,1
+Morning Consult,1.9,North Carolina,2024-10-16,2024-10-20,755,Kamala Harris,46,1
+Morning Consult,1.9,North Carolina,2024-10-16,2024-10-20,755,Donald Trump,49,0
+Morning Consult,1.9,North Carolina,2024-10-16,2024-10-20,755,Kamala Harris,47,1
+Morning Consult,1.9,North Carolina,2024-10-16,2024-10-20,755,Donald Trump,50,0
+Morning Consult,1.9,North Carolina,2024-10-16,2024-10-20,702,Kamala Harris,48,1
+Morning Consult,1.9,North Carolina,2024-10-16,2024-10-20,702,Donald Trump,49,0
+Morning Consult,1.9,North Carolina,2024-10-16,2024-10-20,702,Donald Trump,50,0
+Morning Consult,1.9,Pennsylvania,2024-10-16,2024-10-20,866,Kamala Harris,48,1
+Morning Consult,1.9,Pennsylvania,2024-10-16,2024-10-20,866,Donald Trump,48,0
+Morning Consult,1.9,Pennsylvania,2024-10-16,2024-10-20,812,Kamala Harris,50,1
+Morning Consult,1.9,Pennsylvania,2024-10-16,2024-10-20,812,Donald Trump,48,0
+Morning Consult,1.9,Wisconsin,2024-10-16,2024-10-20,635,Kamala Harris,47,1
+Morning Consult,1.9,Wisconsin,2024-10-16,2024-10-20,635,Donald Trump,47,0
+Morning Consult,1.9,Wisconsin,2024-10-16,2024-10-20,635,Kamala Harris,48,1
+Morning Consult,1.9,Wisconsin,2024-10-16,2024-10-20,635,Donald Trump,48,0
+Morning Consult,1.9,Wisconsin,2024-10-16,2024-10-20,624,Kamala Harris,47,1
+Morning Consult,1.9,Wisconsin,2024-10-16,2024-10-20,624,Donald Trump,47,0
+Morning Consult,1.9,Wisconsin,2024-10-16,2024-10-20,624,Kamala Harris,48,1
+Morning Consult,1.9,Wisconsin,2024-10-16,2024-10-20,624,Donald Trump,48,0
+Cherry Communications,1,Florida,2024-10-10,2024-10-20,614,Kamala Harris,45,1
+Cherry Communications,1,Florida,2024-10-10,2024-10-20,614,Donald Trump,51,0
+Franklin and Marshall College,2.4,Pennsylvania,2024-10-09,2024-10-20,794,Kamala Harris,49,1
+Franklin and Marshall College,2.4,Pennsylvania,2024-10-09,2024-10-20,794,Donald Trump,45,0
+Franklin and Marshall College,2.4,Pennsylvania,2024-10-09,2024-10-20,583,Kamala Harris,49,1
+Franklin and Marshall College,2.4,Pennsylvania,2024-10-09,2024-10-20,583,Donald Trump,50,0
+Franklin and Marshall College,2.4,Pennsylvania,2024-10-09,2024-10-20,794,Kamala Harris,48,1
+Franklin and Marshall College,2.4,Pennsylvania,2024-10-09,2024-10-20,794,Donald Trump,44,0
+Trafalgar Group,0.7,Pennsylvania,2024-10-17,2024-10-19,1084,Kamala Harris,43.3,1
+Trafalgar Group,0.7,Pennsylvania,2024-10-17,2024-10-19,1084,Donald Trump,46.3,0
+HarrisX,1.5,Utah,2024-10-15,2024-10-19,813,Kamala Harris,31,1
+HarrisX,1.5,Utah,2024-10-15,2024-10-19,813,Donald Trump,63,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-16,2024-10-18,691,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-16,2024-10-18,691,Donald Trump,49,0
+Redfield & Wilton Strategies,1.8,Florida,2024-10-16,2024-10-18,1275,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,Florida,2024-10-16,2024-10-18,1275,Donald Trump,49,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-16,2024-10-18,1008,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-16,2024-10-18,1008,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-16,2024-10-18,529,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-16,2024-10-18,529,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-16,2024-10-18,622,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-16,2024-10-18,622,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-16,2024-10-18,843,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-16,2024-10-18,843,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-16,2024-10-18,1019,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-16,2024-10-18,1019,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-16,2024-10-18,1256,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-16,2024-10-18,1256,Donald Trump,48,0
+WPAi,1.7,Oklahoma,2024-10-16,2024-10-18,502,Kamala Harris,29,1
+WPAi,1.7,Oklahoma,2024-10-16,2024-10-18,502,Donald Trump,65,0
+Research & Polling,2.1,New Mexico,2024-10-10,2024-10-18,1024,Kamala Harris,50,1
+Research & Polling,2.1,New Mexico,2024-10-10,2024-10-18,1024,Donald Trump,41,0
+U. North Florida,2.8,Florida,2024-10-07,2024-10-18,977,Kamala Harris,43,1
+U. North Florida,2.8,Florida,2024-10-07,2024-10-18,977,Donald Trump,53,0
+PPP,1.4,Washington,2024-10-16,2024-10-17,571,Kamala Harris,55,1
+PPP,1.4,Washington,2024-10-16,2024-10-17,571,Donald Trump,40,0
+PPP,1.4,Oregon,2024-10-16,2024-10-17,716,Kamala Harris,53,1
+PPP,1.4,Oregon,2024-10-16,2024-10-17,716,Donald Trump,41,0
+RMG Research,2.3,Florida,2024-10-14,2024-10-17,788,Kamala Harris,47,1
+RMG Research,2.3,Florida,2024-10-14,2024-10-17,788,Donald Trump,52,0
+Siena,2.7,New York,2024-10-13,2024-10-17,872,Kamala Harris,54,1
+Siena,2.7,New York,2024-10-13,2024-10-17,872,Donald Trump,37,0
+Siena,2.7,New York,2024-10-13,2024-10-17,872,Kamala Harris,58,1
+Siena,2.7,New York,2024-10-13,2024-10-17,872,Donald Trump,39,0
+AtlasIntel,2.7,Arizona,2024-10-12,2024-10-17,1440,Kamala Harris,48.6,1
+AtlasIntel,2.7,Arizona,2024-10-12,2024-10-17,1440,Donald Trump,49.2,0
+AtlasIntel,2.7,Arizona,2024-10-12,2024-10-17,1440,Kamala Harris,49.3,1
+AtlasIntel,2.7,Georgia,2024-10-12,2024-10-17,1411,Kamala Harris,48.1,1
+AtlasIntel,2.7,Georgia,2024-10-12,2024-10-17,1411,Donald Trump,49.5,0
+AtlasIntel,2.7,Georgia,2024-10-12,2024-10-17,1411,Kamala Harris,48.4,1
+AtlasIntel,2.7,Georgia,2024-10-12,2024-10-17,1411,Donald Trump,50.1,0
+AtlasIntel,2.7,Michigan,2024-10-12,2024-10-17,1529,Kamala Harris,46.8,1
+AtlasIntel,2.7,Michigan,2024-10-12,2024-10-17,1529,Donald Trump,49.6,0
+AtlasIntel,2.7,Michigan,2024-10-12,2024-10-17,1529,Kamala Harris,47.3,1
+AtlasIntel,2.7,Michigan,2024-10-12,2024-10-17,1529,Donald Trump,50.2,0
+AtlasIntel,2.7,Nevada,2024-10-12,2024-10-17,1171,Kamala Harris,48.1,1
+AtlasIntel,2.7,Nevada,2024-10-12,2024-10-17,1171,Donald Trump,48.4,0
+AtlasIntel,2.7,Nevada,2024-10-12,2024-10-17,1171,Kamala Harris,48.4,1
+AtlasIntel,2.7,Nevada,2024-10-12,2024-10-17,1171,Donald Trump,48.3,0
+AtlasIntel,2.7,North Carolina,2024-10-12,2024-10-17,1674,Kamala Harris,49.5,1
+AtlasIntel,2.7,North Carolina,2024-10-12,2024-10-17,1674,Donald Trump,48.8,0
+AtlasIntel,2.7,North Carolina,2024-10-12,2024-10-17,1674,Kamala Harris,50.5,1
+AtlasIntel,2.7,Pennsylvania,2024-10-12,2024-10-17,2048,Kamala Harris,46.5,1
+AtlasIntel,2.7,Pennsylvania,2024-10-12,2024-10-17,2048,Donald Trump,49.8,0
+AtlasIntel,2.7,Pennsylvania,2024-10-12,2024-10-17,2048,Kamala Harris,47.4,1
+AtlasIntel,2.7,Pennsylvania,2024-10-12,2024-10-17,2048,Donald Trump,49.9,0
+AtlasIntel,2.7,Wisconsin,2024-10-12,2024-10-17,932,Kamala Harris,48.9,1
+AtlasIntel,2.7,Wisconsin,2024-10-12,2024-10-17,932,Donald Trump,48.2,0
+AtlasIntel,2.7,Wisconsin,2024-10-12,2024-10-17,932,Kamala Harris,49,1
+AtlasIntel,2.7,Wisconsin,2024-10-12,2024-10-17,932,Donald Trump,48.4,0
+Elon U.,2.5,North Carolina,2024-10-10,2024-10-17,800,Kamala Harris,46,1
+Elon U.,2.5,North Carolina,2024-10-10,2024-10-17,800,Donald Trump,46,0
+YouGov,3,California,2024-10-07,2024-10-17,1139,Kamala Harris,63,1
+YouGov,3,California,2024-10-07,2024-10-17,1139,Donald Trump,34,0
+YouGov,3,Pennsylvania,2024-10-07,2024-10-17,1062,Kamala Harris,50,1
+YouGov,3,Pennsylvania,2024-10-07,2024-10-17,1062,Donald Trump,47,0
+YouGov,3,Pennsylvania,2024-10-07,2024-10-17,1043,Kamala Harris,50,1
+YouGov,3,Pennsylvania,2024-10-07,2024-10-17,1043,Donald Trump,48,0
+YouGov,3,Florida,2024-10-07,2024-10-17,1094,Kamala Harris,46,1
+YouGov,3,Florida,2024-10-07,2024-10-17,1094,Donald Trump,51,0
+YouGov,3,Florida,2024-10-07,2024-10-17,1076,Kamala Harris,46,1
+YouGov,3,Florida,2024-10-07,2024-10-17,1076,Donald Trump,51,0
+YouGov,3,Texas,2024-10-07,2024-10-17,1108,Kamala Harris,45,1
+YouGov,3,Texas,2024-10-07,2024-10-17,1108,Donald Trump,50,0
+YouGov,3,Texas,2024-10-07,2024-10-17,1075,Kamala Harris,46,1
+YouGov,3,Texas,2024-10-07,2024-10-17,1075,Donald Trump,51,0
+YouGov,3,New York,2024-10-07,2024-10-17,1089,Kamala Harris,58,1
+YouGov,3,New York,2024-10-07,2024-10-17,1089,Donald Trump,38,0
+TIPP,1.8,Georgia,2024-10-14,2024-10-16,1029,Kamala Harris,48.8,1
+TIPP,1.8,Georgia,2024-10-14,2024-10-16,1029,Donald Trump,45.8,0
+TIPP,1.8,Georgia,2024-10-14,2024-10-16,813,Kamala Harris,48.3,1
+TIPP,1.8,Georgia,2024-10-14,2024-10-16,813,Donald Trump,48.5,0
+TIPP,1.8,Georgia,2024-10-14,2024-10-16,1029,Kamala Harris,48.3,1
+TIPP,1.8,Georgia,2024-10-14,2024-10-16,1029,Donald Trump,44.8,0
+TIPP,1.8,Georgia,2024-10-14,2024-10-16,813,Kamala Harris,49,1
+Mason-Dixon,2.6,South Dakota,2024-10-12,2024-10-16,500,Kamala Harris,33,1
+Mason-Dixon,2.6,South Dakota,2024-10-12,2024-10-16,500,Donald Trump,59,0
+YouGov,3,Arizona,2024-10-11,2024-10-16,1435,Kamala Harris,48,1
+YouGov,3,Arizona,2024-10-11,2024-10-16,1435,Donald Trump,51,0
+RMG Research,2.3,Wisconsin,2024-10-10,2024-10-16,787,Kamala Harris,49,1
+RMG Research,2.3,Wisconsin,2024-10-10,2024-10-16,787,Donald Trump,50,0
+RMG Research,2.3,Michigan,2024-10-10,2024-10-16,789,Kamala Harris,49,1
+RMG Research,2.3,Michigan,2024-10-10,2024-10-16,789,Donald Trump,49,0
+U. Georgia SPIA,2.2,Georgia,2024-10-07,2024-10-16,1000,Kamala Harris,43.4,1
+U. Georgia SPIA,2.2,Georgia,2024-10-07,2024-10-16,1000,Donald Trump,47,0
+MSU - Billings,1.5,Montana,2024-09-30,2024-10-16,760,Kamala Harris,34,1
+MSU - Billings,1.5,Montana,2024-09-30,2024-10-16,760,Donald Trump,52,0
+Fort Hays State University,0.9,Kansas,2024-09-26,2024-10-16,608,Kamala Harris,39.4,1
+Fort Hays State University,0.9,Kansas,2024-09-26,2024-10-16,608,Donald Trump,49.9,0
+Fort Hays State University,0.9,Kansas,2024-09-26,2024-10-16,517,Kamala Harris,43.2,1
+Fort Hays State University,0.9,Kansas,2024-09-26,2024-10-16,517,Donald Trump,48.2,0
+InsiderAdvantage,2,Georgia,2024-10-14,2024-10-15,800,Kamala Harris,47,1
+InsiderAdvantage,2,Georgia,2024-10-14,2024-10-15,800,Donald Trump,49,0
+Fabrizio/Impact,1.7,Nevada,2024-10-08,2024-10-15,600,Kamala Harris,46,1
+Fabrizio/Impact,1.7,Nevada,2024-10-08,2024-10-15,600,Donald Trump,47,0
+Fabrizio/Impact,1.7,Nevada,2024-10-08,2024-10-15,600,Kamala Harris,47,1
+Fabrizio/Impact,1.7,Nevada,2024-10-08,2024-10-15,600,Donald Trump,49,0
+PPIC,2.5,California,2024-10-07,2024-10-15,1137,Kamala Harris,59,1
+PPIC,2.5,California,2024-10-07,2024-10-15,1137,Donald Trump,33,0
+Morning Consult,1.9,Arizona,2024-10-06,2024-10-15,653,Kamala Harris,49,1
+Morning Consult,1.9,Arizona,2024-10-06,2024-10-15,653,Donald Trump,48,0
+Morning Consult,1.9,Georgia,2024-10-06,2024-10-15,1002,Kamala Harris,48,1
+Morning Consult,1.9,Georgia,2024-10-06,2024-10-15,1002,Donald Trump,49,0
+Morning Consult,1.9,Maryland,2024-10-06,2024-10-15,490,Kamala Harris,64,1
+Morning Consult,1.9,Maryland,2024-10-06,2024-10-15,490,Donald Trump,31,0
+Morning Consult,1.9,Michigan,2024-10-06,2024-10-15,1065,Kamala Harris,49,1
+Morning Consult,1.9,Michigan,2024-10-06,2024-10-15,1065,Donald Trump,47,0
+Morning Consult,1.9,Nevada,2024-10-06,2024-10-15,496,Kamala Harris,49,1
+Morning Consult,1.9,Nevada,2024-10-06,2024-10-15,496,Donald Trump,45,0
+Morning Consult,1.9,North Carolina,2024-10-06,2024-10-15,1072,Kamala Harris,48,1
+Morning Consult,1.9,North Carolina,2024-10-06,2024-10-15,1072,Donald Trump,49,0
+Morning Consult,1.9,Ohio,2024-10-06,2024-10-15,1243,Kamala Harris,45,1
+Morning Consult,1.9,Ohio,2024-10-06,2024-10-15,1243,Donald Trump,52,0
+Morning Consult,1.9,Pennsylvania,2024-10-06,2024-10-15,1395,Kamala Harris,49,1
+Morning Consult,1.9,Pennsylvania,2024-10-06,2024-10-15,1395,Donald Trump,48,0
+Morning Consult,1.9,Texas,2024-10-06,2024-10-15,2048,Kamala Harris,46,1
+Morning Consult,1.9,Texas,2024-10-06,2024-10-15,2048,Donald Trump,50,0
+Morning Consult,1.9,Wisconsin,2024-10-06,2024-10-15,527,Kamala Harris,47,1
+Morning Consult,1.9,Wisconsin,2024-10-06,2024-10-15,527,Donald Trump,48,0
+Washington Post/George Mason University,2.7,Arizona,2024-09-30,2024-10-15,580,Kamala Harris,44,1
+Washington Post/George Mason University,2.7,Arizona,2024-09-30,2024-10-15,580,Donald Trump,50,0
+Washington Post/George Mason University,2.7,Arizona,2024-09-30,2024-10-15,580,Kamala Harris,46,1
+Washington Post/George Mason University,2.7,Arizona,2024-09-30,2024-10-15,580,Donald Trump,49,0
+Washington Post/George Mason University,2.7,Georgia,2024-09-30,2024-10-15,730,Kamala Harris,50,1
+Washington Post/George Mason University,2.7,Georgia,2024-09-30,2024-10-15,730,Donald Trump,44,0
+Washington Post/George Mason University,2.7,Georgia,2024-09-30,2024-10-15,730,Kamala Harris,51,1
+Washington Post/George Mason University,2.7,Georgia,2024-09-30,2024-10-15,730,Donald Trump,47,0
+Washington Post/George Mason University,2.7,Michigan,2024-09-30,2024-10-15,687,Kamala Harris,46,1
+Washington Post/George Mason University,2.7,Michigan,2024-09-30,2024-10-15,687,Donald Trump,47,0
+Washington Post/George Mason University,2.7,Michigan,2024-09-30,2024-10-15,687,Kamala Harris,49,1
+Washington Post/George Mason University,2.7,Nevada,2024-09-30,2024-10-15,652,Kamala Harris,47,1
+Washington Post/George Mason University,2.7,Nevada,2024-09-30,2024-10-15,652,Donald Trump,44,0
+Washington Post/George Mason University,2.7,Nevada,2024-09-30,2024-10-15,652,Kamala Harris,48,1
+Washington Post/George Mason University,2.7,Nevada,2024-09-30,2024-10-15,652,Donald Trump,48,0
+Washington Post/George Mason University,2.7,North Carolina,2024-09-30,2024-10-15,965,Kamala Harris,45,1
+Washington Post/George Mason University,2.7,North Carolina,2024-09-30,2024-10-15,965,Donald Trump,49,0
+Washington Post/George Mason University,2.7,North Carolina,2024-09-30,2024-10-15,965,Kamala Harris,47,1
+Washington Post/George Mason University,2.7,North Carolina,2024-09-30,2024-10-15,965,Donald Trump,50,0
+Washington Post/George Mason University,2.7,Pennsylvania,2024-09-30,2024-10-15,707,Kamala Harris,49,1
+Washington Post/George Mason University,2.7,Pennsylvania,2024-09-30,2024-10-15,707,Donald Trump,46,0
+Washington Post/George Mason University,2.7,Pennsylvania,2024-09-30,2024-10-15,707,Donald Trump,47,0
+Washington Post/George Mason University,2.7,Wisconsin,2024-09-30,2024-10-15,695,Kamala Harris,50,1
+Washington Post/George Mason University,2.7,Wisconsin,2024-09-30,2024-10-15,695,Donald Trump,46,0
+Washington Post/George Mason University,2.7,Wisconsin,2024-09-30,2024-10-15,695,Donald Trump,47,0
+Mitchell,2.4,Michigan,2024-10-14,2024-10-14,589,Kamala Harris,47,1
+Mitchell,2.4,Michigan,2024-10-14,2024-10-14,589,Donald Trump,47,0
+Mitchell,2.4,Michigan,2024-10-14,2024-10-14,589,Kamala Harris,47.4,1
+Mitchell,2.4,Michigan,2024-10-14,2024-10-14,589,Donald Trump,48.5,0
+Patriot Polling,1.1,Wisconsin,2024-10-12,2024-10-14,803,Kamala Harris,49,1
+Patriot Polling,1.1,Wisconsin,2024-10-12,2024-10-14,803,Donald Trump,50,0
+Emerson,2.9,California,2024-10-12,2024-10-14,1000,Kamala Harris,61,1
+Emerson,2.9,California,2024-10-12,2024-10-14,1000,Donald Trump,36.6,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-12,2024-10-14,620,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-10-12,2024-10-14,620,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-12,2024-10-14,1141,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-10-12,2024-10-14,1141,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Florida,2024-10-12,2024-10-14,1009,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,Florida,2024-10-12,2024-10-14,1009,Donald Trump,50,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-12,2024-10-14,637,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-12,2024-10-14,637,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-12,2024-10-14,682,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-10-12,2024-10-14,682,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Minnesota,2024-10-12,2024-10-14,544,Kamala Harris,51,1
+Redfield & Wilton Strategies,1.8,Minnesota,2024-10-12,2024-10-14,544,Donald Trump,43,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-12,2024-10-14,838,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-10-12,2024-10-14,838,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,New Mexico,2024-10-12,2024-10-14,382,Kamala Harris,49,1
+Redfield & Wilton Strategies,1.8,New Mexico,2024-10-12,2024-10-14,382,Donald Trump,45,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-12,2024-10-14,1649,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-12,2024-10-14,1649,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-12,2024-10-14,641,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-10-12,2024-10-14,641,Donald Trump,47,0
+Cygnal,2.1,North Carolina,2024-10-12,2024-10-14,600,Kamala Harris,46.6,1
+Cygnal,2.1,North Carolina,2024-10-12,2024-10-14,600,Donald Trump,47.2,0
+Quinnipiac,2.8,Georgia,2024-10-10,2024-10-14,1328,Kamala Harris,45,1
+Quinnipiac,2.8,Georgia,2024-10-10,2024-10-14,1328,Donald Trump,52,0
+Quinnipiac,2.8,Georgia,2024-10-10,2024-10-14,1328,Kamala Harris,46,1
+Quinnipiac,2.8,North Carolina,2024-10-10,2024-10-14,1031,Kamala Harris,49,1
+Quinnipiac,2.8,North Carolina,2024-10-10,2024-10-14,1031,Donald Trump,47,0
+Quinnipiac,2.8,North Carolina,2024-10-10,2024-10-14,1031,Kamala Harris,50,1
+SurveyUSA,2.8,Washington,2024-10-09,2024-10-14,703,Kamala Harris,57,1
+SurveyUSA,2.8,Washington,2024-10-09,2024-10-14,703,Donald Trump,35,0
+East Carolina University,2.6,Georgia,2024-10-09,2024-10-14,701,Kamala Harris,45.8,1
+East Carolina University,2.6,Georgia,2024-10-09,2024-10-14,701,Donald Trump,48.9,0
+Trafalgar Group,0.7,Arizona,2024-10-10,2024-10-13,1090,Kamala Harris,46,1
+Trafalgar Group,0.7,Arizona,2024-10-10,2024-10-13,1090,Donald Trump,47.5,0
+Trafalgar Group,0.7,North Carolina,2024-10-10,2024-10-13,1085,Kamala Harris,44.6,1
+Trafalgar Group,0.7,North Carolina,2024-10-10,2024-10-13,1085,Donald Trump,46.5,0
+Trafalgar Group,0.7,Nevada,2024-10-10,2024-10-13,1088,Kamala Harris,45.6,1
+Trafalgar Group,0.7,Nevada,2024-10-10,2024-10-13,1088,Donald Trump,44.8,0
+Elway,1.9,Washington,2024-10-08,2024-10-12,401,Kamala Harris,57,1
+Elway,1.9,Washington,2024-10-08,2024-10-12,401,Donald Trump,32,0
+MRG (Marketing Resource Group),1.8,Michigan,2024-10-07,2024-10-11,600,Kamala Harris,44.9,1
+MRG (Marketing Resource Group),1.8,Michigan,2024-10-07,2024-10-11,600,Donald Trump,44,0
+Siena/NYT,3,Pennsylvania,2024-10-07,2024-10-10,857,Kamala Harris,50,1
+Siena/NYT,3,Pennsylvania,2024-10-07,2024-10-10,857,Donald Trump,47,0
+Siena/NYT,3,Pennsylvania,2024-10-07,2024-10-10,857,Kamala Harris,49,1
+Siena/NYT,3,Pennsylvania,2024-10-07,2024-10-10,857,Donald Trump,45,0
+Siena/NYT,3,Arizona,2024-10-07,2024-10-10,808,Kamala Harris,46,1
+Siena/NYT,3,Arizona,2024-10-07,2024-10-10,808,Donald Trump,51,0
+Siena/NYT,3,Arizona,2024-10-07,2024-10-10,808,Kamala Harris,45,1
+Siena/NYT,3,Arizona,2024-10-07,2024-10-10,808,Donald Trump,50,0
+Siena/NYT,3,Arizona,2024-10-07,2024-10-10,808,Kamala Harris,44,1
+Siena/NYT,3,Arizona,2024-10-07,2024-10-10,808,Donald Trump,49,0
+RMG Research,2.3,Georgia,2024-10-07,2024-10-10,731,Kamala Harris,47,1
+RMG Research,2.3,Georgia,2024-10-07,2024-10-10,731,Donald Trump,50,0
+UMass Amherst/YouGov,2.4,Massachusetts,2024-10-03,2024-10-10,700,Kamala Harris,56,1
+UMass Amherst/YouGov,2.4,Massachusetts,2024-10-03,2024-10-10,700,Donald Trump,30,0
+University of Massachusetts Lowell/YouGov,2.9,New Hampshire,2024-10-02,2024-10-10,600,Kamala Harris,50,1
+University of Massachusetts Lowell/YouGov,2.9,New Hampshire,2024-10-02,2024-10-10,600,Donald Trump,41,0
+YouGov,3,Texas,2024-10-02,2024-10-10,1091,Kamala Harris,46,1
+YouGov,3,Texas,2024-10-02,2024-10-10,1091,Donald Trump,51,0
+U. Houston,2.2,Texas,2024-09-26,2024-10-10,1329,Kamala Harris,46,1
+U. Houston,2.2,Texas,2024-09-26,2024-10-10,1329,Donald Trump,51,0
+InsiderAdvantage,2,Michigan,2024-10-08,2024-10-09,800,Kamala Harris,46,1
+InsiderAdvantage,2,Michigan,2024-10-08,2024-10-09,800,Donald Trump,48,0
+InsiderAdvantage,2,Wisconsin,2024-10-08,2024-10-09,800,Kamala Harris,48,1
+InsiderAdvantage,2,Wisconsin,2024-10-08,2024-10-09,800,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-08,2024-10-09,608,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-10-08,2024-10-09,608,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-08,2024-10-09,707,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-10-08,2024-10-09,707,Donald Trump,48,0
+Alaska Survey Research,1.9,Alaska,2024-10-08,2024-10-09,1254,Kamala Harris,43,1
+Alaska Survey Research,1.9,Alaska,2024-10-08,2024-10-09,1254,Donald Trump,50,0
+Alaska Survey Research,1.9,Alaska,2024-10-08,2024-10-09,1254,Kamala Harris,46,1
+Alaska Survey Research,1.9,Alaska,2024-10-08,2024-10-09,1254,Donald Trump,54,0
+TIPP,1.8,Pennsylvania,2024-10-07,2024-10-09,1079,Kamala Harris,49.2,1
+TIPP,1.8,Pennsylvania,2024-10-07,2024-10-09,1079,Donald Trump,45.3,0
+TIPP,1.8,Pennsylvania,2024-10-07,2024-10-09,803,Kamala Harris,47.5,1
+TIPP,1.8,Pennsylvania,2024-10-07,2024-10-09,803,Donald Trump,48.9,0
+TIPP,1.8,Pennsylvania,2024-10-07,2024-10-09,1079,Kamala Harris,48.5,1
+TIPP,1.8,Pennsylvania,2024-10-07,2024-10-09,1079,Donald Trump,44.9,0
+TIPP,1.8,Pennsylvania,2024-10-07,2024-10-09,803,Kamala Harris,48.3,1
+TIPP,1.8,Pennsylvania,2024-10-07,2024-10-09,803,Donald Trump,49,0
+University of Massachusetts Lowell/YouGov,2.9,Pennsylvania,2024-10-02,2024-10-09,800,Kamala Harris,46,1
+University of Massachusetts Lowell/YouGov,2.9,Pennsylvania,2024-10-02,2024-10-09,800,Donald Trump,45,0
+InsiderAdvantage,2,Pennsylvania,2024-10-07,2024-10-08,800,Kamala Harris,47,1
+InsiderAdvantage,2,Pennsylvania,2024-10-07,2024-10-08,800,Donald Trump,49,0
+Trafalgar Group,0.7,Georgia,2024-10-07,2024-10-08,1089,Kamala Harris,44.9,1
+Trafalgar Group,0.7,Georgia,2024-10-07,2024-10-08,1089,Donald Trump,46.2,0
+Emerson,2.9,Arizona,2024-10-05,2024-10-08,1000,Kamala Harris,48.2,1
+Emerson,2.9,Arizona,2024-10-05,2024-10-08,1000,Donald Trump,50.5,0
+Emerson,2.9,Georgia,2024-10-05,2024-10-08,1000,Kamala Harris,49.8,1
+Emerson,2.9,Georgia,2024-10-05,2024-10-08,1000,Donald Trump,49.7,0
+Emerson,2.9,Michigan,2024-10-05,2024-10-08,950,Kamala Harris,49.7,1
+Emerson,2.9,Michigan,2024-10-05,2024-10-08,950,Donald Trump,49.6,0
+Emerson,2.9,Nevada,2024-10-05,2024-10-08,900,Kamala Harris,49.2,1
+Emerson,2.9,Nevada,2024-10-05,2024-10-08,900,Donald Trump,48.1,0
+Emerson,2.9,North Carolina,2024-10-05,2024-10-08,1000,Kamala Harris,49,1
+Emerson,2.9,North Carolina,2024-10-05,2024-10-08,1000,Donald Trump,49.9,0
+Emerson,2.9,Pennsylvania,2024-10-05,2024-10-08,1000,Kamala Harris,49,1
+Emerson,2.9,Pennsylvania,2024-10-05,2024-10-08,1000,Donald Trump,49.7,0
+Emerson,2.9,Wisconsin,2024-10-05,2024-10-08,1000,Kamala Harris,49.2,1
+Emerson,2.9,Wisconsin,2024-10-05,2024-10-08,1000,Donald Trump,49.9,0
+Siena/NYT,3,Montana,2024-10-05,2024-10-08,656,Kamala Harris,39,1
+Siena/NYT,3,Montana,2024-10-05,2024-10-08,656,Donald Trump,57,0
+Siena/NYT,3,Montana,2024-10-05,2024-10-08,656,Kamala Harris,38,1
+Siena/NYT,3,Montana,2024-10-05,2024-10-08,656,Donald Trump,56,0
+Siena/NYT,3,Montana,2024-10-05,2024-10-08,656,Kamala Harris,40,1
+J.L. Partners,1.6,Pennsylvania,2024-10-05,2024-10-08,800,Kamala Harris,47,1
+J.L. Partners,1.6,Pennsylvania,2024-10-05,2024-10-08,800,Donald Trump,47,0
+Tarrance,1.6,Florida,2024-10-05,2024-10-08,818,Kamala Harris,44,1
+Tarrance,1.6,Florida,2024-10-05,2024-10-08,818,Donald Trump,51,0
+Change Research,1.4,Nebraska,2024-10-03,2024-10-08,895,Kamala Harris,38,1
+Change Research,1.4,Nebraska,2024-10-03,2024-10-08,895,Donald Trump,58,0
+Fabrizio/Impact,1.7,Michigan,2024-10-02,2024-10-08,600,Kamala Harris,46,1
+Fabrizio/Impact,1.7,Michigan,2024-10-02,2024-10-08,600,Donald Trump,46,0
+Fabrizio/Impact,1.7,Michigan,2024-10-02,2024-10-08,600,Kamala Harris,48,1
+Fabrizio/Impact,1.7,Michigan,2024-10-02,2024-10-08,600,Donald Trump,49,0
+Targoz Market Research,1.8,Tennessee,2024-09-27,2024-10-08,1200,Kamala Harris,35,1
+Targoz Market Research,1.8,Tennessee,2024-09-27,2024-10-08,1200,Donald Trump,54,0
+Targoz Market Research,1.8,Tennessee,2024-09-27,2024-10-08,971,Kamala Harris,35,1
+Targoz Market Research,1.8,Tennessee,2024-09-27,2024-10-08,971,Donald Trump,56,0
+Research Co.,2.4,Michigan,2024-10-05,2024-10-07,450,Kamala Harris,51,1
+Research Co.,2.4,Michigan,2024-10-05,2024-10-07,450,Donald Trump,48,0
+Research Co.,2.4,Pennsylvania,2024-10-05,2024-10-07,450,Kamala Harris,50,1
+Research Co.,2.4,Pennsylvania,2024-10-05,2024-10-07,450,Donald Trump,49,0
+Research Co.,2.4,Wisconsin,2024-10-05,2024-10-07,450,Kamala Harris,50,1
+Research Co.,2.4,Wisconsin,2024-10-05,2024-10-07,450,Donald Trump,48,0
+Quinnipiac,2.8,Michigan,2024-10-03,2024-10-07,1007,Kamala Harris,47,1
+Quinnipiac,2.8,Michigan,2024-10-03,2024-10-07,1007,Donald Trump,50,0
+Quinnipiac,2.8,Michigan,2024-10-03,2024-10-07,1007,Donald Trump,51,0
+Quinnipiac,2.8,Pennsylvania,2024-10-03,2024-10-07,1412,Kamala Harris,49,1
+Quinnipiac,2.8,Pennsylvania,2024-10-03,2024-10-07,1412,Donald Trump,46,0
+Quinnipiac,2.8,Pennsylvania,2024-10-03,2024-10-07,1412,Donald Trump,47,0
+Quinnipiac,2.8,Wisconsin,2024-10-03,2024-10-07,1073,Kamala Harris,46,1
+Quinnipiac,2.8,Wisconsin,2024-10-03,2024-10-07,1073,Donald Trump,48,0
+Quinnipiac,2.8,Wisconsin,2024-10-03,2024-10-07,1073,Kamala Harris,47,1
+Quinnipiac,2.8,Wisconsin,2024-10-03,2024-10-07,1073,Donald Trump,49,0
+Marist,2.9,Florida,2024-10-03,2024-10-07,1257,Kamala Harris,47,1
+Marist,2.9,Florida,2024-10-03,2024-10-07,1257,Donald Trump,51,0
+Marist,2.9,Florida,2024-10-03,2024-10-07,1410,Kamala Harris,47,1
+Marist,2.9,Florida,2024-10-03,2024-10-07,1410,Donald Trump,51,0
+Marist,2.9,Texas,2024-10-03,2024-10-07,1365,Kamala Harris,46,1
+Marist,2.9,Texas,2024-10-03,2024-10-07,1365,Donald Trump,52,0
+Marist,2.9,Texas,2024-10-03,2024-10-07,1186,Kamala Harris,46,1
+Marist,2.9,Texas,2024-10-03,2024-10-07,1186,Donald Trump,53,0
+Marist,2.9,Ohio,2024-10-03,2024-10-07,1511,Kamala Harris,46,1
+Marist,2.9,Ohio,2024-10-03,2024-10-07,1511,Donald Trump,52,0
+Marist,2.9,Ohio,2024-10-03,2024-10-07,1327,Kamala Harris,46,1
+Marist,2.9,Ohio,2024-10-03,2024-10-07,1327,Donald Trump,52,0
+The Washington Post,3,Ohio,2024-10-03,2024-10-07,1002,Kamala Harris,45,1
+The Washington Post,3,Ohio,2024-10-03,2024-10-07,1002,Donald Trump,51,0
+The Washington Post,3,Ohio,2024-10-03,2024-10-07,1002,Kamala Harris,44,1
+Noble Predictive Insights,2.4,Utah,2024-10-02,2024-10-07,539,Kamala Harris,38,1
+Noble Predictive Insights,2.4,Utah,2024-10-02,2024-10-07,539,Donald Trump,54,0
+Noble Predictive Insights,2.4,Utah,2024-10-02,2024-10-07,539,Kamala Harris,36,1
+Noble Predictive Insights,2.4,Utah,2024-10-02,2024-10-07,600,Kamala Harris,39,1
+Noble Predictive Insights,2.4,Utah,2024-10-02,2024-10-07,600,Donald Trump,52,0
+Noble Predictive Insights,2.4,Utah,2024-10-02,2024-10-07,600,Kamala Harris,37,1
+Noble Predictive Insights,2.4,Utah,2024-10-02,2024-10-07,600,Donald Trump,51,0
+Digital Research,1.4,Maine,2024-09-10,2024-10-07,604,Kamala Harris,48,1
+Digital Research,1.4,Maine,2024-09-10,2024-10-07,604,Donald Trump,41,0
+Digital Research,1.4,Maine,2024-09-10,2024-10-07,303,Kamala Harris,56,1
+Digital Research,1.4,Maine,2024-09-10,2024-10-07,303,Donald Trump,33,0
+Digital Research,1.4,Maine,2024-09-10,2024-10-07,301,Kamala Harris,40,1
+Digital Research,1.4,Maine,2024-09-10,2024-10-07,301,Donald Trump,49,0
+Siena/NYT,3,Florida,2024-09-29,2024-10-06,622,Kamala Harris,41,1
+Siena/NYT,3,Florida,2024-09-29,2024-10-06,622,Donald Trump,55,0
+Siena/NYT,3,Florida,2024-09-29,2024-10-06,622,Kamala Harris,40,1
+Siena/NYT,3,Florida,2024-09-29,2024-10-06,622,Donald Trump,53,0
+Siena/NYT,3,Florida,2024-09-29,2024-10-06,622,Donald Trump,54,0
+Suffolk,2.9,Massachusetts,2024-10-01,2024-10-05,500,Kamala Harris,61.2,1
+Suffolk,2.9,Massachusetts,2024-10-01,2024-10-05,500,Donald Trump,32.2,0
+Glengariff Group Inc.,1.5,Michigan,2024-10-01,2024-10-04,600,Kamala Harris,46.8,1
+Glengariff Group Inc.,1.5,Michigan,2024-10-01,2024-10-04,600,Donald Trump,44.2,0
+Mason-Dixon,2.6,Florida,2024-10-01,2024-10-04,625,Kamala Harris,43,1
+Mason-Dixon,2.6,Florida,2024-10-01,2024-10-04,625,Donald Trump,49,0
+CWS Research,1.6,Texas,2024-10-01,2024-10-04,533,Kamala Harris,43,1
+CWS Research,1.6,Texas,2024-10-01,2024-10-04,533,Donald Trump,48,0
+Siena/NYT,3,Texas,2024-09-29,2024-10-04,617,Kamala Harris,44,1
+Siena/NYT,3,Texas,2024-09-29,2024-10-04,617,Donald Trump,50,0
+Siena/NYT,3,Texas,2024-09-29,2024-10-04,617,Kamala Harris,42,1
+Siena/NYT,3,Texas,2024-09-29,2024-10-04,617,Donald Trump,49,0
+Siena/NYT,3,Texas,2024-09-29,2024-10-04,617,Kamala Harris,41,1
+Siena/NYT,3,Texas,2024-09-29,2024-10-04,617,Donald Trump,48,0
+Christopher Newport U.,2.8,Virginia,2024-09-28,2024-10-04,800,Kamala Harris,52,1
+Christopher Newport U.,2.8,Virginia,2024-09-28,2024-10-04,800,Donald Trump,41,0
+Impact Research,1.5,Nebraska,2024-10-01,2024-10-03,600,Kamala Harris,38,1
+Impact Research,1.5,Nebraska,2024-10-01,2024-10-03,600,Donald Trump,58,0
+RMG Research,2.3,Nevada,2024-09-30,2024-10-03,782,Kamala Harris,49,1
+RMG Research,2.3,Nevada,2024-09-30,2024-10-03,782,Donald Trump,49,0
+St. Anselm,2.4,New Hampshire,2024-10-01,2024-10-02,2104,Kamala Harris,51,1
+St. Anselm,2.4,New Hampshire,2024-10-01,2024-10-02,2104,Donald Trump,44,0
+RMG Research,2.3,Arizona,2024-09-30,2024-10-02,783,Kamala Harris,46,1
+RMG Research,2.3,Arizona,2024-09-30,2024-10-02,783,Donald Trump,50,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-09-27,2024-10-02,555,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-09-27,2024-10-02,555,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Florida,2024-09-27,2024-10-02,2946,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,Florida,2024-09-27,2024-10-02,2946,Donald Trump,49,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-09-27,2024-10-02,3783,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-09-27,2024-10-02,3783,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-09-27,2024-10-02,839,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-09-27,2024-10-02,839,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,Minnesota,2024-09-27,2024-10-02,551,Kamala Harris,51,1
+Redfield & Wilton Strategies,1.8,Minnesota,2024-09-27,2024-10-02,551,Donald Trump,43,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-09-27,2024-10-02,514,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-09-27,2024-10-02,514,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-09-27,2024-10-02,753,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-09-27,2024-10-02,753,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-09-27,2024-10-02,5686,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-09-27,2024-10-02,5686,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-09-27,2024-10-02,533,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-09-27,2024-10-02,533,Donald Trump,46,0
+YouGov/Center for Working Class Politics,3,Pennsylvania,2024-09-24,2024-10-02,1000,Kamala Harris,46.8,1
+YouGov/Center for Working Class Politics,3,Pennsylvania,2024-09-24,2024-10-02,1000,Donald Trump,44.7,0
+OnMessage Inc.,1.1,Arizona,2024-09-24,2024-10-02,500,Kamala Harris,45,1
+OnMessage Inc.,1.1,Arizona,2024-09-24,2024-10-02,500,Donald Trump,47,0
+OnMessage Inc.,1.1,Georgia,2024-09-24,2024-10-02,500,Kamala Harris,44,1
+OnMessage Inc.,1.1,Georgia,2024-09-24,2024-10-02,500,Donald Trump,47,0
+OnMessage Inc.,1.1,Michigan,2024-09-24,2024-10-02,500,Kamala Harris,48,1
+OnMessage Inc.,1.1,Michigan,2024-09-24,2024-10-02,500,Donald Trump,46,0
+OnMessage Inc.,1.1,Nevada,2024-09-24,2024-10-02,500,Kamala Harris,45,1
+OnMessage Inc.,1.1,Nevada,2024-09-24,2024-10-02,500,Donald Trump,47,0
+OnMessage Inc.,1.1,Pennsylvania,2024-09-24,2024-10-02,500,Kamala Harris,46,1
+OnMessage Inc.,1.1,Pennsylvania,2024-09-24,2024-10-02,500,Donald Trump,46,0
+OnMessage Inc.,1.1,Wisconsin,2024-09-24,2024-10-02,500,Kamala Harris,46,1
+OnMessage Inc.,1.1,Wisconsin,2024-09-24,2024-10-02,500,Donald Trump,47,0
+UC Berkeley,2.5,California,2024-09-25,2024-10-01,3045,Kamala Harris,57,1
+UC Berkeley,2.5,California,2024-09-25,2024-10-01,3045,Donald Trump,35,0
+Fabrizio/Impact,1.7,Arizona,2024-09-24,2024-10-01,600,Kamala Harris,47,1
+Fabrizio/Impact,1.7,Arizona,2024-09-24,2024-10-01,600,Donald Trump,49,0
+Fabrizio/Impact,1.7,Arizona,2024-09-24,2024-10-01,600,Kamala Harris,48,1
+Fabrizio/Impact,1.7,Arizona,2024-09-24,2024-10-01,600,Donald Trump,50,0
+Mitchell,2.4,Michigan,2024-09-30,2024-09-30,709,Kamala Harris,48,1
+Mitchell,2.4,Michigan,2024-09-30,2024-09-30,709,Donald Trump,49,0
+Mitchell,2.4,Michigan,2024-09-30,2024-09-30,709,Kamala Harris,47,1
+Mitchell,2.4,Michigan,2024-09-30,2024-09-30,709,Donald Trump,47,0
+InsiderAdvantage,2,Arizona,2024-09-29,2024-09-30,800,Kamala Harris,47.7,1
+InsiderAdvantage,2,Arizona,2024-09-29,2024-09-30,800,Donald Trump,49.1,0
+InsiderAdvantage,2,Nevada,2024-09-29,2024-09-30,800,Kamala Harris,48.4,1
+InsiderAdvantage,2,Nevada,2024-09-29,2024-09-30,800,Donald Trump,49.3,0
+InsiderAdvantage,2,North Carolina,2024-09-29,2024-09-30,800,Kamala Harris,49.3,1
+InsiderAdvantage,2,North Carolina,2024-09-29,2024-09-30,800,Donald Trump,49.5,0
+InsiderAdvantage,2,Georgia,2024-09-29,2024-09-30,800,Kamala Harris,48.3,1
+InsiderAdvantage,2,Georgia,2024-09-29,2024-09-30,800,Donald Trump,48.1,0
+Trafalgar Group,0.7,Wisconsin,2024-09-28,2024-09-30,1079,Kamala Harris,46,1
+Trafalgar Group,0.7,Wisconsin,2024-09-28,2024-09-30,1079,Donald Trump,47.1,0
+Trafalgar Group,0.7,Michigan,2024-09-28,2024-09-30,1086,Kamala Harris,44.7,1
+Trafalgar Group,0.7,Michigan,2024-09-28,2024-09-30,1086,Donald Trump,46.9,0
+WPAi,1.7,North Dakota,2024-09-28,2024-09-30,500,Kamala Harris,32,1
+WPAi,1.7,North Dakota,2024-09-28,2024-09-30,500,Donald Trump,59,0
+OnMessage Inc.,1.1,Pennsylvania,2024-09-28,2024-09-29,800,Kamala Harris,47,1
+OnMessage Inc.,1.1,Pennsylvania,2024-09-28,2024-09-29,800,Donald Trump,47,0
+Patriot Polling,1.1,Pennsylvania,2024-09-27,2024-09-29,816,Kamala Harris,49,1
+Patriot Polling,1.1,Pennsylvania,2024-09-27,2024-09-29,816,Donald Trump,50,0
+Alaska Survey Research,1.9,Alaska,2024-09-27,2024-09-29,1182,Kamala Harris,43,1
+Alaska Survey Research,1.9,Alaska,2024-09-27,2024-09-29,1182,Donald Trump,52,0
+Trafalgar Group,0.7,Pennsylvania,2024-09-26,2024-09-29,1090,Kamala Harris,45.3,1
+Trafalgar Group,0.7,Pennsylvania,2024-09-26,2024-09-29,1090,Donald Trump,47.5,0
+HighGround,1.8,Arizona,2024-09-26,2024-09-29,500,Kamala Harris,47.6,1
+HighGround,1.8,Arizona,2024-09-26,2024-09-29,500,Donald Trump,45.4,0
+The Washington Post,3,North Carolina,2024-09-25,2024-09-29,1001,Kamala Harris,48,1
+The Washington Post,3,North Carolina,2024-09-25,2024-09-29,1001,Donald Trump,50,0
+The Washington Post,3,North Carolina,2024-09-25,2024-09-29,1001,Kamala Harris,47,1
+Quinnipiac,2.8,North Carolina,2024-09-25,2024-09-29,953,Kamala Harris,47,1
+Quinnipiac,2.8,North Carolina,2024-09-25,2024-09-29,953,Donald Trump,49,0
+Quinnipiac,2.8,North Carolina,2024-09-25,2024-09-29,953,Kamala Harris,48,1
+Quinnipiac,2.8,Georgia,2024-09-25,2024-09-29,942,Kamala Harris,44,1
+Quinnipiac,2.8,Georgia,2024-09-25,2024-09-29,942,Donald Trump,50,0
+Quinnipiac,2.8,Georgia,2024-09-25,2024-09-29,942,Kamala Harris,45,1
+National Research,2,Arizona,2024-09-25,2024-09-29,600,Kamala Harris,47,1
+National Research,2,Arizona,2024-09-25,2024-09-29,600,Donald Trump,46,0
+Winthrop U.,2.5,South Carolina,2024-09-21,2024-09-29,1068,Kamala Harris,42,1
+Winthrop U.,2.5,South Carolina,2024-09-21,2024-09-29,1068,Donald Trump,51.6,0
+High Point University,2.5,North Carolina,2024-09-20,2024-09-29,814,Kamala Harris,48,1
+High Point University,2.5,North Carolina,2024-09-20,2024-09-29,814,Donald Trump,46,0
+High Point University,2.5,North Carolina,2024-09-20,2024-09-29,589,Kamala Harris,48,1
+High Point University,2.5,North Carolina,2024-09-20,2024-09-29,589,Donald Trump,48,0
+Emerson,2.9,Arizona,2024-09-27,2024-09-28,920,Kamala Harris,47.6,1
+Emerson,2.9,Arizona,2024-09-27,2024-09-28,920,Donald Trump,51.7,0
+Emerson,2.9,North Carolina,2024-09-27,2024-09-28,850,Kamala Harris,49.1,1
+Emerson,2.9,North Carolina,2024-09-27,2024-09-28,850,Donald Trump,49.9,0
+Emerson,2.9,Pennsylvania,2024-09-27,2024-09-28,1000,Kamala Harris,49.3,1
+Emerson,2.9,Pennsylvania,2024-09-27,2024-09-28,1000,Donald Trump,48.8,0
+Cygnal,2.1,Iowa,2024-09-27,2024-09-28,600,Kamala Harris,44.6,1
+Cygnal,2.1,Iowa,2024-09-27,2024-09-28,600,Donald Trump,51.3,0
+PPP,1.4,Utah,2024-09-27,2024-09-28,612,Kamala Harris,39,1
+PPP,1.4,Utah,2024-09-27,2024-09-28,612,Donald Trump,54,0
+RMG Research,2.3,Texas,2024-09-25,2024-09-27,779,Kamala Harris,46,1
+RMG Research,2.3,Texas,2024-09-25,2024-09-27,779,Donald Trump,53,0
+RMG Research,2.3,Florida,2024-09-25,2024-09-27,774,Kamala Harris,48,1
+RMG Research,2.3,Florida,2024-09-25,2024-09-27,774,Donald Trump,50,0
+RMG Research,2.3,North Carolina,2024-09-25,2024-09-27,780,Kamala Harris,47,1
+RMG Research,2.3,North Carolina,2024-09-25,2024-09-27,780,Donald Trump,51,0
+RMG Research,2.3,Michigan,2024-09-24,2024-09-27,789,Kamala Harris,50,1
+RMG Research,2.3,Michigan,2024-09-24,2024-09-27,789,Donald Trump,47,0
+PPP,1.4,Florida,2024-09-25,2024-09-26,808,Kamala Harris,45,1
+PPP,1.4,Florida,2024-09-25,2024-09-26,808,Donald Trump,49,0
+PPP,1.4,Florida,2024-09-25,2024-09-26,808,Kamala Harris,46,1
+PPP,1.4,Florida,2024-09-25,2024-09-26,808,Donald Trump,50,0
+PPP,1.4,Texas,2024-09-25,2024-09-26,759,Kamala Harris,44,1
+PPP,1.4,Texas,2024-09-25,2024-09-26,759,Donald Trump,49,0
+PPP,1.4,Texas,2024-09-25,2024-09-26,759,Kamala Harris,46,1
+PPP,1.4,Texas,2024-09-25,2024-09-26,759,Donald Trump,51,0
+Siena/NYT,3,Nebraska,2024-09-24,2024-09-26,680,Kamala Harris,51,1
+Siena/NYT,3,Nebraska,2024-09-24,2024-09-26,680,Donald Trump,42,0
+Siena/NYT,3,Nebraska,2024-09-24,2024-09-26,680,Kamala Harris,49,1
+Siena/NYT,3,Nebraska,2024-09-24,2024-09-26,680,Donald Trump,41,0
+Siena/NYT,3,Nebraska,2024-09-24,2024-09-26,680,Kamala Harris,52,1
+Siena/NYT,3,Nebraska,2024-09-24,2024-09-26,680,Donald Trump,43,0
+SurveyUSA,2.8,Minnesota,2024-09-23,2024-09-26,646,Kamala Harris,50,1
+SurveyUSA,2.8,Minnesota,2024-09-23,2024-09-26,646,Donald Trump,44,0
+East Carolina University,2.6,North Carolina,2024-09-23,2024-09-26,1005,Kamala Harris,47.1,1
+East Carolina University,2.6,North Carolina,2024-09-23,2024-09-26,1005,Donald Trump,49.4,0
+Lake Research,1.2,North Dakota,2024-09-23,2024-09-26,500,Kamala Harris,40,1
+Lake Research,1.2,North Dakota,2024-09-23,2024-09-26,500,Donald Trump,50,0
+Siena/NYT,3,Michigan,2024-09-21,2024-09-26,688,Kamala Harris,45,1
+Siena/NYT,3,Michigan,2024-09-21,2024-09-26,688,Donald Trump,47,0
+Siena/NYT,3,Michigan,2024-09-21,2024-09-26,688,Kamala Harris,43,1
+Siena/NYT,3,Michigan,2024-09-21,2024-09-26,688,Donald Trump,46,0
+Siena/NYT,3,Michigan,2024-09-21,2024-09-26,688,Kamala Harris,48,1
+Siena/NYT,3,Michigan,2024-09-21,2024-09-26,688,Kamala Harris,46,1
+Siena/NYT,3,Ohio,2024-09-21,2024-09-26,687,Kamala Harris,45,1
+Siena/NYT,3,Ohio,2024-09-21,2024-09-26,687,Donald Trump,49,0
+Siena/NYT,3,Ohio,2024-09-21,2024-09-26,687,Kamala Harris,44,1
+Siena/NYT,3,Ohio,2024-09-21,2024-09-26,687,Donald Trump,47,0
+Siena/NYT,3,Ohio,2024-09-21,2024-09-26,687,Donald Trump,50,0
+Siena/NYT,3,Ohio,2024-09-21,2024-09-26,687,Kamala Harris,43,1
+Siena/NYT,3,Wisconsin,2024-09-21,2024-09-26,680,Kamala Harris,49,1
+Siena/NYT,3,Wisconsin,2024-09-21,2024-09-26,680,Donald Trump,47,0
+Siena/NYT,3,Wisconsin,2024-09-21,2024-09-26,680,Kamala Harris,48,1
+Siena/NYT,3,Wisconsin,2024-09-21,2024-09-26,680,Donald Trump,45,0
+Siena/NYT,3,Wisconsin,2024-09-21,2024-09-26,680,Donald Trump,46,0
+Marquette Law School,3,Wisconsin,2024-09-18,2024-09-26,882,Kamala Harris,52,1
+Marquette Law School,3,Wisconsin,2024-09-18,2024-09-26,882,Donald Trump,48,0
+Marquette Law School,3,Wisconsin,2024-09-18,2024-09-26,798,Kamala Harris,52,1
+Marquette Law School,3,Wisconsin,2024-09-18,2024-09-26,798,Donald Trump,48,0
+Marquette Law School,3,Wisconsin,2024-09-18,2024-09-26,882,Kamala Harris,48,1
+Marquette Law School,3,Wisconsin,2024-09-18,2024-09-26,882,Donald Trump,44,0
+Marquette Law School,3,Wisconsin,2024-09-18,2024-09-26,798,Kamala Harris,49,1
+Marquette Law School,3,Wisconsin,2024-09-18,2024-09-26,798,Donald Trump,44,0
+TIPP,1.8,Nevada,2024-09-23,2024-09-25,1044,Kamala Harris,48,1
+TIPP,1.8,Nevada,2024-09-23,2024-09-25,1044,Donald Trump,43.9,0
+TIPP,1.8,Nevada,2024-09-23,2024-09-25,736,Kamala Harris,49.2,1
+TIPP,1.8,Nevada,2024-09-23,2024-09-25,736,Donald Trump,47.9,0
+TIPP,1.8,Nevada,2024-09-23,2024-09-25,1044,Kamala Harris,47.6,1
+TIPP,1.8,Nevada,2024-09-23,2024-09-25,1044,Donald Trump,43.3,0
+TIPP,1.8,Nevada,2024-09-23,2024-09-25,736,Kamala Harris,49.7,1
+TIPP,1.8,Nevada,2024-09-23,2024-09-25,736,Donald Trump,48.5,0
+Emerson,2.9,New York,2024-09-23,2024-09-25,1000,Kamala Harris,55.5,1
+Emerson,2.9,New York,2024-09-23,2024-09-25,1000,Donald Trump,41.6,0
+McLaughlin,0.5,Florida,2024-09-23,2024-09-25,1200,Kamala Harris,46,1
+McLaughlin,0.5,Florida,2024-09-23,2024-09-25,1200,Donald Trump,51,0
+Victory Insights,1.3,Florida,2024-09-22,2024-09-25,600,Kamala Harris,44.9,1
+Victory Insights,1.3,Florida,2024-09-22,2024-09-25,600,Donald Trump,46.9,0
+CNN/SSRS,2.8,North Carolina,2024-09-20,2024-09-25,931,Kamala Harris,48,1
+CNN/SSRS,2.8,North Carolina,2024-09-20,2024-09-25,931,Donald Trump,48,0
+CNN/SSRS,2.8,Nebraska,2024-09-20,2024-09-25,749,Kamala Harris,53,1
+CNN/SSRS,2.8,Nebraska,2024-09-20,2024-09-25,749,Donald Trump,42,0
+AtlasIntel,2.7,Arizona,2024-09-20,2024-09-25,946,Kamala Harris,48.6,1
+AtlasIntel,2.7,Arizona,2024-09-20,2024-09-25,946,Donald Trump,49.7,0
+AtlasIntel,2.7,Arizona,2024-09-20,2024-09-25,946,Donald Trump,49.8,0
+AtlasIntel,2.7,Michigan,2024-09-20,2024-09-25,918,Kamala Harris,46.6,1
+AtlasIntel,2.7,Michigan,2024-09-20,2024-09-25,918,Donald Trump,50.4,0
+AtlasIntel,2.7,Michigan,2024-09-20,2024-09-25,918,Kamala Harris,47.2,1
+AtlasIntel,2.7,Michigan,2024-09-20,2024-09-25,918,Donald Trump,50.6,0
+AtlasIntel,2.7,Nevada,2024-09-20,2024-09-25,858,Kamala Harris,50.6,1
+AtlasIntel,2.7,Nevada,2024-09-20,2024-09-25,858,Donald Trump,47.7,0
+AtlasIntel,2.7,Nevada,2024-09-20,2024-09-25,858,Kamala Harris,50.5,1
+AtlasIntel,2.7,Pennsylvania,2024-09-20,2024-09-25,1775,Kamala Harris,48,1
+AtlasIntel,2.7,Pennsylvania,2024-09-20,2024-09-25,1775,Donald Trump,50.6,0
+AtlasIntel,2.7,Pennsylvania,2024-09-20,2024-09-25,1775,Kamala Harris,48.1,1
+AtlasIntel,2.7,Pennsylvania,2024-09-20,2024-09-25,1775,Donald Trump,51,0
+AtlasIntel,2.7,Wisconsin,2024-09-20,2024-09-25,1077,Kamala Harris,48.2,1
+AtlasIntel,2.7,Wisconsin,2024-09-20,2024-09-25,1077,Donald Trump,49.6,0
+AtlasIntel,2.7,Wisconsin,2024-09-20,2024-09-25,1077,Donald Trump,49.7,0
+AtlasIntel,2.7,North Carolina,2024-09-20,2024-09-25,1173,Kamala Harris,50.8,1
+AtlasIntel,2.7,North Carolina,2024-09-20,2024-09-25,1173,Donald Trump,47.3,0
+AtlasIntel,2.7,North Carolina,2024-09-20,2024-09-25,1173,Kamala Harris,50.5,1
+AtlasIntel,2.7,North Carolina,2024-09-20,2024-09-25,1173,Donald Trump,48.1,0
+AtlasIntel,2.7,Georgia,2024-09-20,2024-09-25,1200,Kamala Harris,49,1
+AtlasIntel,2.7,Georgia,2024-09-20,2024-09-25,1200,Donald Trump,49.3,0
+AtlasIntel,2.7,Georgia,2024-09-20,2024-09-25,1200,Donald Trump,49.6,0
+Morning Consult,1.9,Arizona,2024-09-19,2024-09-25,977,Kamala Harris,49,1
+Morning Consult,1.9,Arizona,2024-09-19,2024-09-25,977,Donald Trump,46,0
+Morning Consult,1.9,Arizona,2024-09-19,2024-09-25,977,Kamala Harris,50,1
+Morning Consult,1.9,Arizona,2024-09-19,2024-09-25,977,Donald Trump,47,0
+Morning Consult,1.9,Arizona,2024-09-19,2024-09-25,926,Kamala Harris,49,1
+Morning Consult,1.9,Arizona,2024-09-19,2024-09-25,926,Donald Trump,46,0
+Morning Consult,1.9,Arizona,2024-09-19,2024-09-25,926,Kamala Harris,50,1
+Morning Consult,1.9,Arizona,2024-09-19,2024-09-25,926,Donald Trump,47,0
+Morning Consult,1.9,Georgia,2024-09-19,2024-09-25,989,Kamala Harris,48,1
+Morning Consult,1.9,Georgia,2024-09-19,2024-09-25,989,Donald Trump,47,0
+Morning Consult,1.9,Georgia,2024-09-19,2024-09-25,913,Kamala Harris,48,1
+Morning Consult,1.9,Georgia,2024-09-19,2024-09-25,913,Donald Trump,48,0
+Morning Consult,1.9,Georgia,2024-09-19,2024-09-25,913,Kamala Harris,49,1
+Morning Consult,1.9,Georgia,2024-09-19,2024-09-25,913,Donald Trump,49,0
+Morning Consult,1.9,Michigan,2024-09-19,2024-09-25,894,Kamala Harris,49,1
+Morning Consult,1.9,Michigan,2024-09-19,2024-09-25,894,Donald Trump,45,0
+Morning Consult,1.9,Michigan,2024-09-19,2024-09-25,894,Donald Trump,47,0
+Morning Consult,1.9,Michigan,2024-09-19,2024-09-25,800,Kamala Harris,50,1
+Morning Consult,1.9,Michigan,2024-09-19,2024-09-25,800,Donald Trump,46,0
+Morning Consult,1.9,Michigan,2024-09-19,2024-09-25,800,Donald Trump,47,0
+Morning Consult,1.9,Nevada,2024-09-19,2024-09-25,574,Kamala Harris,46,1
+Morning Consult,1.9,Nevada,2024-09-19,2024-09-25,574,Donald Trump,44,0
+Morning Consult,1.9,Nevada,2024-09-19,2024-09-25,574,Kamala Harris,49,1
+Morning Consult,1.9,Nevada,2024-09-19,2024-09-25,574,Donald Trump,45,0
+Morning Consult,1.9,Nevada,2024-09-19,2024-09-25,516,Kamala Harris,50,1
+Morning Consult,1.9,Nevada,2024-09-19,2024-09-25,516,Donald Trump,44,0
+Morning Consult,1.9,Nevada,2024-09-19,2024-09-25,516,Kamala Harris,52,1
+Morning Consult,1.9,Nevada,2024-09-19,2024-09-25,516,Donald Trump,45,0
+Morning Consult,1.9,North Carolina,2024-09-19,2024-09-25,889,Kamala Harris,48,1
+Morning Consult,1.9,North Carolina,2024-09-19,2024-09-25,889,Donald Trump,46,0
+Morning Consult,1.9,North Carolina,2024-09-19,2024-09-25,889,Kamala Harris,50,1
+Morning Consult,1.9,North Carolina,2024-09-19,2024-09-25,889,Donald Trump,47,0
+Morning Consult,1.9,North Carolina,2024-09-19,2024-09-25,828,Kamala Harris,49,1
+Morning Consult,1.9,North Carolina,2024-09-19,2024-09-25,828,Donald Trump,47,0
+Morning Consult,1.9,North Carolina,2024-09-19,2024-09-25,828,Kamala Harris,50,1
+Morning Consult,1.9,North Carolina,2024-09-19,2024-09-25,828,Donald Trump,48,0
+Morning Consult,1.9,Pennsylvania,2024-09-19,2024-09-25,993,Kamala Harris,50,1
+Morning Consult,1.9,Pennsylvania,2024-09-19,2024-09-25,993,Donald Trump,44,0
+Morning Consult,1.9,Pennsylvania,2024-09-19,2024-09-25,993,Kamala Harris,49,1
+Morning Consult,1.9,Pennsylvania,2024-09-19,2024-09-25,993,Donald Trump,46,0
+Morning Consult,1.9,Pennsylvania,2024-09-19,2024-09-25,924,Kamala Harris,51,1
+Morning Consult,1.9,Pennsylvania,2024-09-19,2024-09-25,924,Donald Trump,45,0
+Morning Consult,1.9,Pennsylvania,2024-09-19,2024-09-25,924,Donald Trump,46,0
+Morning Consult,1.9,Wisconsin,2024-09-19,2024-09-25,849,Kamala Harris,49,1
+Morning Consult,1.9,Wisconsin,2024-09-19,2024-09-25,849,Donald Trump,47,0
+Morning Consult,1.9,Wisconsin,2024-09-19,2024-09-25,849,Kamala Harris,50,1
+Morning Consult,1.9,Wisconsin,2024-09-19,2024-09-25,849,Donald Trump,48,0
+Morning Consult,1.9,Wisconsin,2024-09-19,2024-09-25,785,Kamala Harris,50,1
+Morning Consult,1.9,Wisconsin,2024-09-19,2024-09-25,785,Donald Trump,47,0
+Morning Consult,1.9,Wisconsin,2024-09-19,2024-09-25,785,Kamala Harris,51,1
+Morning Consult,1.9,Wisconsin,2024-09-19,2024-09-25,785,Donald Trump,48,0
+Virginia Commonwealth U.,2.1,Virginia,2024-09-16,2024-09-25,832,Kamala Harris,43,1
+Virginia Commonwealth U.,2.1,Virginia,2024-09-16,2024-09-25,832,Donald Trump,37,0
+Virginia Commonwealth U.,2.1,Virginia,2024-09-16,2024-09-25,762,Kamala Harris,47.4,1
+Virginia Commonwealth U.,2.1,Virginia,2024-09-16,2024-09-25,762,Donald Trump,36.6,0
+Emerson,2.9,Texas,2024-09-22,2024-09-24,950,Kamala Harris,46.7,1
+Emerson,2.9,Texas,2024-09-22,2024-09-24,950,Donald Trump,52.3,0
+Emerson,2.9,Virginia,2024-09-22,2024-09-24,860,Kamala Harris,52.7,1
+Emerson,2.9,Virginia,2024-09-22,2024-09-24,860,Donald Trump,46.2,0
+YouGov,3,Georgia,2024-09-20,2024-09-24,1441,Kamala Harris,49,1
+YouGov,3,Georgia,2024-09-20,2024-09-24,1441,Donald Trump,51,0
+Beacon/Shaw,2.8,Arizona,2024-09-20,2024-09-24,1021,Kamala Harris,47,1
+Beacon/Shaw,2.8,Arizona,2024-09-20,2024-09-24,1021,Donald Trump,49,0
+Beacon/Shaw,2.8,Arizona,2024-09-20,2024-09-24,764,Kamala Harris,47,1
+Beacon/Shaw,2.8,Arizona,2024-09-20,2024-09-24,764,Donald Trump,50,0
+Beacon/Shaw,2.8,Arizona,2024-09-20,2024-09-24,1021,Kamala Harris,48,1
+Beacon/Shaw,2.8,Arizona,2024-09-20,2024-09-24,1021,Donald Trump,50,0
+Beacon/Shaw,2.8,Arizona,2024-09-20,2024-09-24,764,Kamala Harris,48,1
+Beacon/Shaw,2.8,Arizona,2024-09-20,2024-09-24,764,Donald Trump,51,0
+Beacon/Shaw,2.8,Georgia,2024-09-20,2024-09-24,1006,Kamala Harris,49,1
+Beacon/Shaw,2.8,Georgia,2024-09-20,2024-09-24,1006,Donald Trump,47,0
+Beacon/Shaw,2.8,Georgia,2024-09-20,2024-09-24,707,Kamala Harris,50,1
+Beacon/Shaw,2.8,Georgia,2024-09-20,2024-09-24,707,Donald Trump,48,0
+Beacon/Shaw,2.8,Georgia,2024-09-20,2024-09-24,1006,Kamala Harris,51,1
+Beacon/Shaw,2.8,Georgia,2024-09-20,2024-09-24,1006,Donald Trump,48,0
+Beacon/Shaw,2.8,Georgia,2024-09-20,2024-09-24,707,Kamala Harris,51,1
+Beacon/Shaw,2.8,North Carolina,2024-09-20,2024-09-24,787,Kamala Harris,47,1
+Beacon/Shaw,2.8,North Carolina,2024-09-20,2024-09-24,787,Donald Trump,49,0
+Beacon/Shaw,2.8,North Carolina,2024-09-20,2024-09-24,991,Kamala Harris,48,1
+Beacon/Shaw,2.8,North Carolina,2024-09-20,2024-09-24,991,Donald Trump,47,0
+Beacon/Shaw,2.8,North Carolina,2024-09-20,2024-09-24,787,Kamala Harris,49,1
+Beacon/Shaw,2.8,North Carolina,2024-09-20,2024-09-24,787,Donald Trump,50,0
+Beacon/Shaw,2.8,North Carolina,2024-09-20,2024-09-24,991,Kamala Harris,50,1
+Beacon/Shaw,2.8,North Carolina,2024-09-20,2024-09-24,991,Donald Trump,48,0
+Beacon/Shaw,2.8,Pennsylvania,2024-09-20,2024-09-24,775,Kamala Harris,47,1
+Beacon/Shaw,2.8,Pennsylvania,2024-09-20,2024-09-24,775,Donald Trump,48,0
+Beacon/Shaw,2.8,Pennsylvania,2024-09-20,2024-09-24,1021,Kamala Harris,48,1
+Beacon/Shaw,2.8,Pennsylvania,2024-09-20,2024-09-24,1021,Donald Trump,46,0
+Beacon/Shaw,2.8,Pennsylvania,2024-09-20,2024-09-24,775,Kamala Harris,49,1
+Beacon/Shaw,2.8,Pennsylvania,2024-09-20,2024-09-24,775,Donald Trump,49,0
+Beacon/Shaw,2.8,Pennsylvania,2024-09-20,2024-09-24,1021,Kamala Harris,50,1
+Beacon/Shaw,2.8,Pennsylvania,2024-09-20,2024-09-24,1021,Donald Trump,48,0
+Marist,2.9,Arizona,2024-09-19,2024-09-24,1416,Kamala Harris,48,1
+Marist,2.9,Arizona,2024-09-19,2024-09-24,1416,Donald Trump,50,0
+Marist,2.9,Arizona,2024-09-19,2024-09-24,1264,Kamala Harris,49,1
+Marist,2.9,Arizona,2024-09-19,2024-09-24,1264,Donald Trump,50,0
+Marist,2.9,North Carolina,2024-09-19,2024-09-24,1507,Kamala Harris,49,1
+Marist,2.9,North Carolina,2024-09-19,2024-09-24,1507,Donald Trump,48,0
+Marist,2.9,North Carolina,2024-09-19,2024-09-24,1348,Kamala Harris,49,1
+Marist,2.9,North Carolina,2024-09-19,2024-09-24,1348,Donald Trump,49,0
+Marist,2.9,Georgia,2024-09-19,2024-09-24,1420,Kamala Harris,49,1
+Marist,2.9,Georgia,2024-09-19,2024-09-24,1420,Donald Trump,48,0
+Marist,2.9,Georgia,2024-09-19,2024-09-24,1220,Kamala Harris,49,1
+Marist,2.9,Georgia,2024-09-19,2024-09-24,1220,Donald Trump,50,0
+Suffolk,2.9,Arizona,2024-09-19,2024-09-24,500,Kamala Harris,42.4,1
+Suffolk,2.9,Arizona,2024-09-19,2024-09-24,500,Donald Trump,48.4,0
+Fabrizio/Impact,1.7,Pennsylvania,2024-09-17,2024-09-24,600,Kamala Harris,49,1
+Fabrizio/Impact,1.7,Pennsylvania,2024-09-17,2024-09-24,600,Donald Trump,47,0
+Fabrizio/Impact,1.7,Pennsylvania,2024-09-17,2024-09-24,600,Kamala Harris,50,1
+SurveyUSA,2.8,Nebraska,2024-09-20,2024-09-23,558,Kamala Harris,40,1
+SurveyUSA,2.8,Nebraska,2024-09-20,2024-09-23,558,Donald Trump,56,0
+Monmouth,2.9,Pennsylvania,2024-09-19,2024-09-23,654,Kamala Harris,47,1
+Monmouth,2.9,Pennsylvania,2024-09-19,2024-09-23,654,Donald Trump,45,0
+University of Maryland/Washington Post,2.5,Maryland,2024-09-19,2024-09-23,1012,Kamala Harris,63,1
+University of Maryland/Washington Post,2.5,Maryland,2024-09-19,2024-09-23,1012,Donald Trump,31,0
+University of Maryland/Washington Post,2.5,Maryland,2024-09-19,2024-09-23,1012,Kamala Harris,64,1
+University of Maryland/Washington Post,2.5,Maryland,2024-09-19,2024-09-23,1012,Donald Trump,32,0
+University of Maryland/Washington Post,2.5,Maryland,2024-09-19,2024-09-23,1012,Kamala Harris,61,1
+University of Maryland/Washington Post,2.5,Maryland,2024-09-19,2024-09-23,1012,Kamala Harris,62,1
+RMG Research,2.3,Wisconsin,2024-09-17,2024-09-23,788,Kamala Harris,50,1
+RMG Research,2.3,Wisconsin,2024-09-17,2024-09-23,788,Donald Trump,49,0
+Susquehanna,2.3,Pennsylvania,2024-09-16,2024-09-22,700,Kamala Harris,46,1
+Susquehanna,2.3,Pennsylvania,2024-09-16,2024-09-22,700,Donald Trump,46,0
+Slingshot Strategies,1.4,Delaware,2024-09-19,2024-09-21,500,Kamala Harris,54,1
+Slingshot Strategies,1.4,Delaware,2024-09-19,2024-09-21,500,Donald Trump,37,0
+Siena/NYT,3,Arizona,2024-09-17,2024-09-21,713,Kamala Harris,45,1
+Siena/NYT,3,Arizona,2024-09-17,2024-09-21,713,Donald Trump,49,0
+Siena/NYT,3,Arizona,2024-09-17,2024-09-21,713,Donald Trump,50,0
+Siena/NYT,3,Arizona,2024-09-17,2024-09-21,713,Kamala Harris,42,1
+Siena/NYT,3,Arizona,2024-09-17,2024-09-21,713,Donald Trump,47,0
+Siena/NYT,3,Arizona,2024-09-17,2024-09-21,713,Kamala Harris,43,1
+Siena/NYT,3,Arizona,2024-09-17,2024-09-21,713,Donald Trump,48,0
+Siena/NYT,3,Georgia,2024-09-17,2024-09-21,682,Kamala Harris,44,1
+Siena/NYT,3,Georgia,2024-09-17,2024-09-21,682,Donald Trump,48,0
+Siena/NYT,3,Georgia,2024-09-17,2024-09-21,682,Kamala Harris,45,1
+Siena/NYT,3,Georgia,2024-09-17,2024-09-21,682,Donald Trump,49,0
+Siena/NYT,3,Georgia,2024-09-17,2024-09-21,682,Kamala Harris,43,1
+Siena/NYT,3,Georgia,2024-09-17,2024-09-21,682,Donald Trump,46,0
+Siena/NYT,3,Georgia,2024-09-17,2024-09-21,682,Donald Trump,47,0
+Siena/NYT,3,North Carolina,2024-09-17,2024-09-21,682,Kamala Harris,47,1
+Siena/NYT,3,North Carolina,2024-09-17,2024-09-21,682,Donald Trump,48,0
+Siena/NYT,3,North Carolina,2024-09-17,2024-09-21,682,Donald Trump,49,0
+Siena/NYT,3,North Carolina,2024-09-17,2024-09-21,682,Kamala Harris,46,1
+Siena/NYT,3,North Carolina,2024-09-17,2024-09-21,682,Donald Trump,46,0
+Siena/NYT,3,North Carolina,2024-09-17,2024-09-21,682,Kamala Harris,45,1
+Siena/NYT,3,North Carolina,2024-09-17,2024-09-21,682,Donald Trump,47,0
+RMG Research,2.3,Ohio,2024-09-18,2024-09-20,781,Kamala Harris,43,1
+RMG Research,2.3,Ohio,2024-09-18,2024-09-20,781,Donald Trump,54,0
+RMG Research,2.3,Pennsylvania,2024-09-18,2024-09-20,783,Kamala Harris,49,1
+RMG Research,2.3,Pennsylvania,2024-09-18,2024-09-20,783,Donald Trump,49,0
+Meredith College,1.6,North Carolina,2024-09-18,2024-09-20,802,Kamala Harris,48,1
+Meredith College,1.6,North Carolina,2024-09-18,2024-09-20,802,Donald Trump,48,0
+Embold Research,1.4,Rhode Island,2024-09-16,2024-09-20,876,Kamala Harris,52,1
+Embold Research,1.4,Rhode Island,2024-09-16,2024-09-20,876,Donald Trump,38,0
+Remington,2.6,Michigan,2024-09-16,2024-09-20,800,Kamala Harris,49,1
+Remington,2.6,Michigan,2024-09-16,2024-09-20,800,Donald Trump,47,0
+Remington,2.6,Nevada,2024-09-16,2024-09-20,800,Kamala Harris,48,1
+Remington,2.6,Nevada,2024-09-16,2024-09-20,800,Donald Trump,49,0
+Remington,2.6,Pennsylvania,2024-09-16,2024-09-20,800,Kamala Harris,47,1
+Remington,2.6,Pennsylvania,2024-09-16,2024-09-20,800,Donald Trump,48,0
+Remington,2.6,Wisconsin,2024-09-16,2024-09-20,800,Kamala Harris,48,1
+Remington,2.6,Wisconsin,2024-09-16,2024-09-20,800,Donald Trump,48,0
+Remington,2.6,Montana,2024-09-16,2024-09-20,800,Kamala Harris,39,1
+Remington,2.6,Montana,2024-09-16,2024-09-20,800,Donald Trump,56,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-09-16,2024-09-19,789,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-09-16,2024-09-19,789,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Florida,2024-09-16,2024-09-19,1602,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,Florida,2024-09-16,2024-09-19,1602,Donald Trump,50,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-09-16,2024-09-19,993,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-09-16,2024-09-19,993,Donald Trump,45,0
+Redfield & Wilton Strategies,1.8,Minnesota,2024-09-16,2024-09-19,703,Kamala Harris,50,1
+Redfield & Wilton Strategies,1.8,Minnesota,2024-09-16,2024-09-19,703,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-09-16,2024-09-19,652,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-09-16,2024-09-19,652,Donald Trump,45,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-09-16,2024-09-19,1086,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-09-16,2024-09-19,1086,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-09-16,2024-09-19,600,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-09-16,2024-09-19,600,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-09-16,2024-09-19,1043,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-09-16,2024-09-19,1043,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-09-16,2024-09-19,868,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-09-16,2024-09-19,868,Donald Trump,48,0
+Muhlenberg,2.8,Pennsylvania,2024-09-16,2024-09-19,450,Kamala Harris,48,1
+Muhlenberg,2.8,Pennsylvania,2024-09-16,2024-09-19,450,Donald Trump,48,0
+Tarrance,1.6,Nevada,2024-09-16,2024-09-19,600,Kamala Harris,47,1
+Tarrance,1.6,Nevada,2024-09-16,2024-09-19,600,Donald Trump,44,0
+RMG Research,2.3,Montana,2024-09-12,2024-09-19,491,Kamala Harris,38,1
+RMG Research,2.3,Montana,2024-09-12,2024-09-19,491,Donald Trump,59,0
+University of Massachusetts Lowell/YouGov,2.9,Michigan,2024-09-11,2024-09-19,650,Kamala Harris,48,1
+University of Massachusetts Lowell/YouGov,2.9,Michigan,2024-09-11,2024-09-19,650,Donald Trump,43,0
+University of Massachusetts Lowell/YouGov,2.9,Pennsylvania,2024-09-11,2024-09-19,800,Kamala Harris,48,1
+University of Massachusetts Lowell/YouGov,2.9,Pennsylvania,2024-09-11,2024-09-19,800,Donald Trump,46,0
+Victory Insights,1.3,North Carolina,2024-09-16,2024-09-18,600,Kamala Harris,44.9,1
+Victory Insights,1.3,North Carolina,2024-09-16,2024-09-18,600,Donald Trump,48.5,0
+TIPP,1.8,Georgia,2024-09-16,2024-09-18,1046,Kamala Harris,47.5,1
+TIPP,1.8,Georgia,2024-09-16,2024-09-18,1046,Donald Trump,45.4,0
+TIPP,1.8,Georgia,2024-09-16,2024-09-18,835,Kamala Harris,47.6,1
+TIPP,1.8,Georgia,2024-09-16,2024-09-18,835,Donald Trump,47.9,0
+TIPP,1.8,Georgia,2024-09-16,2024-09-18,1046,Kamala Harris,46.4,1
+TIPP,1.8,Georgia,2024-09-16,2024-09-18,1046,Donald Trump,44.4,0
+TIPP,1.8,Georgia,2024-09-16,2024-09-18,835,Kamala Harris,47.8,1
+TIPP,1.8,Georgia,2024-09-16,2024-09-18,835,Donald Trump,48,0
+Mason-Dixon,2.6,Minnesota,2024-09-16,2024-09-18,800,Kamala Harris,48,1
+Mason-Dixon,2.6,Minnesota,2024-09-16,2024-09-18,800,Donald Trump,43,0
+Suffolk,2.9,Michigan,2024-09-16,2024-09-18,500,Kamala Harris,47.6,1
+Suffolk,2.9,Michigan,2024-09-16,2024-09-18,500,Donald Trump,45.4,0
+Emerson,2.9,Arizona,2024-09-15,2024-09-18,868,Kamala Harris,48.7,1
+Emerson,2.9,Arizona,2024-09-15,2024-09-18,868,Donald Trump,49.8,0
+Emerson,2.9,Georgia,2024-09-15,2024-09-18,975,Kamala Harris,48.2,1
+Emerson,2.9,Georgia,2024-09-15,2024-09-18,975,Donald Trump,50.3,0
+Emerson,2.9,Michigan,2024-09-15,2024-09-18,875,Kamala Harris,50,1
+Emerson,2.9,Michigan,2024-09-15,2024-09-18,875,Donald Trump,49.1,0
+Emerson,2.9,Nevada,2024-09-15,2024-09-18,895,Kamala Harris,48.8,1
+Emerson,2.9,Nevada,2024-09-15,2024-09-18,895,Donald Trump,49,0
+Emerson,2.9,Pennsylvania,2024-09-15,2024-09-18,880,Kamala Harris,49.6,1
+Emerson,2.9,Pennsylvania,2024-09-15,2024-09-18,880,Donald Trump,49.3,0
+Emerson,2.9,North Carolina,2024-09-15,2024-09-18,1000,Kamala Harris,49.7,1
+Emerson,2.9,North Carolina,2024-09-15,2024-09-18,1000,Donald Trump,49.3,0
+Emerson,2.9,Wisconsin,2024-09-15,2024-09-18,1000,Kamala Harris,48.7,1
+Emerson,2.9,Wisconsin,2024-09-15,2024-09-18,1000,Donald Trump,50.3,0
+MassINC Polling Group,2.8,Pennsylvania,2024-09-12,2024-09-18,800,Kamala Harris,50,1
+MassINC Polling Group,2.8,Pennsylvania,2024-09-12,2024-09-18,800,Donald Trump,46,0
+MassINC Polling Group,2.8,Pennsylvania,2024-09-12,2024-09-18,800,Kamala Harris,52,1
+MassINC Polling Group,2.8,Pennsylvania,2024-09-12,2024-09-18,800,Donald Trump,47,0
+MassINC Polling Group,2.8,Massachusetts,2024-09-12,2024-09-18,800,Kamala Harris,60,1
+MassINC Polling Group,2.8,Massachusetts,2024-09-12,2024-09-18,800,Donald Trump,32,0
+MassINC Polling Group,2.8,Massachusetts,2024-09-12,2024-09-18,800,Kamala Harris,63,1
+MassINC Polling Group,2.8,Massachusetts,2024-09-12,2024-09-18,800,Donald Trump,35,0
+SurveyUSA,2.8,New Mexico,2024-09-12,2024-09-18,619,Kamala Harris,50,1
+SurveyUSA,2.8,New Mexico,2024-09-12,2024-09-18,619,Donald Trump,42,0
+MassINC Polling Group,2.8,Wisconsin,2024-09-12,2024-09-18,800,Kamala Harris,51,1
+MassINC Polling Group,2.8,Wisconsin,2024-09-12,2024-09-18,800,Donald Trump,45,0
+MassINC Polling Group,2.8,Wisconsin,2024-09-12,2024-09-18,800,Kamala Harris,53,1
+MassINC Polling Group,2.8,Wisconsin,2024-09-12,2024-09-18,800,Donald Trump,46,0
+MassINC Polling Group,2.8,Connecticut,2024-09-12,2024-09-18,800,Kamala Harris,53,1
+MassINC Polling Group,2.8,Connecticut,2024-09-12,2024-09-18,800,Donald Trump,37,0
+MassINC Polling Group,2.8,Rhode Island,2024-09-12,2024-09-18,800,Kamala Harris,53,1
+MassINC Polling Group,2.8,Rhode Island,2024-09-12,2024-09-18,800,Donald Trump,40,0
+MassINC Polling Group,2.8,Rhode Island,2024-09-12,2024-09-18,800,Kamala Harris,56,1
+MassINC Polling Group,2.8,Rhode Island,2024-09-12,2024-09-18,800,Donald Trump,43,0
+Morning Consult,1.9,Arizona,2024-09-09,2024-09-18,862,Kamala Harris,48.37,1
+Morning Consult,1.9,Arizona,2024-09-09,2024-09-18,862,Donald Trump,47.35,0
+Morning Consult,1.9,Florida,2024-09-09,2024-09-18,2948,Kamala Harris,46.8,1
+Morning Consult,1.9,Florida,2024-09-09,2024-09-18,2948,Donald Trump,49.52,0
+Morning Consult,1.9,Maryland,2024-09-09,2024-09-18,578,Kamala Harris,61.41,1
+Morning Consult,1.9,Maryland,2024-09-09,2024-09-18,578,Donald Trump,33.04,0
+Morning Consult,1.9,Michigan,2024-09-09,2024-09-18,1297,Kamala Harris,51.97,1
+Morning Consult,1.9,Michigan,2024-09-09,2024-09-18,1297,Donald Trump,44.46,0
+Morning Consult,1.9,Nevada,2024-09-09,2024-09-18,474,Kamala Harris,50.87,1
+Morning Consult,1.9,Nevada,2024-09-09,2024-09-18,474,Donald Trump,46.53,0
+Morning Consult,1.9,Ohio,2024-09-09,2024-09-18,1488,Kamala Harris,43.02,1
+Morning Consult,1.9,Ohio,2024-09-09,2024-09-18,1488,Donald Trump,52.16,0
+Morning Consult,1.9,Pennsylvania,2024-09-09,2024-09-18,1756,Kamala Harris,48.74,1
+Morning Consult,1.9,Pennsylvania,2024-09-09,2024-09-18,1756,Donald Trump,46.7,0
+Morning Consult,1.9,Texas,2024-09-09,2024-09-18,2716,Kamala Harris,45.77,1
+Morning Consult,1.9,Texas,2024-09-09,2024-09-18,2716,Donald Trump,49.58,0
+Morning Consult,1.9,Wisconsin,2024-09-09,2024-09-18,600,Kamala Harris,50.22,1
+Morning Consult,1.9,Wisconsin,2024-09-09,2024-09-18,600,Donald Trump,44.3,0
+Morning Consult,1.9,North Carolina,2024-09-09,2024-09-18,1314,Kamala Harris,49.33,1
+Morning Consult,1.9,North Carolina,2024-09-09,2024-09-18,1314,Donald Trump,47.16,0
+Morning Consult,1.9,Colorado,2024-09-09,2024-09-18,512,Kamala Harris,52.5,1
+Morning Consult,1.9,Colorado,2024-09-09,2024-09-18,512,Donald Trump,42.42,0
+Morning Consult,1.9,Georgia,2024-09-09,2024-09-18,1347,Kamala Harris,47.68,1
+Morning Consult,1.9,Georgia,2024-09-09,2024-09-18,1347,Donald Trump,48.63,0
+Morning Consult,1.9,Minnesota,2024-09-09,2024-09-18,517,Kamala Harris,49.56,1
+Morning Consult,1.9,Minnesota,2024-09-09,2024-09-18,517,Donald Trump,43,0
+Morning Consult,1.9,Virginia,2024-09-09,2024-09-18,899,Kamala Harris,50.76,1
+Morning Consult,1.9,Virginia,2024-09-09,2024-09-18,899,Donald Trump,44.44,0
+PPP,1.4,Maryland,2024-09-16,2024-09-17,543,Kamala Harris,64,1
+PPP,1.4,Maryland,2024-09-16,2024-09-17,543,Donald Trump,33,0
+Marist,2.9,Pennsylvania,2024-09-12,2024-09-17,1663,Kamala Harris,49,1
+Marist,2.9,Pennsylvania,2024-09-12,2024-09-17,1663,Donald Trump,48,0
+Marist,2.9,Pennsylvania,2024-09-12,2024-09-17,1476,Kamala Harris,49,1
+Marist,2.9,Pennsylvania,2024-09-12,2024-09-17,1476,Donald Trump,49,0
+Marist,2.9,Wisconsin,2024-09-12,2024-09-17,1312,Kamala Harris,50,1
+Marist,2.9,Wisconsin,2024-09-12,2024-09-17,1312,Donald Trump,47,0
+Marist,2.9,Wisconsin,2024-09-12,2024-09-17,1194,Kamala Harris,50,1
+Marist,2.9,Wisconsin,2024-09-12,2024-09-17,1194,Donald Trump,49,0
+Marist,2.9,Michigan,2024-09-12,2024-09-17,1282,Kamala Harris,50,1
+Marist,2.9,Michigan,2024-09-12,2024-09-17,1282,Donald Trump,47,0
+Marist,2.9,Michigan,2024-09-12,2024-09-17,1138,Kamala Harris,52,1
+Marist,2.9,Michigan,2024-09-12,2024-09-17,1138,Donald Trump,47,0
+Fabrizio/Impact,1.7,North Carolina,2024-09-11,2024-09-17,600,Kamala Harris,46,1
+Fabrizio/Impact,1.7,North Carolina,2024-09-11,2024-09-17,600,Donald Trump,48,0
+Fabrizio/Impact,1.7,North Carolina,2024-09-11,2024-09-17,600,Kamala Harris,47,1
+Fabrizio/Impact,1.7,North Carolina,2024-09-11,2024-09-17,600,Donald Trump,50,0
+Cygnal,2.1,North Carolina,2024-09-15,2024-09-16,600,Kamala Harris,45.3,1
+Cygnal,2.1,North Carolina,2024-09-15,2024-09-16,600,Donald Trump,45.6,0
+Quinnipiac,2.8,Pennsylvania,2024-09-12,2024-09-16,1331,Kamala Harris,51,1
+Quinnipiac,2.8,Pennsylvania,2024-09-12,2024-09-16,1331,Donald Trump,45,0
+Quinnipiac,2.8,Pennsylvania,2024-09-12,2024-09-16,1331,Donald Trump,46,0
+Quinnipiac,2.8,Michigan,2024-09-12,2024-09-16,905,Kamala Harris,50,1
+Quinnipiac,2.8,Michigan,2024-09-12,2024-09-16,905,Donald Trump,45,0
+Quinnipiac,2.8,Michigan,2024-09-12,2024-09-16,905,Kamala Harris,51,1
+Quinnipiac,2.8,Michigan,2024-09-12,2024-09-16,905,Donald Trump,46,0
+Quinnipiac,2.8,Wisconsin,2024-09-12,2024-09-16,1075,Kamala Harris,48,1
+Quinnipiac,2.8,Wisconsin,2024-09-12,2024-09-16,1075,Donald Trump,47,0
+Quinnipiac,2.8,Wisconsin,2024-09-12,2024-09-16,1075,Kamala Harris,49,1
+Quinnipiac,2.8,Wisconsin,2024-09-12,2024-09-16,1075,Donald Trump,48,0
+U. New Hampshire,2.6,Rhode Island,2024-09-12,2024-09-16,683,Kamala Harris,58,1
+U. New Hampshire,2.6,Rhode Island,2024-09-12,2024-09-16,683,Donald Trump,38,0
+U. New Hampshire,2.6,Massachusetts,2024-09-12,2024-09-16,564,Kamala Harris,62,1
+U. New Hampshire,2.6,Massachusetts,2024-09-12,2024-09-16,564,Donald Trump,31,0
+U. New Hampshire,2.6,New Hampshire,2024-09-12,2024-09-16,1695,Kamala Harris,54,1
+U. New Hampshire,2.6,New Hampshire,2024-09-12,2024-09-16,1695,Donald Trump,43,0
+The Washington Post,3,Pennsylvania,2024-09-12,2024-09-16,1003,Kamala Harris,48,1
+The Washington Post,3,Pennsylvania,2024-09-12,2024-09-16,1003,Donald Trump,47,0
+The Washington Post,3,Pennsylvania,2024-09-12,2024-09-16,1003,Donald Trump,48,0
+Siena,2.7,New York,2024-09-11,2024-09-16,1003,Kamala Harris,52,1
+Siena,2.7,New York,2024-09-11,2024-09-16,1003,Donald Trump,40,0
+Siena,2.7,New York,2024-09-11,2024-09-16,1003,Kamala Harris,55,1
+Siena,2.7,New York,2024-09-11,2024-09-16,1003,Donald Trump,42,0
+Siena/NYT,3,Pennsylvania,2024-09-11,2024-09-16,1082,Kamala Harris,50,1
+Siena/NYT,3,Pennsylvania,2024-09-11,2024-09-16,1082,Donald Trump,46,0
+Siena/NYT,3,Pennsylvania,2024-09-11,2024-09-16,1082,Kamala Harris,48,1
+Siena/NYT,3,Pennsylvania,2024-09-11,2024-09-16,1082,Donald Trump,45,0
+Siena/NYT,3,Pennsylvania,2024-09-11,2024-09-16,1082,Kamala Harris,49,1
+Noble Predictive Insights,2.4,Nevada,2024-09-09,2024-09-16,692,Kamala Harris,48,1
+Noble Predictive Insights,2.4,Nevada,2024-09-09,2024-09-16,692,Donald Trump,47,0
+Noble Predictive Insights,2.4,Nevada,2024-09-09,2024-09-16,812,Kamala Harris,48,1
+Noble Predictive Insights,2.4,Nevada,2024-09-09,2024-09-16,812,Donald Trump,45,0
+Noble Predictive Insights,2.4,Nevada,2024-09-09,2024-09-16,692,Kamala Harris,47,1
+Noble Predictive Insights,2.4,Nevada,2024-09-09,2024-09-16,812,Kamala Harris,46,1
+Noble Predictive Insights,2.4,Nevada,2024-09-09,2024-09-16,812,Donald Trump,43,0
+InsiderAdvantage,2,Pennsylvania,2024-09-14,2024-09-15,800,Kamala Harris,48.4,1
+InsiderAdvantage,2,Pennsylvania,2024-09-14,2024-09-15,800,Donald Trump,49.8,0
+Trafalgar Group,0.7,Georgia,2024-09-12,2024-09-15,1098,Kamala Harris,44.5,1
+Trafalgar Group,0.7,Georgia,2024-09-12,2024-09-15,1098,Donald Trump,46.2,0
+U. Georgia SPIA,2.2,Georgia,2024-09-09,2024-09-15,1000,Kamala Harris,44.4,1
+U. Georgia SPIA,2.2,Georgia,2024-09-09,2024-09-15,1000,Donald Trump,46.9,0
+Pan Atlantic Research,2.1,Maine,2024-09-05,2024-09-15,812,Kamala Harris,50,1
+Pan Atlantic Research,2.1,Maine,2024-09-05,2024-09-15,812,Donald Trump,41,0
+Pan Atlantic Research,2.1,Maine,2024-09-05,2024-09-15,414,Kamala Harris,58,1
+Pan Atlantic Research,2.1,Maine,2024-09-05,2024-09-15,414,Donald Trump,32,0
+Pan Atlantic Research,2.1,Maine,2024-09-05,2024-09-15,398,Kamala Harris,42,1
+Pan Atlantic Research,2.1,Maine,2024-09-05,2024-09-15,398,Donald Trump,49,0
+Franklin and Marshall College,2.4,Pennsylvania,2024-09-04,2024-09-15,890,Kamala Harris,49,1
+Franklin and Marshall College,2.4,Pennsylvania,2024-09-04,2024-09-15,890,Donald Trump,46,0
+Suffolk,2.9,Pennsylvania,2024-09-11,2024-09-14,500,Kamala Harris,48.6,1
+Suffolk,2.9,Pennsylvania,2024-09-11,2024-09-14,500,Donald Trump,45.6,0
+Fabrizio/Impact,1.7,Wisconsin,2024-09-11,2024-09-14,600,Kamala Harris,48,1
+Fabrizio/Impact,1.7,Wisconsin,2024-09-11,2024-09-14,600,Donald Trump,45,0
+Fabrizio/Impact,1.7,Wisconsin,2024-09-11,2024-09-14,600,Kamala Harris,49,1
+Fabrizio/Impact,1.7,Wisconsin,2024-09-11,2024-09-14,600,Donald Trump,48,0
+Keating Research,1.5,Colorado,2024-09-11,2024-09-14,500,Kamala Harris,53,1
+Keating Research,1.5,Colorado,2024-09-11,2024-09-14,500,Donald Trump,42,0
+Emerson,2.9,Maryland,2024-09-12,2024-09-13,890,Kamala Harris,65.3,1
+Emerson,2.9,Maryland,2024-09-12,2024-09-13,890,Donald Trump,33.3,0
+Emerson,2.9,Missouri,2024-09-12,2024-09-13,850,Kamala Harris,43.4,1
+Emerson,2.9,Missouri,2024-09-12,2024-09-13,850,Donald Trump,55.2,0
+Emerson,2.9,Indiana,2024-09-12,2024-09-13,1000,Kamala Harris,40.7,1
+Emerson,2.9,Indiana,2024-09-12,2024-09-13,1000,Donald Trump,57.9,0
+TIPP,1.8,North Carolina,2024-09-11,2024-09-13,973,Kamala Harris,45.9,1
+TIPP,1.8,North Carolina,2024-09-11,2024-09-13,973,Donald Trump,48.9,0
+Trafalgar Group,0.7,Nevada,2024-09-11,2024-09-13,1079,Kamala Harris,45.3,1
+Trafalgar Group,0.7,Nevada,2024-09-11,2024-09-13,1079,Donald Trump,43.5,0
+Change Research,1.4,Missouri,2024-09-11,2024-09-13,1237,Kamala Harris,41,1
+Change Research,1.4,Missouri,2024-09-11,2024-09-13,1237,Donald Trump,50,0
+Research & Polling,2.1,New Mexico,2024-09-06,2024-09-13,532,Kamala Harris,49,1
+Research & Polling,2.1,New Mexico,2024-09-06,2024-09-13,532,Donald Trump,39,0
+Elon U.,2.5,North Carolina,2024-09-04,2024-09-13,800,Kamala Harris,46,1
+Elon U.,2.5,North Carolina,2024-09-04,2024-09-13,800,Donald Trump,45,0
+InsiderAdvantage,2,Michigan,2024-09-11,2024-09-12,800,Kamala Harris,48,1
+InsiderAdvantage,2,Michigan,2024-09-11,2024-09-12,800,Donald Trump,48.6,0
+St. Anselm,2.4,New Hampshire,2024-09-11,2024-09-12,2241,Kamala Harris,51,1
+St. Anselm,2.4,New Hampshire,2024-09-11,2024-09-12,2241,Donald Trump,43,0
+Alaska Survey Research,1.9,Alaska,2024-09-11,2024-09-12,1254,Kamala Harris,42,1
+Alaska Survey Research,1.9,Alaska,2024-09-11,2024-09-12,1254,Donald Trump,47,0
+Trafalgar Group,0.7,North Carolina,2024-09-11,2024-09-12,1094,Kamala Harris,46,1
+Trafalgar Group,0.7,North Carolina,2024-09-11,2024-09-12,1094,Donald Trump,48.4,0
+InsiderAdvantage,2,Wisconsin,2024-09-11,2024-09-12,800,Kamala Harris,49,1
+InsiderAdvantage,2,Wisconsin,2024-09-11,2024-09-12,800,Donald Trump,46.6,0
+Trafalgar Group,0.7,Arizona,2024-09-11,2024-09-12,1088,Kamala Harris,45.5,1
+Trafalgar Group,0.7,Arizona,2024-09-11,2024-09-12,1088,Donald Trump,47.1,0
+GQR,2,Missouri,2024-09-06,2024-09-12,645,Kamala Harris,44,1
+GQR,2,Missouri,2024-09-06,2024-09-12,645,Donald Trump,55,0
+Mitchell,2.4,Michigan,2024-09-11,2024-09-11,580,Kamala Harris,48,1
+Mitchell,2.4,Michigan,2024-09-11,2024-09-11,580,Donald Trump,48,0
+Mitchell,2.4,Michigan,2024-09-11,2024-09-11,580,Kamala Harris,47,1
+Mitchell,2.4,Michigan,2024-09-11,2024-09-11,580,Donald Trump,46,0
+Selzer,2.8,Iowa,2024-09-08,2024-09-11,656,Kamala Harris,43,1
+Selzer,2.8,Iowa,2024-09-08,2024-09-11,656,Donald Trump,47,0
+Data Orbital,2.9,Arizona,2024-09-07,2024-09-09,550,Kamala Harris,46,1
+Data Orbital,2.9,Arizona,2024-09-07,2024-09-09,550,Donald Trump,46.2,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-09-06,2024-09-09,495,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-09-06,2024-09-09,495,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-09-06,2024-09-09,765,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-09-06,2024-09-09,765,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Florida,2024-09-06,2024-09-09,1465,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,Florida,2024-09-06,2024-09-09,1465,Donald Trump,50,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-09-06,2024-09-09,562,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-09-06,2024-09-09,562,Donald Trump,49,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-09-06,2024-09-09,556,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-09-06,2024-09-09,556,Donald Trump,45,0
+Redfield & Wilton Strategies,1.8,Minnesota,2024-09-06,2024-09-09,617,Kamala Harris,51,1
+Redfield & Wilton Strategies,1.8,Minnesota,2024-09-06,2024-09-09,617,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-09-06,2024-09-09,698,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-09-06,2024-09-09,698,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,New Mexico,2024-09-06,2024-09-09,521,Kamala Harris,49,1
+Redfield & Wilton Strategies,1.8,New Mexico,2024-09-06,2024-09-09,521,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-09-06,2024-09-09,801,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-09-06,2024-09-09,801,Donald Trump,45,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-09-06,2024-09-09,626,Kamala Harris,49,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-09-06,2024-09-09,626,Donald Trump,46,0
+CWS Research,1.6,Texas,2024-09-04,2024-09-09,504,Kamala Harris,41,1
+CWS Research,1.6,Texas,2024-09-04,2024-09-09,504,Donald Trump,51,0
+Research America,0.7,Virginia,2024-09-03,2024-09-09,1000,Kamala Harris,44,1
+Research America,0.7,Virginia,2024-09-03,2024-09-09,1000,Donald Trump,44,0
+Research America,0.7,Virginia,2024-09-03,2024-09-09,756,Kamala Harris,47,1
+Research America,0.7,Virginia,2024-09-03,2024-09-09,756,Donald Trump,46,0
+Research America,0.7,Virginia,2024-09-03,2024-09-09,1000,Kamala Harris,45,1
+Research America,0.7,Virginia,2024-09-03,2024-09-09,1000,Donald Trump,45,0
+Research America,0.7,Virginia,2024-09-03,2024-09-09,756,Kamala Harris,48,1
+PPIC,2.5,California,2024-08-29,2024-09-09,1071,Kamala Harris,60,1
+PPIC,2.5,California,2024-08-29,2024-09-09,1071,Donald Trump,29,0
+Quinnipiac,2.8,North Carolina,2024-09-04,2024-09-08,940,Kamala Harris,49,1
+Quinnipiac,2.8,North Carolina,2024-09-04,2024-09-08,940,Donald Trump,46,0
+Quinnipiac,2.8,North Carolina,2024-09-04,2024-09-08,940,Kamala Harris,50,1
+Quinnipiac,2.8,North Carolina,2024-09-04,2024-09-08,940,Donald Trump,47,0
+Quinnipiac,2.8,Georgia,2024-09-04,2024-09-08,969,Kamala Harris,45,1
+Quinnipiac,2.8,Georgia,2024-09-04,2024-09-08,969,Donald Trump,49,0
+Quinnipiac,2.8,Georgia,2024-09-04,2024-09-08,969,Kamala Harris,46,1
+Washington Post/George Mason University,2.7,Virginia,2024-09-04,2024-09-08,1005,Kamala Harris,50,1
+Washington Post/George Mason University,2.7,Virginia,2024-09-04,2024-09-08,1005,Donald Trump,42,0
+Washington Post/George Mason University,2.7,Virginia,2024-09-04,2024-09-08,1005,Kamala Harris,51,1
+Washington Post/George Mason University,2.7,Virginia,2024-09-04,2024-09-08,1005,Donald Trump,43,0
+Washington Post/George Mason University,2.7,Virginia,2024-09-04,2024-09-08,1005,Kamala Harris,49,1
+Embold Research,1.4,Minnesota,2024-09-04,2024-09-08,1616,Kamala Harris,48.8,1
+Embold Research,1.4,Minnesota,2024-09-04,2024-09-08,1616,Donald Trump,44.6,0
+Morning Consult,1.9,Arizona,2024-08-30,2024-09-08,901,Kamala Harris,46.89,1
+Morning Consult,1.9,Arizona,2024-08-30,2024-09-08,901,Donald Trump,49.05,0
+Morning Consult,1.9,Florida,2024-08-30,2024-09-08,3182,Kamala Harris,47.05,1
+Morning Consult,1.9,Florida,2024-08-30,2024-09-08,3182,Donald Trump,49.12,0
+Morning Consult,1.9,Maryland,2024-08-30,2024-09-08,640,Kamala Harris,62.23,1
+Morning Consult,1.9,Maryland,2024-08-30,2024-09-08,640,Donald Trump,34.13,0
+Morning Consult,1.9,Michigan,2024-08-30,2024-09-08,1368,Kamala Harris,49.19,1
+Morning Consult,1.9,Michigan,2024-08-30,2024-09-08,1368,Donald Trump,46.12,0
+Morning Consult,1.9,Nevada,2024-08-30,2024-09-08,516,Kamala Harris,47.58,1
+Morning Consult,1.9,Nevada,2024-08-30,2024-09-08,516,Donald Trump,48.45,0
+Morning Consult,1.9,Ohio,2024-08-30,2024-09-08,1558,Kamala Harris,43.58,1
+Morning Consult,1.9,Ohio,2024-08-30,2024-09-08,1558,Donald Trump,51.92,0
+Morning Consult,1.9,Pennsylvania,2024-08-30,2024-09-08,1910,Kamala Harris,49.34,1
+Morning Consult,1.9,Pennsylvania,2024-08-30,2024-09-08,1910,Donald Trump,46.34,0
+Morning Consult,1.9,Texas,2024-08-30,2024-09-08,2940,Kamala Harris,43.43,1
+Morning Consult,1.9,Texas,2024-08-30,2024-09-08,2940,Donald Trump,51.75,0
+Morning Consult,1.9,Wisconsin,2024-08-30,2024-09-08,638,Kamala Harris,49.48,1
+Morning Consult,1.9,Wisconsin,2024-08-30,2024-09-08,638,Donald Trump,46.19,0
+Morning Consult,1.9,North Carolina,2024-08-30,2024-09-08,1369,Kamala Harris,48.22,1
+Morning Consult,1.9,North Carolina,2024-08-30,2024-09-08,1369,Donald Trump,47.82,0
+Morning Consult,1.9,Colorado,2024-08-30,2024-09-08,498,Kamala Harris,54.8,1
+Morning Consult,1.9,Colorado,2024-08-30,2024-09-08,498,Donald Trump,40.08,0
+Morning Consult,1.9,Georgia,2024-08-30,2024-09-08,1405,Kamala Harris,48.39,1
+Morning Consult,1.9,Georgia,2024-08-30,2024-09-08,1405,Donald Trump,47.51,0
+Morning Consult,1.9,Minnesota,2024-08-30,2024-09-08,501,Kamala Harris,50.92,1
+Morning Consult,1.9,Minnesota,2024-08-30,2024-09-08,501,Donald Trump,44.28,0
+Morning Consult,1.9,Virginia,2024-08-30,2024-09-08,873,Kamala Harris,51.97,1
+Morning Consult,1.9,Virginia,2024-08-30,2024-09-08,873,Donald Trump,42.24,0
+SurveyUSA,2.8,North Carolina,2024-09-04,2024-09-07,676,Kamala Harris,49,1
+SurveyUSA,2.8,North Carolina,2024-09-04,2024-09-07,676,Donald Trump,46,0
+Hendrix College,0.9,Arkansas,2024-09-05,2024-09-06,696,Kamala Harris,40,1
+Hendrix College,0.9,Arkansas,2024-09-05,2024-09-06,696,Donald Trump,55,0
+co/efficient,1.1,Michigan,2024-09-04,2024-09-06,931,Kamala Harris,47,1
+co/efficient,1.1,Michigan,2024-09-04,2024-09-06,931,Donald Trump,47,0
+co/efficient,1.1,Wisconsin,2024-09-04,2024-09-06,917,Kamala Harris,47,1
+co/efficient,1.1,Wisconsin,2024-09-04,2024-09-06,917,Donald Trump,47,0
+co/efficient,1.1,Pennsylvania,2024-09-04,2024-09-06,889,Kamala Harris,46,1
+co/efficient,1.1,Pennsylvania,2024-09-04,2024-09-06,889,Donald Trump,48,0
+YouGov,3,Michigan,2024-09-03,2024-09-06,1077,Kamala Harris,50,1
+YouGov,3,Michigan,2024-09-03,2024-09-06,1077,Donald Trump,49,0
+YouGov,3,Pennsylvania,2024-09-03,2024-09-06,1078,Kamala Harris,50,1
+YouGov,3,Pennsylvania,2024-09-03,2024-09-06,1078,Donald Trump,50,0
+YouGov,3,Wisconsin,2024-09-03,2024-09-06,946,Kamala Harris,51,1
+YouGov,3,Wisconsin,2024-09-03,2024-09-06,946,Donald Trump,49,0
+Elway,1.9,Washington,2024-09-03,2024-09-06,403,Kamala Harris,53,1
+Elway,1.9,Washington,2024-09-03,2024-09-06,403,Donald Trump,32,0
+Virginia Commonwealth U.,2.1,Virginia,2024-08-26,2024-09-06,813,Kamala Harris,46,1
+Virginia Commonwealth U.,2.1,Virginia,2024-08-26,2024-09-06,813,Donald Trump,36,0
+Virginia Commonwealth U.,2.1,Virginia,2024-08-26,2024-09-06,749,Kamala Harris,49.4,1
+Virginia Commonwealth U.,2.1,Virginia,2024-08-26,2024-09-06,749,Donald Trump,35.7,0
+Emerson,2.9,California,2024-09-03,2024-09-05,815,Kamala Harris,60.8,1
+Emerson,2.9,California,2024-09-03,2024-09-05,815,Donald Trump,38,0
+Emerson,2.9,Florida,2024-09-03,2024-09-05,815,Kamala Harris,47.6,1
+Emerson,2.9,Florida,2024-09-03,2024-09-05,815,Donald Trump,51.1,0
+Emerson,2.9,Texas,2024-09-03,2024-09-05,845,Kamala Harris,48,1
+Emerson,2.9,Texas,2024-09-03,2024-09-05,845,Donald Trump,50.9,0
+Emerson,2.9,Ohio,2024-09-03,2024-09-05,945,Kamala Harris,44.7,1
+Emerson,2.9,Ohio,2024-09-03,2024-09-05,945,Donald Trump,54.3,0
+TIPP,1.8,Arizona,2024-09-03,2024-09-05,1015,Kamala Harris,46,1
+TIPP,1.8,Arizona,2024-09-03,2024-09-05,1015,Donald Trump,45.9,0
+TIPP,1.8,Arizona,2024-09-03,2024-09-05,949,Kamala Harris,46.8,1
+TIPP,1.8,Arizona,2024-09-03,2024-09-05,949,Donald Trump,46.7,0
+TIPP,1.8,Arizona,2024-09-03,2024-09-05,1015,Kamala Harris,45.8,1
+TIPP,1.8,Arizona,2024-09-03,2024-09-05,1015,Donald Trump,45.8,0
+TIPP,1.8,Arizona,2024-09-03,2024-09-05,949,Kamala Harris,48,1
+TIPP,1.8,Arizona,2024-09-03,2024-09-05,949,Donald Trump,47.8,0
+Marquette Law School,3,Wisconsin,2024-08-28,2024-09-05,822,Kamala Harris,52,1
+Marquette Law School,3,Wisconsin,2024-08-28,2024-09-05,822,Donald Trump,48,0
+Marquette Law School,3,Wisconsin,2024-08-28,2024-09-05,738,Kamala Harris,52,1
+Marquette Law School,3,Wisconsin,2024-08-28,2024-09-05,738,Donald Trump,48,0
+Marquette Law School,3,Wisconsin,2024-08-28,2024-09-05,822,Kamala Harris,47,1
+Marquette Law School,3,Wisconsin,2024-08-28,2024-09-05,822,Donald Trump,43,0
+Marquette Law School,3,Wisconsin,2024-08-28,2024-09-05,738,Kamala Harris,48,1
+Marquette Law School,3,Wisconsin,2024-08-28,2024-09-05,738,Donald Trump,43,0
+Patriot Polling,1.1,Pennsylvania,2024-09-01,2024-09-03,857,Kamala Harris,47.9,1
+Patriot Polling,1.1,Pennsylvania,2024-09-01,2024-09-03,857,Donald Trump,49,0
+Patriot Polling,1.1,Michigan,2024-09-01,2024-09-03,822,Kamala Harris,48.4,1
+Patriot Polling,1.1,Michigan,2024-09-01,2024-09-03,822,Donald Trump,47.6,0
+Patriot Polling,1.1,Wisconsin,2024-09-01,2024-09-03,826,Kamala Harris,47.9,1
+Patriot Polling,1.1,Wisconsin,2024-09-01,2024-09-03,826,Donald Trump,47.7,0
+Patriot Polling,1.1,North Carolina,2024-09-01,2024-09-03,804,Kamala Harris,47.5,1
+Patriot Polling,1.1,North Carolina,2024-09-01,2024-09-03,804,Donald Trump,50,0
+Patriot Polling,1.1,Georgia,2024-09-01,2024-09-03,814,Kamala Harris,48.3,1
+Patriot Polling,1.1,Georgia,2024-09-01,2024-09-03,814,Donald Trump,48.9,0
+Patriot Polling,1.1,Arizona,2024-09-01,2024-09-03,804,Kamala Harris,46.9,1
+Patriot Polling,1.1,Arizona,2024-09-01,2024-09-03,804,Donald Trump,48.5,0
+Patriot Polling,1.1,Nevada,2024-09-01,2024-09-03,788,Kamala Harris,46.8,1
+Patriot Polling,1.1,Nevada,2024-09-01,2024-09-03,788,Donald Trump,47,0
+Lake Research,1.2,Indiana,2024-08-26,2024-09-02,600,Kamala Harris,42,1
+Lake Research,1.2,Indiana,2024-08-26,2024-09-02,600,Donald Trump,52,0
+Cygnal,2.1,Alaska,2024-08-30,2024-09-01,400,Kamala Harris,43.1,1
+Cygnal,2.1,Alaska,2024-08-30,2024-09-01,400,Donald Trump,53,0
+Cygnal,2.1,Michigan,2024-08-28,2024-09-01,600,Kamala Harris,47,1
+Cygnal,2.1,Michigan,2024-08-28,2024-09-01,600,Donald Trump,46,0
+InsiderAdvantage,2,Nevada,2024-08-29,2024-08-31,800,Kamala Harris,46.5,1
+InsiderAdvantage,2,Nevada,2024-08-29,2024-08-31,800,Donald Trump,47.9,0
+InsiderAdvantage,2,Arizona,2024-08-29,2024-08-31,800,Kamala Harris,48.4,1
+InsiderAdvantage,2,Arizona,2024-08-29,2024-08-31,800,Donald Trump,48.6,0
+InsiderAdvantage,2,North Carolina,2024-08-29,2024-08-31,800,Kamala Harris,48.4,1
+InsiderAdvantage,2,North Carolina,2024-08-29,2024-08-31,800,Donald Trump,49.2,0
+InsiderAdvantage,2,Georgia,2024-08-29,2024-08-31,800,Kamala Harris,48.3,1
+InsiderAdvantage,2,Georgia,2024-08-29,2024-08-31,800,Donald Trump,47.6,0
+SoonerPoll.com,1.8,Oklahoma,2024-08-24,2024-08-31,323,Kamala Harris,39.9,1
+SoonerPoll.com,1.8,Oklahoma,2024-08-24,2024-08-31,323,Donald Trump,56,0
+YouGov,3,Texas,2024-08-23,2024-08-31,1200,Kamala Harris,44,1
+YouGov,3,Texas,2024-08-23,2024-08-31,1200,Donald Trump,49,0
+Trafalgar Group,0.7,Wisconsin,2024-08-28,2024-08-30,1083,Kamala Harris,46.2,1
+Trafalgar Group,0.7,Wisconsin,2024-08-28,2024-08-30,1083,Donald Trump,47.3,0
+Trafalgar Group,0.7,Michigan,2024-08-28,2024-08-30,1089,Kamala Harris,46.6,1
+Trafalgar Group,0.7,Michigan,2024-08-28,2024-08-30,1089,Donald Trump,47,0
+Trafalgar Group,0.7,Pennsylvania,2024-08-28,2024-08-30,1082,Kamala Harris,44.9,1
+Trafalgar Group,0.7,Pennsylvania,2024-08-28,2024-08-30,1082,Donald Trump,47,0
+Gonzales Research & Media Services,1.2,Maryland,2024-08-24,2024-08-30,820,Kamala Harris,56,1
+Gonzales Research & Media Services,1.2,Maryland,2024-08-24,2024-08-30,820,Donald Trump,35,0
+Wick,1.4,Pennsylvania,2024-08-27,2024-08-29,1607,Kamala Harris,47,1
+Wick,1.4,Pennsylvania,2024-08-27,2024-08-29,1607,Donald Trump,48,0
+Wick,1.4,Pennsylvania,2024-08-27,2024-08-29,1607,Kamala Harris,49,1
+Wick,1.4,Pennsylvania,2024-08-27,2024-08-29,1607,Donald Trump,49,0
+SurveyUSA,2.8,Minnesota,2024-08-27,2024-08-29,635,Kamala Harris,48,1
+SurveyUSA,2.8,Minnesota,2024-08-27,2024-08-29,635,Donald Trump,43,0
+Global Strategy Group,1.8,Nebraska,2024-08-26,2024-08-29,600,Kamala Harris,37,1
+Global Strategy Group,1.8,Nebraska,2024-08-26,2024-08-29,600,Donald Trump,54,0
+Lake Research,1.2,Texas,2024-08-24,2024-08-29,800,Kamala Harris,43,1
+Lake Research,1.2,Texas,2024-08-24,2024-08-29,800,Donald Trump,51,0
+CNN/SSRS,2.8,Arizona,2024-08-23,2024-08-29,682,Kamala Harris,44,1
+CNN/SSRS,2.8,Arizona,2024-08-23,2024-08-29,682,Donald Trump,49,0
+CNN/SSRS,2.8,Georgia,2024-08-23,2024-08-29,617,Kamala Harris,48,1
+CNN/SSRS,2.8,Georgia,2024-08-23,2024-08-29,617,Donald Trump,47,0
+CNN/SSRS,2.8,Michigan,2024-08-23,2024-08-29,708,Kamala Harris,48,1
+CNN/SSRS,2.8,Michigan,2024-08-23,2024-08-29,708,Donald Trump,43,0
+CNN/SSRS,2.8,Nevada,2024-08-23,2024-08-29,626,Kamala Harris,48,1
+CNN/SSRS,2.8,Nevada,2024-08-23,2024-08-29,626,Donald Trump,47,0
+CNN/SSRS,2.8,Pennsylvania,2024-08-23,2024-08-29,789,Kamala Harris,47,1
+CNN/SSRS,2.8,Pennsylvania,2024-08-23,2024-08-29,789,Donald Trump,47,0
+CNN/SSRS,2.8,Wisconsin,2024-08-23,2024-08-29,976,Kamala Harris,50,1
+CNN/SSRS,2.8,Wisconsin,2024-08-23,2024-08-29,976,Donald Trump,44,0
+East Carolina University,2.6,North Carolina,2024-08-26,2024-08-28,920,Kamala Harris,46.9,1
+East Carolina University,2.6,North Carolina,2024-08-26,2024-08-28,920,Donald Trump,47.6,0
+Glengariff Group Inc.,1.5,Michigan,2024-08-26,2024-08-28,600,Kamala Harris,43.5,1
+Glengariff Group Inc.,1.5,Michigan,2024-08-26,2024-08-28,600,Donald Trump,44.7,0
+Emerson,2.9,Arizona,2024-08-25,2024-08-28,720,Kamala Harris,47.5,1
+Emerson,2.9,Arizona,2024-08-25,2024-08-28,720,Donald Trump,51.2,0
+Emerson,2.9,Michigan,2024-08-25,2024-08-28,800,Kamala Harris,51.2,1
+Emerson,2.9,Michigan,2024-08-25,2024-08-28,800,Donald Trump,47.6,0
+Emerson,2.9,Nevada,2024-08-25,2024-08-28,1168,Kamala Harris,49.4,1
+Emerson,2.9,Nevada,2024-08-25,2024-08-28,1168,Donald Trump,48.8,0
+Emerson,2.9,Pennsylvania,2024-08-25,2024-08-28,950,Kamala Harris,49.4,1
+Emerson,2.9,Pennsylvania,2024-08-25,2024-08-28,950,Donald Trump,49.4,0
+Emerson,2.9,Wisconsin,2024-08-25,2024-08-28,850,Kamala Harris,49.1,1
+Emerson,2.9,Wisconsin,2024-08-25,2024-08-28,850,Donald Trump,49.8,0
+Emerson,2.9,North Carolina,2024-08-25,2024-08-28,775,Kamala Harris,49,1
+Emerson,2.9,North Carolina,2024-08-25,2024-08-28,775,Donald Trump,49.9,0
+Emerson,2.9,Georgia,2024-08-25,2024-08-28,800,Kamala Harris,50.1,1
+Emerson,2.9,Georgia,2024-08-25,2024-08-28,800,Donald Trump,49,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-08-25,2024-08-28,812,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-08-25,2024-08-28,812,Donald Trump,45,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-08-25,2024-08-28,530,Kamala Harris,45,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-08-25,2024-08-28,530,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,Florida,2024-08-25,2024-08-28,850,Kamala Harris,43,1
+Redfield & Wilton Strategies,1.8,Florida,2024-08-25,2024-08-28,850,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-08-25,2024-08-28,699,Kamala Harris,42,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-08-25,2024-08-28,699,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-08-25,2024-08-28,761,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-08-25,2024-08-28,761,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Minnesota,2024-08-25,2024-08-28,426,Kamala Harris,51,1
+Redfield & Wilton Strategies,1.8,Minnesota,2024-08-25,2024-08-28,426,Donald Trump,42,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-08-25,2024-08-28,490,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-08-25,2024-08-28,490,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,New Mexico,2024-08-25,2024-08-28,488,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,New Mexico,2024-08-25,2024-08-28,488,Donald Trump,40,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-08-25,2024-08-28,1071,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-08-25,2024-08-28,1071,Donald Trump,45,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-08-25,2024-08-28,672,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-08-25,2024-08-28,672,Donald Trump,44,0
+Morning Consult,1.9,Arizona,2024-08-23,2024-08-27,805,Kamala Harris,49,1
+Morning Consult,1.9,Arizona,2024-08-23,2024-08-27,805,Donald Trump,47,0
+Morning Consult,1.9,Arizona,2024-08-23,2024-08-27,805,Kamala Harris,48,1
+Morning Consult,1.9,Arizona,2024-08-23,2024-08-27,805,Donald Trump,48,0
+Morning Consult,1.9,Arizona,2024-08-23,2024-08-27,776,Kamala Harris,49,1
+Morning Consult,1.9,Arizona,2024-08-23,2024-08-27,776,Donald Trump,47,0
+Morning Consult,1.9,Arizona,2024-08-23,2024-08-27,776,Kamala Harris,48,1
+Morning Consult,1.9,Arizona,2024-08-23,2024-08-27,776,Donald Trump,48,0
+SurveyUSA,2.8,Nebraska,2024-08-23,2024-08-27,1293,Kamala Harris,37,1
+SurveyUSA,2.8,Nebraska,2024-08-23,2024-08-27,1293,Donald Trump,54,0
+SurveyUSA,2.8,Nebraska,2024-08-23,2024-08-27,507,Kamala Harris,47,1
+SurveyUSA,2.8,Nebraska,2024-08-23,2024-08-27,507,Donald Trump,42,0
+Research America,0.7,West Virginia,2024-08-21,2024-08-27,400,Kamala Harris,34,1
+Research America,0.7,West Virginia,2024-08-21,2024-08-27,400,Donald Trump,61,0
+Beacon/Shaw,2.8,Arizona,2024-08-23,2024-08-26,1014,Kamala Harris,48,1
+Beacon/Shaw,2.8,Arizona,2024-08-23,2024-08-26,1014,Donald Trump,47,0
+Beacon/Shaw,2.8,Arizona,2024-08-23,2024-08-26,1014,Kamala Harris,50,1
+Beacon/Shaw,2.8,Arizona,2024-08-23,2024-08-26,1014,Donald Trump,49,0
+Beacon/Shaw,2.8,Georgia,2024-08-23,2024-08-26,1014,Kamala Harris,48,1
+Beacon/Shaw,2.8,Georgia,2024-08-23,2024-08-26,1014,Donald Trump,46,0
+Beacon/Shaw,2.8,Georgia,2024-08-23,2024-08-26,1014,Kamala Harris,50,1
+Beacon/Shaw,2.8,Georgia,2024-08-23,2024-08-26,1014,Donald Trump,48,0
+Beacon/Shaw,2.8,Nevada,2024-08-23,2024-08-26,1026,Kamala Harris,48,1
+Beacon/Shaw,2.8,Nevada,2024-08-23,2024-08-26,1026,Donald Trump,46,0
+Beacon/Shaw,2.8,Nevada,2024-08-23,2024-08-26,1026,Kamala Harris,50,1
+Beacon/Shaw,2.8,Nevada,2024-08-23,2024-08-26,1026,Donald Trump,48,0
+Beacon/Shaw,2.8,North Carolina,2024-08-23,2024-08-26,999,Kamala Harris,47,1
+Beacon/Shaw,2.8,North Carolina,2024-08-23,2024-08-26,999,Donald Trump,48,0
+Beacon/Shaw,2.8,North Carolina,2024-08-23,2024-08-26,999,Kamala Harris,49,1
+Beacon/Shaw,2.8,North Carolina,2024-08-23,2024-08-26,999,Donald Trump,50,0
+Morning Consult,1.9,Georgia,2024-08-23,2024-08-26,801,Kamala Harris,47,1
+Morning Consult,1.9,Georgia,2024-08-23,2024-08-26,801,Donald Trump,46,0
+Morning Consult,1.9,Georgia,2024-08-23,2024-08-26,801,Kamala Harris,49,1
+Morning Consult,1.9,Georgia,2024-08-23,2024-08-26,801,Donald Trump,47,0
+Morning Consult,1.9,Georgia,2024-08-23,2024-08-26,737,Kamala Harris,48,1
+Morning Consult,1.9,Georgia,2024-08-23,2024-08-26,737,Donald Trump,46,0
+Morning Consult,1.9,Georgia,2024-08-23,2024-08-26,737,Kamala Harris,50,1
+Morning Consult,1.9,Georgia,2024-08-23,2024-08-26,737,Donald Trump,47,0
+Morning Consult,1.9,Michigan,2024-08-23,2024-08-26,702,Kamala Harris,48,1
+Morning Consult,1.9,Michigan,2024-08-23,2024-08-26,702,Donald Trump,46,0
+Morning Consult,1.9,Michigan,2024-08-23,2024-08-26,702,Kamala Harris,49,1
+Morning Consult,1.9,Michigan,2024-08-23,2024-08-26,651,Kamala Harris,49,1
+Morning Consult,1.9,Michigan,2024-08-23,2024-08-26,651,Donald Trump,47,0
+Morning Consult,1.9,Nevada,2024-08-23,2024-08-26,450,Kamala Harris,48,1
+Morning Consult,1.9,Nevada,2024-08-23,2024-08-26,450,Donald Trump,45,0
+Morning Consult,1.9,Nevada,2024-08-23,2024-08-26,450,Kamala Harris,49,1
+Morning Consult,1.9,Nevada,2024-08-23,2024-08-26,416,Kamala Harris,48,1
+Morning Consult,1.9,Nevada,2024-08-23,2024-08-26,416,Donald Trump,46,0
+Morning Consult,1.9,Nevada,2024-08-23,2024-08-26,416,Kamala Harris,50,1
+Morning Consult,1.9,North Carolina,2024-08-23,2024-08-26,700,Kamala Harris,48,1
+Morning Consult,1.9,North Carolina,2024-08-23,2024-08-26,700,Donald Trump,47,0
+Morning Consult,1.9,North Carolina,2024-08-23,2024-08-26,700,Kamala Harris,49,1
+Morning Consult,1.9,North Carolina,2024-08-23,2024-08-26,645,Kamala Harris,48,1
+Morning Consult,1.9,North Carolina,2024-08-23,2024-08-26,645,Donald Trump,48,0
+Morning Consult,1.9,North Carolina,2024-08-23,2024-08-26,645,Kamala Harris,49,1
+Morning Consult,1.9,North Carolina,2024-08-23,2024-08-26,645,Donald Trump,49,0
+Morning Consult,1.9,Pennsylvania,2024-08-23,2024-08-26,803,Kamala Harris,51,1
+Morning Consult,1.9,Pennsylvania,2024-08-23,2024-08-26,803,Donald Trump,45,0
+Morning Consult,1.9,Pennsylvania,2024-08-23,2024-08-26,803,Donald Trump,47,0
+Morning Consult,1.9,Pennsylvania,2024-08-23,2024-08-26,758,Kamala Harris,51,1
+Morning Consult,1.9,Pennsylvania,2024-08-23,2024-08-26,758,Donald Trump,46,0
+Morning Consult,1.9,Pennsylvania,2024-08-23,2024-08-26,758,Donald Trump,48,0
+Morning Consult,1.9,Wisconsin,2024-08-23,2024-08-26,701,Kamala Harris,51,1
+Morning Consult,1.9,Wisconsin,2024-08-23,2024-08-26,701,Donald Trump,44,0
+Morning Consult,1.9,Wisconsin,2024-08-23,2024-08-26,701,Kamala Harris,52,1
+Morning Consult,1.9,Wisconsin,2024-08-23,2024-08-26,648,Kamala Harris,52,1
+Morning Consult,1.9,Wisconsin,2024-08-23,2024-08-26,648,Donald Trump,44,0
+Morning Consult,1.9,Wisconsin,2024-08-23,2024-08-26,648,Kamala Harris,53,1
+EPIC/MRA,1.9,Michigan,2024-08-23,2024-08-26,600,Kamala Harris,45,1
+EPIC/MRA,1.9,Michigan,2024-08-23,2024-08-26,600,Donald Trump,46,0
+EPIC/MRA,1.9,Michigan,2024-08-23,2024-08-26,600,Kamala Harris,46,1
+EPIC/MRA,1.9,Michigan,2024-08-23,2024-08-26,600,Donald Trump,47,0
+Cherry Communications,1,Florida,2024-08-15,2024-08-26,600,Kamala Harris,45,1
+Cherry Communications,1,Florida,2024-08-15,2024-08-26,600,Donald Trump,52,0
+YouGov,3,Pennsylvania,2024-08-15,2024-08-23,500,Kamala Harris,43,1
+YouGov,3,Pennsylvania,2024-08-15,2024-08-23,500,Donald Trump,42.5,0
+YouGov,3,Pennsylvania,2024-08-15,2024-08-23,500,Donald Trump,41,0
+YouGov,3,Wisconsin,2024-08-15,2024-08-23,500,Kamala Harris,48,1
+YouGov,3,Wisconsin,2024-08-15,2024-08-23,500,Donald Trump,42,0
+YouGov,3,Wisconsin,2024-08-15,2024-08-23,500,Kamala Harris,45,1
+YouGov,3,Wisconsin,2024-08-15,2024-08-23,500,Donald Trump,40,0
+YouGov,3,Michigan,2024-08-15,2024-08-23,500,Kamala Harris,44,1
+YouGov,3,Michigan,2024-08-15,2024-08-23,500,Donald Trump,43.5,0
+YouGov,3,Michigan,2024-08-15,2024-08-23,500,Donald Trump,41.5,0
+PPP,1.4,Texas,2024-08-21,2024-08-22,725,Kamala Harris,42,1
+PPP,1.4,Texas,2024-08-21,2024-08-22,725,Donald Trump,45,0
+PPP,1.4,Texas,2024-08-21,2024-08-22,725,Kamala Harris,44,1
+PPP,1.4,Texas,2024-08-21,2024-08-22,725,Donald Trump,49,0
+PPP,1.4,Florida,2024-08-21,2024-08-22,837,Kamala Harris,45,1
+PPP,1.4,Florida,2024-08-21,2024-08-22,837,Donald Trump,48,0
+PPP,1.4,Florida,2024-08-21,2024-08-22,837,Kamala Harris,47,1
+PPP,1.4,Florida,2024-08-21,2024-08-22,837,Donald Trump,51,0
+Emerson,2.9,New Mexico,2024-08-20,2024-08-22,965,Kamala Harris,53.6,1
+Emerson,2.9,New Mexico,2024-08-20,2024-08-22,965,Donald Trump,46.4,0
+Emerson,2.9,New Mexico,2024-08-20,2024-08-22,965,Kamala Harris,51,1
+Emerson,2.9,New Mexico,2024-08-20,2024-08-22,965,Donald Trump,40.2,0
+TIPP,1.8,Michigan,2024-08-20,2024-08-22,1001,Kamala Harris,46.4,1
+TIPP,1.8,Michigan,2024-08-20,2024-08-22,1001,Donald Trump,44.1,0
+TIPP,1.8,Michigan,2024-08-20,2024-08-22,741,Kamala Harris,48.4,1
+TIPP,1.8,Michigan,2024-08-20,2024-08-22,741,Donald Trump,46,0
+TIPP,1.8,Michigan,2024-08-20,2024-08-22,1001,Kamala Harris,43.7,1
+TIPP,1.8,Michigan,2024-08-20,2024-08-22,1001,Donald Trump,41.9,0
+TIPP,1.8,Michigan,2024-08-20,2024-08-22,741,Kamala Harris,46.8,1
+TIPP,1.8,Michigan,2024-08-20,2024-08-22,741,Donald Trump,44.8,0
+SurveyUSA/High Point University,2.8,North Carolina,2024-08-19,2024-08-21,1053,Kamala Harris,46,1
+SurveyUSA/High Point University,2.8,North Carolina,2024-08-19,2024-08-21,1053,Donald Trump,45,0
+SurveyUSA/High Point University,2.8,North Carolina,2024-08-19,2024-08-21,941,Kamala Harris,47,1
+SurveyUSA/High Point University,2.8,North Carolina,2024-08-19,2024-08-21,941,Donald Trump,47,0
+Fabrizio Ward,1.7,Michigan,2024-08-19,2024-08-21,400,Kamala Harris,44,1
+Fabrizio Ward,1.7,Michigan,2024-08-19,2024-08-21,400,Donald Trump,43,0
+Fabrizio Ward,1.7,Michigan,2024-08-19,2024-08-21,400,Kamala Harris,46,1
+Fabrizio Ward,1.7,Michigan,2024-08-19,2024-08-21,400,Donald Trump,48,0
+Fabrizio Ward,1.7,Pennsylvania,2024-08-19,2024-08-21,400,Kamala Harris,43,1
+Fabrizio Ward,1.7,Pennsylvania,2024-08-19,2024-08-21,400,Donald Trump,43,0
+Fabrizio Ward,1.7,Pennsylvania,2024-08-19,2024-08-21,400,Kamala Harris,46,1
+Fabrizio Ward,1.7,Pennsylvania,2024-08-19,2024-08-21,400,Donald Trump,47,0
+Fabrizio Ward,1.7,Wisconsin,2024-08-19,2024-08-21,400,Kamala Harris,47,1
+Fabrizio Ward,1.7,Wisconsin,2024-08-19,2024-08-21,400,Donald Trump,42,0
+Fabrizio Ward,1.7,Wisconsin,2024-08-19,2024-08-21,400,Kamala Harris,49,1
+Fabrizio Ward,1.7,Wisconsin,2024-08-19,2024-08-21,400,Donald Trump,45,0
+BK Strategies,1.3,Wisconsin,2024-08-19,2024-08-21,600,Kamala Harris,48,1
+BK Strategies,1.3,Wisconsin,2024-08-19,2024-08-21,600,Donald Trump,45,0
+Fabrizio/Impact,1.7,Maryland,2024-08-14,2024-08-20,600,Kamala Harris,59,1
+Fabrizio/Impact,1.7,Maryland,2024-08-14,2024-08-20,600,Donald Trump,29,0
+Fabrizio/Impact,1.7,Maryland,2024-08-14,2024-08-20,600,Kamala Harris,64,1
+Fabrizio/Impact,1.7,Maryland,2024-08-14,2024-08-20,600,Donald Trump,32,0
+Spry Strategies,1.5,Arizona,2024-08-14,2024-08-20,600,Kamala Harris,47.6,1
+Spry Strategies,1.5,Arizona,2024-08-14,2024-08-20,600,Donald Trump,48.7,0
+Spry Strategies,1.5,Arizona,2024-08-14,2024-08-20,600,Kamala Harris,46.1,1
+Spry Strategies,1.5,Arizona,2024-08-14,2024-08-20,600,Donald Trump,46.4,0
+Spry Strategies,1.5,Georgia,2024-08-14,2024-08-20,600,Kamala Harris,48.9,1
+Spry Strategies,1.5,Georgia,2024-08-14,2024-08-20,600,Donald Trump,49.3,0
+Spry Strategies,1.5,Georgia,2024-08-14,2024-08-20,600,Kamala Harris,46.8,1
+Spry Strategies,1.5,Georgia,2024-08-14,2024-08-20,600,Donald Trump,48.1,0
+Spry Strategies,1.5,North Carolina,2024-08-14,2024-08-20,600,Kamala Harris,47.2,1
+Spry Strategies,1.5,North Carolina,2024-08-14,2024-08-20,600,Donald Trump,47.4,0
+Spry Strategies,1.5,North Carolina,2024-08-14,2024-08-20,600,Kamala Harris,46.5,1
+Spry Strategies,1.5,North Carolina,2024-08-14,2024-08-20,600,Donald Trump,45.1,0
+Spry Strategies,1.5,Pennsylvania,2024-08-14,2024-08-20,600,Kamala Harris,48.2,1
+Spry Strategies,1.5,Pennsylvania,2024-08-14,2024-08-20,600,Donald Trump,47.2,0
+Spry Strategies,1.5,Pennsylvania,2024-08-14,2024-08-20,600,Kamala Harris,46.3,1
+Spry Strategies,1.5,Pennsylvania,2024-08-14,2024-08-20,600,Donald Trump,45,0
+Spry Strategies,1.5,Wisconsin,2024-08-14,2024-08-20,600,Kamala Harris,47.9,1
+Spry Strategies,1.5,Wisconsin,2024-08-14,2024-08-20,600,Donald Trump,45.2,0
+Spry Strategies,1.5,Wisconsin,2024-08-14,2024-08-20,600,Kamala Harris,46.3,1
+Spry Strategies,1.5,Wisconsin,2024-08-14,2024-08-20,600,Donald Trump,42.4,0
+InsiderAdvantage,2,Pennsylvania,2024-08-18,2024-08-19,800,Kamala Harris,46,1
+InsiderAdvantage,2,Pennsylvania,2024-08-18,2024-08-19,800,Donald Trump,46.6,0
+U. New Hampshire,2.6,New Hampshire,2024-08-15,2024-08-19,2048,Kamala Harris,50,1
+U. New Hampshire,2.6,New Hampshire,2024-08-15,2024-08-19,2048,Donald Trump,43,0
+U. New Hampshire,2.6,New Hampshire,2024-08-15,2024-08-19,2048,Kamala Harris,52,1
+U. New Hampshire,2.6,New Hampshire,2024-08-15,2024-08-19,2048,Donald Trump,47,0
+U. New Hampshire,2.6,Vermont,2024-08-15,2024-08-19,924,Kamala Harris,67,1
+U. New Hampshire,2.6,Vermont,2024-08-15,2024-08-19,924,Donald Trump,27,0
+U. New Hampshire,2.6,Vermont,2024-08-15,2024-08-19,924,Kamala Harris,70,1
+U. New Hampshire,2.6,Vermont,2024-08-15,2024-08-19,924,Donald Trump,29,0
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,951,Kamala Harris,55,1
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,951,Donald Trump,38,0
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,951,Kamala Harris,58,1
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,951,Donald Trump,41,0
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,490,Kamala Harris,62,1
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,490,Donald Trump,33,0
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,476,Kamala Harris,64,1
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,476,Donald Trump,36,0
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,443,Kamala Harris,49,1
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,443,Donald Trump,44,0
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,432,Kamala Harris,52,1
+U. New Hampshire,2.6,Maine,2024-08-15,2024-08-19,432,Donald Trump,47,0
+Remington,2.6,Nebraska,2024-08-14,2024-08-17,656,Kamala Harris,50,1
+Remington,2.6,Nebraska,2024-08-14,2024-08-17,656,Donald Trump,42,0
+Change Research,1.4,Nebraska,2024-08-10,2024-08-17,437,Kamala Harris,47,1
+Change Research,1.4,Nebraska,2024-08-10,2024-08-17,437,Donald Trump,42,0
+Roanoke College,2.6,Virginia,2024-08-12,2024-08-16,691,Kamala Harris,47,1
+Roanoke College,2.6,Virginia,2024-08-12,2024-08-16,691,Donald Trump,44,0
+Roanoke College,2.6,Virginia,2024-08-12,2024-08-16,691,Kamala Harris,45,1
+Roanoke College,2.6,Virginia,2024-08-12,2024-08-16,691,Donald Trump,42,0
+Noble Predictive Insights,2.4,Arizona,2024-08-12,2024-08-16,1003,Kamala Harris,44,1
+Noble Predictive Insights,2.4,Arizona,2024-08-12,2024-08-16,1003,Donald Trump,47,0
+Noble Predictive Insights,2.4,Arizona,2024-08-12,2024-08-16,1003,Kamala Harris,43,1
+Noble Predictive Insights,2.4,Arizona,2024-08-12,2024-08-16,1003,Donald Trump,44,0
+YouGov,3,Missouri,2024-08-08,2024-08-16,900,Kamala Harris,41,1
+YouGov,3,Missouri,2024-08-08,2024-08-16,900,Donald Trump,54,0
+University of Houston/Texas Southern University,2.2,Texas,2024-08-05,2024-08-16,1365,Kamala Harris,44.6,1
+University of Houston/Texas Southern University,2.2,Texas,2024-08-05,2024-08-16,1365,Donald Trump,49.5,0
+Cygnal,2.1,Pennsylvania,2024-08-14,2024-08-15,800,Kamala Harris,47.8,1
+Cygnal,2.1,Pennsylvania,2024-08-14,2024-08-15,800,Donald Trump,47.1,0
+Cygnal,2.1,Pennsylvania,2024-08-14,2024-08-15,800,Kamala Harris,43.4,1
+Cygnal,2.1,Pennsylvania,2024-08-14,2024-08-15,800,Donald Trump,44.3,0
+Siena/NYT,3,Nevada,2024-08-12,2024-08-15,677,Kamala Harris,46,1
+Siena/NYT,3,Nevada,2024-08-12,2024-08-15,677,Donald Trump,48,0
+Siena/NYT,3,Nevada,2024-08-12,2024-08-15,677,Kamala Harris,47,1
+Siena/NYT,3,Nevada,2024-08-12,2024-08-15,677,Kamala Harris,42,1
+Siena/NYT,3,Nevada,2024-08-12,2024-08-15,677,Donald Trump,45,0
+Siena/NYT,3,Nevada,2024-08-12,2024-08-15,677,Kamala Harris,44,1
+Siena/NYT,3,Nevada,2024-08-12,2024-08-15,677,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-08-12,2024-08-15,592,Kamala Harris,43,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-08-12,2024-08-15,592,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Florida,2024-08-12,2024-08-15,1296,Kamala Harris,43,1
+Redfield & Wilton Strategies,1.8,Florida,2024-08-12,2024-08-15,1296,Donald Trump,48,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-08-12,2024-08-15,692,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-08-12,2024-08-15,692,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-08-12,2024-08-15,530,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-08-12,2024-08-15,530,Donald Trump,45,0
+Redfield & Wilton Strategies,1.8,Minnesota,2024-08-12,2024-08-15,475,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,Minnesota,2024-08-12,2024-08-15,475,Donald Trump,40,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-08-12,2024-08-15,536,Kamala Harris,42,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-08-12,2024-08-15,536,Donald Trump,43,0
+Redfield & Wilton Strategies,1.8,New Mexico,2024-08-12,2024-08-15,453,Kamala Harris,47,1
+Redfield & Wilton Strategies,1.8,New Mexico,2024-08-12,2024-08-15,453,Donald Trump,41,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-08-12,2024-08-15,601,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-08-12,2024-08-15,601,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-08-12,2024-08-15,825,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-08-12,2024-08-15,825,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-08-12,2024-08-15,469,Kamala Harris,48,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-08-12,2024-08-15,469,Donald Trump,44,0
+Siena/NYT,3,Arizona,2024-08-08,2024-08-15,677,Kamala Harris,49,1
+Siena/NYT,3,Arizona,2024-08-08,2024-08-15,677,Donald Trump,45,0
+Siena/NYT,3,Arizona,2024-08-08,2024-08-15,677,Kamala Harris,50,1
+Siena/NYT,3,Arizona,2024-08-08,2024-08-15,677,Kamala Harris,45,1
+Siena/NYT,3,Arizona,2024-08-08,2024-08-15,677,Donald Trump,42,0
+Siena/NYT,3,Arizona,2024-08-08,2024-08-15,677,Kamala Harris,47,1
+Siena/NYT,3,Arizona,2024-08-08,2024-08-15,677,Donald Trump,43,0
+St. Anselm,2.4,New Hampshire,2024-08-13,2024-08-14,1656,Kamala Harris,51,1
+St. Anselm,2.4,New Hampshire,2024-08-13,2024-08-14,1656,Donald Trump,44,0
+Emerson,2.9,Pennsylvania,2024-08-13,2024-08-14,1000,Kamala Harris,49.3,1
+Emerson,2.9,Pennsylvania,2024-08-13,2024-08-14,1000,Donald Trump,50.7,0
+Emerson,2.9,Pennsylvania,2024-08-13,2024-08-14,1000,Kamala Harris,46.8,1
+Emerson,2.9,Pennsylvania,2024-08-13,2024-08-14,1000,Donald Trump,47.4,0
+TIPP,1.8,Wisconsin,2024-08-12,2024-08-14,1015,Kamala Harris,47,1
+TIPP,1.8,Wisconsin,2024-08-12,2024-08-14,1015,Donald Trump,46.1,0
+TIPP,1.8,Wisconsin,2024-08-12,2024-08-14,976,Kamala Harris,47.2,1
+TIPP,1.8,Wisconsin,2024-08-12,2024-08-14,976,Donald Trump,47,0
+TIPP,1.8,Wisconsin,2024-08-12,2024-08-14,1015,Kamala Harris,45.3,1
+TIPP,1.8,Wisconsin,2024-08-12,2024-08-14,1015,Donald Trump,43.1,0
+TIPP,1.8,Wisconsin,2024-08-12,2024-08-14,976,Kamala Harris,46.2,1
+TIPP,1.8,Wisconsin,2024-08-12,2024-08-14,976,Donald Trump,44.8,0
+Siena/NYT,3,North Carolina,2024-08-09,2024-08-14,655,Kamala Harris,49,1
+Siena/NYT,3,North Carolina,2024-08-09,2024-08-14,655,Donald Trump,46,0
+Siena/NYT,3,North Carolina,2024-08-09,2024-08-14,655,Donald Trump,47,0
+Siena/NYT,3,North Carolina,2024-08-09,2024-08-14,655,Kamala Harris,45,1
+Siena/NYT,3,North Carolina,2024-08-09,2024-08-14,655,Donald Trump,42,0
+Siena/NYT,3,North Carolina,2024-08-09,2024-08-14,655,Kamala Harris,46,1
+Siena/NYT,3,North Carolina,2024-08-09,2024-08-14,655,Donald Trump,44,0
+Siena/NYT,3,Georgia,2024-08-09,2024-08-14,661,Kamala Harris,44,1
+Siena/NYT,3,Georgia,2024-08-09,2024-08-14,661,Donald Trump,51,0
+Siena/NYT,3,Georgia,2024-08-09,2024-08-14,661,Kamala Harris,46,1
+Siena/NYT,3,Georgia,2024-08-09,2024-08-14,661,Donald Trump,50,0
+Siena/NYT,3,Georgia,2024-08-09,2024-08-14,661,Kamala Harris,41,1
+Siena/NYT,3,Georgia,2024-08-09,2024-08-14,661,Donald Trump,47,0
+Strategies 360,1.3,Arizona,2024-08-07,2024-08-14,400,Kamala Harris,47,1
+Strategies 360,1.3,Arizona,2024-08-07,2024-08-14,400,Donald Trump,46,0
+Strategies 360,1.3,Nevada,2024-08-07,2024-08-14,350,Kamala Harris,48,1
+Strategies 360,1.3,Nevada,2024-08-07,2024-08-14,350,Donald Trump,42,0
+RMG Research,2.3,Montana,2024-08-06,2024-08-14,540,Kamala Harris,39,1
+RMG Research,2.3,Montana,2024-08-06,2024-08-14,540,Donald Trump,57,0
+Quinnipiac,2.8,Pennsylvania,2024-08-08,2024-08-12,1738,Kamala Harris,48,1
+Quinnipiac,2.8,Pennsylvania,2024-08-08,2024-08-12,1738,Donald Trump,45,0
+Quinnipiac,2.8,Pennsylvania,2024-08-08,2024-08-12,1738,Kamala Harris,50,1
+Quinnipiac,2.8,Pennsylvania,2024-08-08,2024-08-12,1738,Donald Trump,47,0
+Suffolk,2.9,Florida,2024-08-07,2024-08-11,500,Kamala Harris,41.8,1
+Suffolk,2.9,Florida,2024-08-07,2024-08-11,500,Donald Trump,46.8,0
+Fabrizio/Impact,1.7,Michigan,2024-08-07,2024-08-11,600,Kamala Harris,43,1
+Fabrizio/Impact,1.7,Michigan,2024-08-07,2024-08-11,600,Donald Trump,45,0
+Fabrizio/Impact,1.7,Michigan,2024-08-07,2024-08-11,600,Kamala Harris,48,1
+Fabrizio/Impact,1.7,Michigan,2024-08-07,2024-08-11,600,Donald Trump,48,0
+UC Berkeley,2.5,California,2024-07-31,2024-08-11,3765,Kamala Harris,59,1
+UC Berkeley,2.5,California,2024-07-31,2024-08-11,3765,Donald Trump,34,0
+Franklin and Marshall College,2.4,Pennsylvania,2024-07-21,2024-08-11,920,Kamala Harris,46,1
+Franklin and Marshall College,2.4,Pennsylvania,2024-07-21,2024-08-11,920,Donald Trump,43,0
+Siena/NYT,3,Pennsylvania,2024-08-06,2024-08-09,693,Kamala Harris,49,1
+Siena/NYT,3,Pennsylvania,2024-08-06,2024-08-09,693,Donald Trump,46,0
+Siena/NYT,3,Pennsylvania,2024-08-06,2024-08-09,693,Kamala Harris,50,1
+Siena/NYT,3,Pennsylvania,2024-08-06,2024-08-09,693,Kamala Harris,45,1
+Siena/NYT,3,Pennsylvania,2024-08-06,2024-08-09,693,Donald Trump,43,0
+Siena/NYT,3,Pennsylvania,2024-08-06,2024-08-09,693,Kamala Harris,46,1
+Siena/NYT,3,Pennsylvania,2024-08-06,2024-08-09,693,Donald Trump,44,0
+YouGov Blue,3,North Carolina,2024-08-05,2024-08-09,802,Kamala Harris,46,1
+YouGov Blue,3,North Carolina,2024-08-05,2024-08-09,802,Donald Trump,46,0
+HarrisX,1.5,Utah,2024-08-02,2024-08-09,800,Kamala Harris,25,1
+HarrisX,1.5,Utah,2024-08-02,2024-08-09,800,Donald Trump,51,0
+HarrisX,1.5,Utah,2024-08-02,2024-08-09,800,Kamala Harris,28,1
+HarrisX,1.5,Utah,2024-08-02,2024-08-09,800,Donald Trump,60,0
+InsiderAdvantage,2,Michigan,2024-08-06,2024-08-08,800,Kamala Harris,49,1
+InsiderAdvantage,2,Michigan,2024-08-06,2024-08-08,800,Donald Trump,47,0
+Trafalgar Group,0.7,Pennsylvania,2024-08-06,2024-08-08,1078,Kamala Harris,44.4,1
+Trafalgar Group,0.7,Pennsylvania,2024-08-06,2024-08-08,1078,Donald Trump,45.9,0
+Trafalgar Group,0.7,Arizona,2024-08-06,2024-08-08,1092,Kamala Harris,46.5,1
+Trafalgar Group,0.7,Arizona,2024-08-06,2024-08-08,1092,Donald Trump,47.7,0
+Trafalgar Group,0.7,Nevada,2024-08-06,2024-08-08,1087,Kamala Harris,44.8,1
+Trafalgar Group,0.7,Nevada,2024-08-06,2024-08-08,1087,Donald Trump,48.2,0
+Trafalgar Group,0.7,North Carolina,2024-08-06,2024-08-08,1082,Kamala Harris,45.2,1
+Trafalgar Group,0.7,North Carolina,2024-08-06,2024-08-08,1082,Donald Trump,48.9,0
+McLaughlin,0.5,Florida,2024-08-06,2024-08-08,800,Kamala Harris,44,1
+McLaughlin,0.5,Florida,2024-08-06,2024-08-08,800,Donald Trump,52,0
+Siena/NYT,3,Michigan,2024-08-05,2024-08-08,619,Kamala Harris,45,1
+Siena/NYT,3,Michigan,2024-08-05,2024-08-08,619,Donald Trump,48,0
+Siena/NYT,3,Michigan,2024-08-05,2024-08-08,619,Kamala Harris,50,1
+Siena/NYT,3,Michigan,2024-08-05,2024-08-08,619,Donald Trump,46,0
+Siena/NYT,3,Michigan,2024-08-05,2024-08-08,619,Kamala Harris,44,1
+Siena/NYT,3,Michigan,2024-08-05,2024-08-08,619,Donald Trump,43,0
+Siena/NYT,3,Michigan,2024-08-05,2024-08-08,619,Kamala Harris,48,1
+Siena/NYT,3,Wisconsin,2024-08-05,2024-08-08,661,Kamala Harris,50,1
+Siena/NYT,3,Wisconsin,2024-08-05,2024-08-08,661,Donald Trump,46,0
+Siena/NYT,3,Wisconsin,2024-08-05,2024-08-08,661,Kamala Harris,49,1
+Siena/NYT,3,Wisconsin,2024-08-05,2024-08-08,661,Donald Trump,42,0
+Siena/NYT,3,Wisconsin,2024-08-05,2024-08-08,661,Donald Trump,43,0
+Navigator,1.3,Arizona,2024-07-31,2024-08-08,600,Kamala Harris,45,1
+Navigator,1.3,Arizona,2024-07-31,2024-08-08,600,Donald Trump,46,0
+Navigator,1.3,Arizona,2024-07-31,2024-08-08,600,Kamala Harris,46,1
+Navigator,1.3,Arizona,2024-07-31,2024-08-08,600,Donald Trump,49,0
+Navigator,1.3,Michigan,2024-07-31,2024-08-08,600,Kamala Harris,44,1
+Navigator,1.3,Michigan,2024-07-31,2024-08-08,600,Donald Trump,44,0
+Navigator,1.3,Michigan,2024-07-31,2024-08-08,600,Kamala Harris,47,1
+Navigator,1.3,Michigan,2024-07-31,2024-08-08,600,Donald Trump,46,0
+Navigator,1.3,North Carolina,2024-07-31,2024-08-08,600,Kamala Harris,46,1
+Navigator,1.3,North Carolina,2024-07-31,2024-08-08,600,Donald Trump,46,0
+Navigator,1.3,North Carolina,2024-07-31,2024-08-08,600,Donald Trump,48,0
+Navigator,1.3,Pennsylvania,2024-07-31,2024-08-08,600,Kamala Harris,44,1
+Navigator,1.3,Pennsylvania,2024-07-31,2024-08-08,600,Donald Trump,46,0
+Navigator,1.3,Pennsylvania,2024-07-31,2024-08-08,600,Kamala Harris,46,1
+Navigator,1.3,Pennsylvania,2024-07-31,2024-08-08,600,Donald Trump,48,0
+Navigator,1.3,Wisconsin,2024-07-31,2024-08-08,600,Kamala Harris,45,1
+Navigator,1.3,Wisconsin,2024-07-31,2024-08-08,600,Donald Trump,45,0
+Navigator,1.3,Wisconsin,2024-07-31,2024-08-08,600,Kamala Harris,48,1
+Navigator,1.3,Wisconsin,2024-07-31,2024-08-08,600,Donald Trump,48,0
+InsiderAdvantage,2,Wisconsin,2024-08-06,2024-08-07,800,Kamala Harris,48.3,1
+InsiderAdvantage,2,Wisconsin,2024-08-06,2024-08-07,800,Donald Trump,48.6,0
+Emerson,2.9,Montana,2024-08-05,2024-08-06,1000,Kamala Harris,42.5,1
+Emerson,2.9,Montana,2024-08-05,2024-08-06,1000,Donald Trump,57.5,0
+Emerson,2.9,Montana,2024-08-05,2024-08-06,1000,Kamala Harris,39,1
+Emerson,2.9,Montana,2024-08-05,2024-08-06,1000,Donald Trump,53.5,0
+Cygnal,2.1,North Carolina,2024-08-04,2024-08-05,600,Kamala Harris,44.1,1
+Cygnal,2.1,North Carolina,2024-08-04,2024-08-05,600,Donald Trump,47.2,0
+RMG Research,2.3,Wisconsin,2024-07-31,2024-08-05,800,Kamala Harris,48,1
+RMG Research,2.3,Wisconsin,2024-07-31,2024-08-05,800,Donald Trump,45,0
+Peak Insights,0.6,Arizona,2024-07-31,2024-08-05,800,Kamala Harris,42,1
+Peak Insights,0.6,Arizona,2024-07-31,2024-08-05,800,Donald Trump,44,0
+HighGround,1.8,Arizona,2024-07-30,2024-08-05,500,Kamala Harris,44.4,1
+HighGround,1.8,Arizona,2024-07-30,2024-08-05,500,Donald Trump,41.6,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-07-31,2024-08-03,567,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-07-31,2024-08-03,567,Donald Trump,43,0
+Redfield & Wilton Strategies,1.8,Florida,2024-07-31,2024-08-03,976,Kamala Harris,41,1
+Redfield & Wilton Strategies,1.8,Florida,2024-07-31,2024-08-03,976,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-07-31,2024-08-03,1128,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-07-31,2024-08-03,1128,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-07-31,2024-08-03,771,Kamala Harris,41,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-07-31,2024-08-03,771,Donald Trump,42,0
+Redfield & Wilton Strategies,1.8,Minnesota,2024-07-31,2024-08-03,538,Kamala Harris,46,1
+Redfield & Wilton Strategies,1.8,Minnesota,2024-07-31,2024-08-03,538,Donald Trump,41,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-07-31,2024-08-03,470,Kamala Harris,40,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-07-31,2024-08-03,470,Donald Trump,40,0
+Redfield & Wilton Strategies,1.8,New Mexico,2024-07-31,2024-08-03,493,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,New Mexico,2024-07-31,2024-08-03,493,Donald Trump,37,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-07-31,2024-08-03,714,Kamala Harris,41,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-07-31,2024-08-03,714,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-07-31,2024-08-03,743,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-07-31,2024-08-03,743,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-07-31,2024-08-03,597,Kamala Harris,43,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-07-31,2024-08-03,597,Donald Trump,43,0
+Fabrizio,1.7,Pennsylvania,2024-07-29,2024-08-01,600,Kamala Harris,48,1
+Fabrizio,1.7,Pennsylvania,2024-07-29,2024-08-01,600,Donald Trump,48,0
+Fabrizio,1.7,Pennsylvania,2024-07-29,2024-08-01,600,Kamala Harris,45,1
+Fabrizio,1.7,Pennsylvania,2024-07-29,2024-08-01,600,Donald Trump,45,0
+Siena,2.7,New York,2024-07-28,2024-08-01,1199,Kamala Harris,53,1
+Siena,2.7,New York,2024-07-28,2024-08-01,1199,Donald Trump,39,0
+Siena,2.7,New York,2024-07-28,2024-08-01,1199,Kamala Harris,49,1
+Siena,2.7,New York,2024-07-28,2024-08-01,1199,Donald Trump,37,0
+Marquette Law School,3,Wisconsin,2024-07-24,2024-08-01,877,Kamala Harris,49,1
+Marquette Law School,3,Wisconsin,2024-07-24,2024-08-01,877,Donald Trump,50,0
+Marquette Law School,3,Wisconsin,2024-07-24,2024-08-01,801,Kamala Harris,50,1
+Marquette Law School,3,Wisconsin,2024-07-24,2024-08-01,801,Donald Trump,49,0
+Marquette Law School,3,Wisconsin,2024-07-24,2024-08-01,877,Kamala Harris,45,1
+Marquette Law School,3,Wisconsin,2024-07-24,2024-08-01,877,Donald Trump,43,0
+Marquette Law School,3,Wisconsin,2024-07-24,2024-08-01,801,Kamala Harris,46,1
+Marquette Law School,3,Wisconsin,2024-07-24,2024-08-01,801,Donald Trump,45,0
+Fabrizio/Impact,1.7,Georgia,2024-07-24,2024-07-31,600,Kamala Harris,44,1
+Fabrizio/Impact,1.7,Georgia,2024-07-24,2024-07-31,600,Donald Trump,46,0
+Fabrizio/Impact,1.7,Georgia,2024-07-24,2024-07-31,600,Kamala Harris,48,1
+Fabrizio/Impact,1.7,Georgia,2024-07-24,2024-07-31,600,Donald Trump,48,0
+PPP,1.4,Arizona,2024-07-29,2024-07-30,618,Kamala Harris,47,1
+PPP,1.4,Arizona,2024-07-29,2024-07-30,618,Donald Trump,49,0
+PPP,1.4,Pennsylvania,2024-07-29,2024-07-30,627,Kamala Harris,47,1
+PPP,1.4,Pennsylvania,2024-07-29,2024-07-30,627,Donald Trump,48,0
+PPP,1.4,Georgia,2024-07-29,2024-07-30,662,Kamala Harris,48,1
+PPP,1.4,Georgia,2024-07-29,2024-07-30,662,Donald Trump,47,0
+GQR,2,Pennsylvania,2024-07-26,2024-07-30,500,Kamala Harris,50,1
+GQR,2,Pennsylvania,2024-07-26,2024-07-30,500,Donald Trump,46,0
+Public Opinion Strategies,1.6,Arizona,2024-07-23,2024-07-29,400,Kamala Harris,43,1
+Public Opinion Strategies,1.6,Arizona,2024-07-23,2024-07-29,400,Donald Trump,48,0
+Public Opinion Strategies,1.6,Michigan,2024-07-23,2024-07-29,400,Kamala Harris,45,1
+Public Opinion Strategies,1.6,Michigan,2024-07-23,2024-07-29,400,Donald Trump,45,0
+Public Opinion Strategies,1.6,Nevada,2024-07-23,2024-07-29,400,Kamala Harris,45,1
+Public Opinion Strategies,1.6,Nevada,2024-07-23,2024-07-29,400,Donald Trump,46,0
+Public Opinion Strategies,1.6,Pennsylvania,2024-07-23,2024-07-29,400,Kamala Harris,48,1
+Public Opinion Strategies,1.6,Pennsylvania,2024-07-23,2024-07-29,400,Donald Trump,45,0
+Public Opinion Strategies,1.6,Wisconsin,2024-07-23,2024-07-29,400,Kamala Harris,48,1
+Public Opinion Strategies,1.6,Wisconsin,2024-07-23,2024-07-29,400,Donald Trump,46,0
+Emerson,2.9,New Hampshire,2024-07-26,2024-07-28,1000,Kamala Harris,52.4,1
+Emerson,2.9,New Hampshire,2024-07-26,2024-07-28,1000,Donald Trump,47.6,0
+Emerson,2.9,New Hampshire,2024-07-26,2024-07-28,1000,Kamala Harris,47.7,1
+Emerson,2.9,New Hampshire,2024-07-26,2024-07-28,1000,Donald Trump,41.4,0
+Morning Consult,1.9,Arizona,2024-07-24,2024-07-28,804,Kamala Harris,48,1
+Morning Consult,1.9,Arizona,2024-07-24,2024-07-28,804,Donald Trump,44,0
+Morning Consult,1.9,Arizona,2024-07-24,2024-07-28,804,Kamala Harris,49,1
+Morning Consult,1.9,Arizona,2024-07-24,2024-07-28,804,Donald Trump,47,0
+Morning Consult,1.9,Georgia,2024-07-24,2024-07-28,799,Kamala Harris,45,1
+Morning Consult,1.9,Georgia,2024-07-24,2024-07-28,799,Donald Trump,45,0
+Morning Consult,1.9,Georgia,2024-07-24,2024-07-28,799,Kamala Harris,47,1
+Morning Consult,1.9,Georgia,2024-07-24,2024-07-28,799,Donald Trump,47,0
+Morning Consult,1.9,Michigan,2024-07-24,2024-07-28,706,Kamala Harris,51,1
+Morning Consult,1.9,Michigan,2024-07-24,2024-07-28,706,Donald Trump,39,0
+Morning Consult,1.9,Michigan,2024-07-24,2024-07-28,706,Kamala Harris,53,1
+Morning Consult,1.9,Michigan,2024-07-24,2024-07-28,706,Donald Trump,42,0
+Morning Consult,1.9,Nevada,2024-07-24,2024-07-28,454,Kamala Harris,43,1
+Morning Consult,1.9,Nevada,2024-07-24,2024-07-28,454,Donald Trump,43,0
+Morning Consult,1.9,Nevada,2024-07-24,2024-07-28,454,Kamala Harris,47,1
+Morning Consult,1.9,Nevada,2024-07-24,2024-07-28,454,Donald Trump,45,0
+Morning Consult,1.9,North Carolina,2024-07-24,2024-07-28,706,Kamala Harris,44,1
+Morning Consult,1.9,North Carolina,2024-07-24,2024-07-28,706,Donald Trump,45,0
+Morning Consult,1.9,North Carolina,2024-07-24,2024-07-28,706,Kamala Harris,46,1
+Morning Consult,1.9,North Carolina,2024-07-24,2024-07-28,706,Donald Trump,48,0
+Morning Consult,1.9,Pennsylvania,2024-07-24,2024-07-28,804,Kamala Harris,44,1
+Morning Consult,1.9,Pennsylvania,2024-07-24,2024-07-28,804,Donald Trump,46,0
+Morning Consult,1.9,Pennsylvania,2024-07-24,2024-07-28,804,Kamala Harris,46,1
+Morning Consult,1.9,Pennsylvania,2024-07-24,2024-07-28,804,Donald Trump,50,0
+Morning Consult,1.9,Wisconsin,2024-07-24,2024-07-28,700,Kamala Harris,44,1
+Morning Consult,1.9,Wisconsin,2024-07-24,2024-07-28,700,Donald Trump,45,0
+Morning Consult,1.9,Wisconsin,2024-07-24,2024-07-28,700,Kamala Harris,49,1
+Morning Consult,1.9,Wisconsin,2024-07-24,2024-07-28,700,Donald Trump,47,0
+Fabrizio/Impact,1.7,Ohio,2024-07-23,2024-07-28,600,Kamala Harris,39,1
+Fabrizio/Impact,1.7,Ohio,2024-07-23,2024-07-28,600,Donald Trump,48,0
+Fabrizio/Impact,1.7,Ohio,2024-07-23,2024-07-28,600,Kamala Harris,42,1
+Fabrizio/Impact,1.7,Ohio,2024-07-23,2024-07-28,600,Donald Trump,52,0
+Susquehanna,2.3,Pennsylvania,2024-07-22,2024-07-28,600,Kamala Harris,47,1
+Susquehanna,2.3,Pennsylvania,2024-07-22,2024-07-28,600,Donald Trump,43,0
+U. North Florida,2.8,Florida,2024-07-24,2024-07-27,774,Kamala Harris,42,1
+U. North Florida,2.8,Florida,2024-07-24,2024-07-27,774,Donald Trump,49,0
+Hoffman Research,1.7,Oregon,2024-07-24,2024-07-26,700,Kamala Harris,49,1
+Hoffman Research,1.7,Oregon,2024-07-24,2024-07-26,700,Donald Trump,44,0
+Hoffman Research,1.7,Oregon,2024-07-24,2024-07-26,700,Kamala Harris,45,1
+Hoffman Research,1.7,Oregon,2024-07-24,2024-07-26,700,Donald Trump,40,0
+St. Anselm,2.4,New Hampshire,2024-07-24,2024-07-25,2083,Kamala Harris,50,1
+St. Anselm,2.4,New Hampshire,2024-07-24,2024-07-25,2083,Donald Trump,44,0
+PPP,1.4,Washington,2024-07-24,2024-07-25,581,Kamala Harris,52,1
+PPP,1.4,Washington,2024-07-24,2024-07-25,581,Donald Trump,38,0
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,1445,Kamala Harris,48,1
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,1445,Donald Trump,40,0
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,1445,Kamala Harris,54,1
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,1445,Donald Trump,45,0
+U. New Hampshire,2.6,New Hampshire,2024-07-23,2024-07-25,2875,Kamala Harris,49,1
+U. New Hampshire,2.6,New Hampshire,2024-07-23,2024-07-25,2875,Donald Trump,43,0
+U. New Hampshire,2.6,New Hampshire,2024-07-23,2024-07-25,2875,Kamala Harris,53,1
+U. New Hampshire,2.6,New Hampshire,2024-07-23,2024-07-25,2875,Donald Trump,46,0
+SurveyUSA,2.8,Minnesota,2024-07-23,2024-07-25,656,Kamala Harris,50,1
+SurveyUSA,2.8,Minnesota,2024-07-23,2024-07-25,656,Donald Trump,40,0
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,732,Kamala Harris,56,1
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,732,Donald Trump,36,0
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,732,Kamala Harris,60,1
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,732,Donald Trump,39,0
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,701,Kamala Harris,40,1
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,701,Donald Trump,44,0
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,701,Kamala Harris,49,1
+U. New Hampshire,2.6,Maine,2024-07-23,2024-07-25,701,Donald Trump,51,0
+Redfield & Wilton Strategies,1.8,Nevada,2024-07-22,2024-07-24,435,Kamala Harris,43,1
+Redfield & Wilton Strategies,1.8,Nevada,2024-07-22,2024-07-24,435,Donald Trump,45,0
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-07-22,2024-07-24,851,Kamala Harris,42,1
+Redfield & Wilton Strategies,1.8,Pennsylvania,2024-07-22,2024-07-24,851,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,North Carolina,2024-07-22,2024-07-24,586,Kamala Harris,43,1
+Redfield & Wilton Strategies,1.8,North Carolina,2024-07-22,2024-07-24,586,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,Arizona,2024-07-22,2024-07-24,510,Kamala Harris,43,1
+Redfield & Wilton Strategies,1.8,Arizona,2024-07-22,2024-07-24,510,Donald Trump,46,0
+Redfield & Wilton Strategies,1.8,Florida,2024-07-22,2024-07-24,572,Kamala Harris,39,1
+Redfield & Wilton Strategies,1.8,Florida,2024-07-22,2024-07-24,572,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Georgia,2024-07-22,2024-07-24,1180,Kamala Harris,42,1
+Redfield & Wilton Strategies,1.8,Georgia,2024-07-22,2024-07-24,1180,Donald Trump,47,0
+Redfield & Wilton Strategies,1.8,Michigan,2024-07-22,2024-07-24,512,Kamala Harris,41,1
+Redfield & Wilton Strategies,1.8,Michigan,2024-07-22,2024-07-24,512,Donald Trump,44,0
+Redfield & Wilton Strategies,1.8,Minnesota,2024-07-22,2024-07-24,475,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,Minnesota,2024-07-22,2024-07-24,475,Donald Trump,41,0
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-07-22,2024-07-24,523,Kamala Harris,44,1
+Redfield & Wilton Strategies,1.8,Wisconsin,2024-07-22,2024-07-24,523,Donald Trump,44,0
+Glengariff Group Inc.,1.5,Michigan,2024-07-22,2024-07-24,600,Kamala Harris,41.6,1
+Glengariff Group Inc.,1.5,Michigan,2024-07-22,2024-07-24,600,Donald Trump,41.3,0
+Glengariff Group Inc.,1.5,Michigan,2024-07-22,2024-07-24,600,Donald Trump,42.8,0
+Glengariff Group Inc.,1.5,Michigan,2024-07-22,2024-07-24,600,Donald Trump,40.3,0
+Beacon/Shaw,2.8,Wisconsin,2024-07-22,2024-07-24,1046,Kamala Harris,46,1
+Beacon/Shaw,2.8,Wisconsin,2024-07-22,2024-07-24,1046,Donald Trump,46,0
+Beacon/Shaw,2.8,Wisconsin,2024-07-22,2024-07-24,1046,Kamala Harris,49,1
+Beacon/Shaw,2.8,Wisconsin,2024-07-22,2024-07-24,1046,Donald Trump,50,0
+Beacon/Shaw,2.8,Wisconsin,2024-07-22,2024-07-24,1046,Donald Trump,49,0
+Beacon/Shaw,2.8,Pennsylvania,2024-07-22,2024-07-24,1034,Kamala Harris,45,1
+Beacon/Shaw,2.8,Pennsylvania,2024-07-22,2024-07-24,1034,Donald Trump,43,0
+Beacon/Shaw,2.8,Pennsylvania,2024-07-22,2024-07-24,1034,Kamala Harris,49,1
+Beacon/Shaw,2.8,Pennsylvania,2024-07-22,2024-07-24,1034,Donald Trump,49,0
+Beacon/Shaw,2.8,Pennsylvania,2024-07-22,2024-07-24,1034,Donald Trump,44,0
+Beacon/Shaw,2.8,Minnesota,2024-07-22,2024-07-24,1071,Kamala Harris,47,1
+Beacon/Shaw,2.8,Minnesota,2024-07-22,2024-07-24,1071,Donald Trump,41,0
+Beacon/Shaw,2.8,Minnesota,2024-07-22,2024-07-24,1071,Kamala Harris,52,1
+Beacon/Shaw,2.8,Minnesota,2024-07-22,2024-07-24,1071,Donald Trump,46,0
+Beacon/Shaw,2.8,Minnesota,2024-07-22,2024-07-24,1071,Donald Trump,45,0
+Beacon/Shaw,2.8,Michigan,2024-07-22,2024-07-24,1012,Kamala Harris,43,1
+Beacon/Shaw,2.8,Michigan,2024-07-22,2024-07-24,1012,Donald Trump,45,0
+Beacon/Shaw,2.8,Michigan,2024-07-22,2024-07-24,1012,Kamala Harris,49,1
+Beacon/Shaw,2.8,Michigan,2024-07-22,2024-07-24,1012,Donald Trump,49,0
+Beacon/Shaw,2.8,Michigan,2024-07-22,2024-07-24,1012,Donald Trump,46,0
+Beacon/Shaw,2.8,Michigan,2024-07-22,2024-07-24,1012,Donald Trump,48,0
+Emerson,2.9,Arizona,2024-07-22,2024-07-23,800,Kamala Harris,47.4,1
+Emerson,2.9,Arizona,2024-07-22,2024-07-23,800,Donald Trump,52.6,0
+Emerson,2.9,Arizona,2024-07-22,2024-07-23,800,Kamala Harris,39.8,1
+Emerson,2.9,Arizona,2024-07-22,2024-07-23,800,Donald Trump,47.5,0
+Emerson,2.9,Georgia,2024-07-22,2024-07-23,800,Kamala Harris,48.9,1
+Emerson,2.9,Georgia,2024-07-22,2024-07-23,800,Donald Trump,51.1,0
+Emerson,2.9,Georgia,2024-07-22,2024-07-23,800,Kamala Harris,43.3,1
+Emerson,2.9,Georgia,2024-07-22,2024-07-23,800,Donald Trump,45.9,0
+Emerson,2.9,Michigan,2024-07-22,2024-07-23,800,Kamala Harris,49.1,1
+Emerson,2.9,Michigan,2024-07-22,2024-07-23,800,Donald Trump,50.9,0
+Emerson,2.9,Michigan,2024-07-22,2024-07-23,800,Kamala Harris,43.8,1
+Emerson,2.9,Michigan,2024-07-22,2024-07-23,800,Donald Trump,44.1,0
+Emerson,2.9,Wisconsin,2024-07-22,2024-07-23,845,Kamala Harris,50.6,1
+Emerson,2.9,Wisconsin,2024-07-22,2024-07-23,845,Donald Trump,49.4,0
+Emerson,2.9,Wisconsin,2024-07-22,2024-07-23,845,Kamala Harris,45.4,1
+Emerson,2.9,Wisconsin,2024-07-22,2024-07-23,845,Donald Trump,44.9,0
+Emerson,2.9,Pennsylvania,2024-07-22,2024-07-23,850,Kamala Harris,48.9,1
+Emerson,2.9,Pennsylvania,2024-07-22,2024-07-23,850,Donald Trump,51.1,0
+Emerson,2.9,Pennsylvania,2024-07-22,2024-07-23,850,Kamala Harris,44.3,1
+Emerson,2.9,Pennsylvania,2024-07-22,2024-07-23,850,Donald Trump,46.1,0
+Landmark Communications,2.1,Georgia,2024-07-22,2024-07-22,400,Kamala Harris,46.7,1
+Landmark Communications,2.1,Georgia,2024-07-22,2024-07-22,400,Donald Trump,48,0
+Landmark Communications,2.1,Georgia,2024-07-22,2024-07-22,400,Kamala Harris,44.3,1
+Landmark Communications,2.1,Georgia,2024-07-22,2024-07-22,400,Donald Trump,45.8,0
